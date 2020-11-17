@@ -13,53 +13,53 @@ msgstr ""
 "X-Crowdin-File: /main/l10n/youtube/subtitles/part1/subs.pot\n"
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2020-11-17 12:01\n"
+"PO-Revision-Date: 2020-11-17 12:10\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
 msgid "hi my name is james and this is a"
-msgstr ""
+msgstr "Hola, mi nombre es James y esto es un"
 
 #. visible for 3 seconds
 #: 00:00:02.720--%3E00:00:06.560
 msgid "cardano starter kit"
-msgstr ""
+msgstr "Cardano Starter Kit"
 
 #. visible for 4 seconds
 #: 00:00:04.240--%3E00:00:08.559
 msgid "thanks for checking it out the name of"
-msgstr ""
+msgstr "Gracias por echarnos un vistazo, El nombre de"
 
 #. visible for 4 seconds
 #: 00:00:06.559--%3E00:00:10.638
 msgid "this starter kit is how to talk about"
-msgstr ""
+msgstr "este starter kit es"
 
 #. visible for 4 seconds
 #: 00:00:08.558--%3E00:00:12.558
 msgctxt "00:00:08.558-->00:00:12.558"
 msgid "cardano with your friends and family"
-msgstr ""
+msgstr "\"Cómo hablar de Cardano con tu familia y amigos\""
 
 #. visible for 3 seconds
 #: 00:00:10.638--%3E00:00:14.079
 msgid "and if you're thinking wow that's a"
-msgstr ""
+msgstr "y si estás pensando \"wow\" eso es"
 
 #. visible for 3 seconds
 #: 00:00:12.558--%3E00:00:16.239
 msgid "pretty presumptuous title"
-msgstr ""
+msgstr "un título bastante presuntuoso"
 
 #. visible for 3 seconds
 #: 00:00:14.080--%3E00:00:17.278
 msgid "you're exactly right i want to get"
-msgstr ""
+msgstr "estás en lo correcto."
 
 #. visible for 3 seconds
 #: 00:00:16.239--%3E00:00:20.159
 msgid "something clear"
-msgstr ""
+msgstr "estás en lo correcto."
 
 #. visible for 4 seconds
 #: 00:00:17.278--%3E00:00:22.160
@@ -3119,7 +3119,7 @@ msgstr ""
 #: 00:21:58.319--%3E00:22:03.038
 msgctxt "00:21:58.319-->00:22:03.038"
 msgid "cardano with your friends and family"
-msgstr ""
+msgstr "\"Cómo hablar de Cardano con tu familia y amigos\""
 
 #. visible for 3 seconds
 #: 00:22:01.119--%3E00:22:05.038
