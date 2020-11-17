@@ -13,17 +13,17 @@ msgstr ""
 "X-Crowdin-File: /main/l10n/youtube/subtitles/part1/subs.pot\n"
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2020-11-17 12:01\n"
+"PO-Revision-Date: 2020-11-17 13:37\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
 msgid "hi my name is james and this is a"
-msgstr "Hola, mi nombre es James y esto es un"
+msgstr "Hi, my name is James and this is"
 
 #. visible for 3 seconds
 #: 00:00:02.720--%3E00:00:06.560
 msgid "cardano starter kit"
-msgstr "un Cardano Starter Kit"
+msgstr "a Cardano Starter Kit"
 
 #. visible for 4 seconds
 #: 00:00:04.240--%3E00:00:08.559
