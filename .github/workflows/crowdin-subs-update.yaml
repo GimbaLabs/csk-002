@@ -1,8 +1,8 @@
 name: l10n-subs-update
 on:
   push:
-#    branches:
-#    - main
+    branches:
+    - main
     paths:
     - 'l10n/**/*.po'
 
