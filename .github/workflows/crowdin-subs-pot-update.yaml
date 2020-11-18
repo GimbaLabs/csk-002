@@ -27,7 +27,7 @@ jobs:
         echo "::set-output name=GIT_PUSH_BRANCH::${GIT_PUSH_BRANCH}"
         echo "::set-output name=GIT_USER::${GIT_USER}"
         echo "::set-output name=GIT_EMAIL::${GIT_EMAIL}"
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v2
       with:
         ref: ${{ steps.metadata.outputs.GIT_PUSH_BRANCH }}
     - name: 
