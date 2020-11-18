@@ -22,6 +22,7 @@ jobs:
     - name: 
       run: |
         set -x
+        ls -hal
         for file in ${POT_FILES}
         do
           cp -a $(dirname ${file})/${BASE_LOCALE}.po ${file}
