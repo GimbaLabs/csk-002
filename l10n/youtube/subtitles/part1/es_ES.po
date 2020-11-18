@@ -1,0 +1,4447 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: gl-csk002-video-part1\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: gl-csk002-video-part1\n"
+"X-Crowdin-Project-ID: 429020\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /main/l10n/youtube/subtitles/part1/subs.pot\n"
+"X-Crowdin-File-ID: 36\n"
+"Language-Team: Spanish\n"
+"PO-Revision-Date: 2020-11-17 13:37\n"
+
+#. visible for 3 seconds
+#: 00:00:00.560--%3E00:00:04.240
+msgid "hi my name is james and this is a"
+msgstr "Hola, mi nombre es James y esto es un"
+
+#. visible for 3 seconds
+#: 00:00:02.720--%3E00:00:06.560
+msgid "cardano starter kit"
+msgstr "Cardano Starter Kit"
+
+#. visible for 4 seconds
+#: 00:00:04.240--%3E00:00:08.559
+msgid "thanks for checking it out the name of"
+msgstr "Gracias por echarnos un vistazo, El nombre de"
+
+#. visible for 4 seconds
+#: 00:00:06.559--%3E00:00:10.638
+msgid "this starter kit is how to talk about"
+msgstr "este starter kit es"
+
+#. visible for 4 seconds
+#: 00:00:08.558--%3E00:00:12.558
+msgctxt "00:00:08.558-->00:00:12.558"
+msgid "cardano with your friends and family"
+msgstr "\"Cómo hablar de Cardano con tu familia y amigos\""
+
+#. visible for 3 seconds
+#: 00:00:10.638--%3E00:00:14.079
+msgid "and if you're thinking wow that's a"
+msgstr "y si estás pensando \"wow\" eso es"
+
+#. visible for 3 seconds
+#: 00:00:12.558--%3E00:00:16.239
+msgid "pretty presumptuous title"
+msgstr "un título bastante presuntuoso"
+
+#. visible for 3 seconds
+#: 00:00:14.080--%3E00:00:17.278
+msgid "you're exactly right i want to get"
+msgstr "estás en lo correcto."
+
+#. visible for 3 seconds
+#: 00:00:16.239--%3E00:00:20.159
+msgid "something clear"
+msgstr "estás en lo correcto."
+
+#. visible for 4 seconds
+#: 00:00:17.278--%3E00:00:22.160
+msgid "i'm not an expert on this i'm on this"
+msgstr "no soy un experto en esto estoy en esto"
+
+#. visible for 3 seconds
+#: 00:00:20.160--%3E00:00:23.679
+msgid "journey too and i want to figure out how"
+msgstr "viaje también y quiero averiguar cómo"
+
+#. visible for 4 seconds
+#: 00:00:22.160--%3E00:00:26.800
+msgid "to get better at this"
+msgstr "para mejorar en esto"
+
+#. visible for 4 seconds
+#: 00:00:23.679--%3E00:00:28.559
+msgid "and if i do this starter kit right"
+msgstr "y si hago este kit de inicio derecho"
+
+#. visible for 3 seconds
+#: 00:00:26.800--%3E00:00:30.640
+msgid "you're going to have your own ideas at"
+msgstr "vas a tener tus propias ideas en"
+
+#. visible for 3 seconds
+#: 00:00:28.559--%3E00:00:31.919
+msgid "the end of it for how you want to talk"
+msgstr "el final de él para cómo quieres hablar"
+
+#. visible for 3 seconds
+#: 00:00:30.640--%3E00:00:34.079
+msgid "about cardano"
+msgstr "sobre cardano"
+
+#. visible for 3 seconds
+#: 00:00:31.920--%3E00:00:35.200
+msgid "for how you want to address different"
+msgstr "para saber cómo quieres dirigirte a diferentes"
+
+#. visible for 3 seconds
+#: 00:00:34.079--%3E00:00:37.520
+msgid "problems than the ones"
+msgstr "problemas que los problemas"
+
+#. visible for 3 seconds
+#: 00:00:35.200--%3E00:00:39.120
+msgid "i want to address okay we're on a"
+msgstr "quiero direccionar okay estamos en un"
+
+#. visible for 3 seconds
+#: 00:00:37.520--%3E00:00:40.719
+msgid "journey together"
+msgstr "viaje juntos"
+
+#. visible for 3 seconds
+#: 00:00:39.119--%3E00:00:42.238
+msgid "i really just want to kind of help get"
+msgstr "realmente solo quiero una especie de ayuda"
+
+#. visible for 4 seconds
+#: 00:00:40.719--%3E00:00:45.439
+msgid "conversations going"
+msgstr "conversaciones en curso"
+
+#. visible for 4 seconds
+#: 00:00:42.238--%3E00:00:46.878
+msgid "and then get out of the way now i happen"
+msgstr "y luego salir del camino ahora que me pasa"
+
+#. visible for 4 seconds
+#: 00:00:45.439--%3E00:00:50.320
+msgid "to be a teacher"
+msgstr "para ser profesor"
+
+#. visible for 6 seconds
+#: 00:00:46.878--%3E00:00:53.439
+msgid "we all have our own domains of expertise"
+msgstr "todos tenemos nuestros propios dominios de experiencia"
+
+#. visible for 4 seconds
+#: 00:00:50.320--%3E00:00:55.039
+msgid "mine is education and so what i want to"
+msgstr "el mío es educación y por eso lo que quiero"
+
+#. visible for 4 seconds
+#: 00:00:53.439--%3E00:00:58.399
+msgid "do to start this"
+msgstr "hacer para iniciar esto"
+
+#. visible for 5 seconds
+#: 00:00:55.039--%3E00:01:00.079
+msgid "starter kit is is share a few education"
+msgstr "el kit de inicio es compartir algunas educación"
+
+#. visible for 3 seconds
+#: 00:00:58.399--%3E00:01:01.759
+msgid "terms with you if you're not a teacher"
+msgstr "términos contigo si no eres un profesor"
+
+#. visible for 2 seconds
+#: 00:01:00.079--%3E00:01:02.878
+msgid "maybe you don't think about things in"
+msgstr "tal vez no pienses en cosas en"
+
+#. visible for 3 seconds
+#: 00:01:01.759--%3E00:01:05.118
+msgid "these terms"
+msgstr "estos términos"
+
+#. visible for 3 seconds
+#: 00:01:02.878--%3E00:01:06.798
+msgid "but i'm hoping that by throwing these"
+msgstr "pero espero que lanzando estos"
+
+#. visible for 4 seconds
+#: 00:01:05.118--%3E00:01:09.118
+msgid "ideas out there"
+msgstr "ideas ahí fuera"
+
+#. visible for 3 seconds
+#: 00:01:06.799--%3E00:01:10.400
+msgid "these might prompt some line of thinking"
+msgstr "estos podrían generar alguna línea de pensamiento"
+
+#. visible for 3 seconds
+#: 00:01:09.118--%3E00:01:12.478
+msgid "in your mind"
+msgstr "en tu mente"
+
+#. visible for 3 seconds
+#: 00:01:10.400--%3E00:01:14.080
+msgid "and then you can pursue that so i'm"
+msgstr "y entonces puedes perseguir eso así que yo estoy"
+
+#. visible for 3 seconds
+#: 00:01:12.478--%3E00:01:16.000
+msgid "going to share these terms"
+msgstr "compartirá estos términos"
+
+#. visible for 3 seconds
+#: 00:01:14.079--%3E00:01:17.599
+msgid "don't worry too much about remembering"
+msgstr "no te preocupes demasiado por recordar"
+
+#. visible for 4 seconds
+#: 00:01:16.000--%3E00:01:20.400
+msgid "what the words are"
+msgstr "cuáles son las palabras"
+
+#. visible for 4 seconds
+#: 00:01:17.599--%3E00:01:22.239
+msgid "i just want to get some ideas out there"
+msgstr "solo quiero obtener algunas ideas aquí"
+
+#. visible for 4 seconds
+#: 00:01:20.400--%3E00:01:24.960
+msgid "so that we can then use them"
+msgstr "para que podamos utilizarlos"
+
+#. visible for 3 seconds
+#: 00:01:22.239--%3E00:01:26.000
+msgid "as we move through this starter kit if"
+msgstr "mientras nos movemos a través de este kit de inicio si"
+
+#. visible for 3 seconds
+#: 00:01:24.959--%3E00:01:28.798
+msgid "you find any of these"
+msgstr "encuentras cualquiera de estos"
+
+#. visible for 3 seconds
+#: 00:01:26.000--%3E00:01:29.759
+msgid "ideas particularly useful i'm providing"
+msgstr "ideas particularmente útiles que estoy proporcionando"
+
+#. visible for 3 seconds
+#: 00:01:28.799--%3E00:01:32.240
+msgid "some links"
+msgstr "algunos enlaces"
+
+#. visible for 4 seconds
+#: 00:01:29.759--%3E00:01:34.159
+msgid "for following up but you can also join"
+msgstr "por seguir, pero también puedes unirte"
+
+#. visible for 3 seconds
+#: 00:01:32.239--%3E00:01:35.359
+msgid "our conversation in the gimbal labs"
+msgstr "nuestra conversación en los laboratorios de gimnasia"
+
+#. visible for 2 seconds
+#: 00:01:34.159--%3E00:01:36.560
+msgid "discord"
+msgstr "discordia"
+
+#. visible for 3 seconds
+#: 00:01:35.359--%3E00:01:38.959
+msgid "if you want to continue these"
+msgstr "si quieres continuar con estos"
+
+#. visible for 5 seconds
+#: 00:01:36.560--%3E00:01:42.000
+msgid "conversations ask new questions"
+msgstr "las conversaciones hacen nuevas preguntas"
+
+#. visible for 5 seconds
+#: 00:01:38.959--%3E00:01:44.879
+msgid "ask for further resources and so on"
+msgstr "pedir más recursos y así sucesivamente"
+
+#. visible for 4 seconds
+#: 00:01:42.000--%3E00:01:46.478
+msgid "so let's get going project-based"
+msgstr "así que vamos a ir basados en proyectos"
+
+#. visible for 4 seconds
+#: 00:01:44.879--%3E00:01:49.039
+msgid "learning is something that we're really"
+msgstr "aprender es algo que realmente somos"
+
+#. visible for 4 seconds
+#: 00:01:46.478--%3E00:01:51.280
+msgid "big on at gimbal labs and at workshop"
+msgstr "grande en los laboratorios de aparatos y en el taller"
+
+#. visible for 3 seconds
+#: 00:01:49.040--%3E00:01:52.320
+msgid "maybe and it's just based on this idea"
+msgstr "tal vez y sólo se basa en esta idea"
+
+#. visible for 4 seconds
+#: 00:01:51.280--%3E00:01:55.599
+msgid "that people learn"
+msgstr "que la gente aprende"
+
+#. visible for 5 seconds
+#: 00:01:52.319--%3E00:01:57.679
+msgid "best by doing things"
+msgstr "mejor haciendo cosas"
+
+#. visible for 3 seconds
+#: 00:01:55.599--%3E00:01:58.798
+msgid "similar to project-based learning is"
+msgstr "similar al aprendizaje basado en el proyecto es"
+
+#. visible for 3 seconds
+#: 00:01:57.680--%3E00:02:01.200
+msgid "problem-based"
+msgstr "basado en problemas"
+
+#. visible for 4 seconds
+#: 00:01:58.799--%3E00:02:03.200
+msgid "learning we learn best when we have a"
+msgstr "aprender aprendemos mejor cuando tenemos un"
+
+#. visible for 5 seconds
+#: 00:02:01.200--%3E00:02:06.399
+msgid "chance to figure things out"
+msgstr "oportunidad de averiguar cosas"
+
+#. visible for 5 seconds
+#: 00:02:03.200--%3E00:02:09.118
+msgid "for ourselves pbl"
+msgstr "para nosotros mismos pbl"
+
+#. visible for 3 seconds
+#: 00:02:06.399--%3E00:02:10.080
+msgid "is an acronym that's a really convenient"
+msgstr "es un acrónimo que es realmente conveniente"
+
+#. visible for 3 seconds
+#: 00:02:09.118--%3E00:02:12.560
+msgid "catch-all"
+msgstr "catch-all"
+
+#. visible for 3 seconds
+#: 00:02:10.080--%3E00:02:13.680
+msgid "for both of these terms because they're"
+msgstr "para ambos términos porque son"
+
+#. visible for 3 seconds
+#: 00:02:12.560--%3E00:02:16.159
+msgid "connected"
+msgstr "conectado"
+
+#. visible for 3 seconds
+#: 00:02:13.680--%3E00:02:17.200
+msgid "when we work on projects whether it's a"
+msgstr "cuando trabajamos en proyectos si es un"
+
+#. visible for 4 seconds
+#: 00:02:16.159--%3E00:02:21.039
+msgid "home improvement"
+msgstr "mejora de casa"
+
+#. visible for 6 seconds
+#: 00:02:17.199--%3E00:02:23.280
+msgid "project or a business project"
+msgstr "proyecto o proyecto de negocio"
+
+#. visible for 3 seconds
+#: 00:02:21.039--%3E00:02:24.318
+msgid "anything we might want to accomplish out"
+msgstr "cualquier cosa que queramos completar"
+
+#. visible for 3 seconds
+#: 00:02:23.280--%3E00:02:26.800
+msgid "in the world"
+msgstr "en el mundo"
+
+#. visible for 4 seconds
+#: 00:02:24.318--%3E00:02:28.799
+msgid "we run into problems this is what"
+msgstr "nos encontramos con problemas esto es lo que"
+
+#. visible for 3 seconds
+#: 00:02:26.800--%3E00:02:30.640
+msgid "software development is all about right"
+msgstr "el desarrollo de software es correcto"
+
+#. visible for 3 seconds
+#: 00:02:28.800--%3E00:02:32.560
+msgid "we run into problems that we then have"
+msgstr "nos encontramos con problemas que luego tenemos"
+
+#. visible for 4 seconds
+#: 00:02:30.639--%3E00:02:34.799
+msgid "to figure out new things"
+msgstr "averiguar cosas nuevas"
+
+#. visible for 3 seconds
+#: 00:02:32.560--%3E00:02:36.159
+msgid "and that's how we develop expertise so"
+msgstr "y así es como desarrollamos experiencia así"
+
+#. visible for 3 seconds
+#: 00:02:34.800--%3E00:02:38.480
+msgid "there's always this give and take"
+msgstr "siempre hay este regalo y tomar"
+
+#. visible for 5 seconds
+#: 00:02:36.159--%3E00:02:41.359
+msgid "between the project i want to complete"
+msgstr "entre el proyecto que quiero completar"
+
+#. visible for 5 seconds
+#: 00:02:38.479--%3E00:02:43.518
+msgid "the problems that emerge and how i learn"
+msgstr "los problemas que surgen y cómo aprendo"
+
+#. visible for 4 seconds
+#: 00:02:41.360--%3E00:02:45.920
+msgid "from both of those things"
+msgstr "de ambas cosas"
+
+#. visible for 3 seconds
+#: 00:02:43.519--%3E00:02:46.719
+msgid "so when i use the acronym pbl i'm kind"
+msgstr "así que cuando uso el acrónimo pbl soy tipo"
+
+#. visible for 3 seconds
+#: 00:02:45.919--%3E00:02:49.039
+msgid "of talking about"
+msgstr "de hablar de"
+
+#. visible for 3 seconds
+#: 00:02:46.719--%3E00:02:50.159
+msgid "both of these things at the same time"
+msgstr "ambas cosas al mismo tiempo"
+
+#. visible for 3 seconds
+#: 00:02:49.039--%3E00:02:52.400
+msgid "now"
+msgstr "ahora"
+
+#. visible for 4 seconds
+#: 00:02:50.159--%3E00:02:54.479
+msgid "whether we're talking about students or"
+msgstr "ya estemos hablando de estudiantes o"
+
+#. visible for 4 seconds
+#: 00:02:52.400--%3E00:02:56.560
+msgid "just grown-ups in the real world trying"
+msgstr "simplemente crecimientos en el mundo real intentando"
+
+#. visible for 5 seconds
+#: 00:02:54.479--%3E00:02:59.679
+msgid "to accomplish real things"
+msgstr "para lograr cosas reales"
+
+#. visible for 5 seconds
+#: 00:02:56.560--%3E00:03:01.598
+msgid "pbl gives us the opportunity to practice"
+msgstr "pbl nos da la oportunidad de practicar"
+
+#. visible for 5 seconds
+#: 00:02:59.680--%3E00:03:04.959
+msgid "collaboration"
+msgstr "colaboración"
+
+#. visible for 5 seconds
+#: 00:03:01.598--%3E00:03:06.719
+msgid "and exec executive functioning okay"
+msgstr "y ejecutivos que funcionan correctamente"
+
+#. visible for 4 seconds
+#: 00:03:04.959--%3E00:03:09.199
+msgid "executive functioning is just planning"
+msgstr "el funcionamiento ejecutivo está planeando"
+
+#. visible for 4 seconds
+#: 00:03:06.719--%3E00:03:11.199
+msgid "and execution how do you set priorities"
+msgstr "y ejecución cómo establecer prioridades"
+
+#. visible for 3 seconds
+#: 00:03:09.199--%3E00:03:12.799
+msgid "how do you make plans what do you need"
+msgstr "cómo hacer planes qué necesitas"
+
+#. visible for 4 seconds
+#: 00:03:11.199--%3E00:03:15.598
+msgid "to do to get the job done"
+msgstr "hacer para terminar el trabajo"
+
+#. visible for 3 seconds
+#: 00:03:12.800--%3E00:03:16.319
+msgid "and of course uh to solve most great"
+msgstr "y, por supuesto, uh para resolver la mayoría de los grandes"
+
+#. visible for 2 seconds
+#: 00:03:15.598--%3E00:03:17.840
+msgctxt "00:03:15.598-->00:03:17.840"
+msgid "problems"
+msgstr "problemas"
+
+#. visible for 4 seconds
+#: 00:03:16.318--%3E00:03:20.639
+msgid "you need a team you need to be able to"
+msgstr "necesitas un equipo que necesitas para poder"
+
+#. visible for 5 seconds
+#: 00:03:17.840--%3E00:03:23.360
+msgid "collaborate with people"
+msgstr "colaborar con personas"
+
+#. visible for 4 seconds
+#: 00:03:20.639--%3E00:03:25.598
+msgid "teachers are always paying attention to"
+msgstr "los profesores siempre están prestando atención a"
+
+#. visible for 5 seconds
+#: 00:03:23.360--%3E00:03:28.480
+msgid "formative assessment this is not like"
+msgstr "evaluación formativa que no es como"
+
+#. visible for 3 seconds
+#: 00:03:25.598--%3E00:03:29.518
+msgid "taking the sats or a big exam at the end"
+msgstr "tomando los sats o un gran examen al final"
+
+#. visible for 3 seconds
+#: 00:03:28.479--%3E00:03:31.598
+msgid "of the year"
+msgstr "del año"
+
+#. visible for 3 seconds
+#: 00:03:29.519--%3E00:03:33.439
+msgid "formative assessment happens all the"
+msgstr "la evaluación formativa ocurre todo el"
+
+#. visible for 3 seconds
+#: 00:03:31.598--%3E00:03:35.439
+msgid "time and the point is"
+msgstr "la hora y el punto es"
+
+#. visible for 3 seconds
+#: 00:03:33.439--%3E00:03:36.560
+msgid "never to call students out on what they"
+msgstr "nunca para llamar a los estudiantes sobre lo que ellos"
+
+#. visible for 4 seconds
+#: 00:03:35.439--%3E00:03:39.439
+msgid "do or don't know"
+msgstr "hacer o no saber"
+
+#. visible for 4 seconds
+#: 00:03:36.560--%3E00:03:40.719
+msgid "it's for teachers to find out what"
+msgstr "es para los profesores averiguar qué es lo que"
+
+#. visible for 3 seconds
+#: 00:03:39.439--%3E00:03:43.199
+msgid "students know"
+msgstr "los estudiantes saben"
+
+#. visible for 3 seconds
+#: 00:03:40.719--%3E00:03:44.000
+msgid "so that teachers can help their students"
+msgstr "para que los profesores puedan ayudar a sus estudiantes"
+
+#. visible for 4 seconds
+#: 00:03:43.199--%3E00:03:47.598
+msgid "take the next"
+msgstr "tomar el siguiente"
+
+#. visible for 4 seconds
+#: 00:03:44.000--%3E00:03:48.400
+msgid "step the teacher's responsibility then"
+msgstr "pisar la responsabilidad del profesor entonces"
+
+#. visible for 3 seconds
+#: 00:03:47.598--%3E00:03:51.439
+msgid "is to provide"
+msgstr "es proporcionar"
+
+#. visible for 4 seconds
+#: 00:03:48.400--%3E00:03:53.120
+msgid "scaffolding based on what i know about"
+msgstr "andamio basado en lo que conozco"
+
+#. visible for 4 seconds
+#: 00:03:51.439--%3E00:03:55.840
+msgid "these learners"
+msgstr "estos estudiantes"
+
+#. visible for 4 seconds
+#: 00:03:53.120--%3E00:03:58.000
+msgid "how can i help them understand what"
+msgstr "cómo puedo ayudarles a entender qué"
+
+#. visible for 5 seconds
+#: 00:03:55.840--%3E00:04:01.039
+msgid "their next few steps might be"
+msgstr "sus próximos pasos podrían ser"
+
+#. visible for 5 seconds
+#: 00:03:58.000--%3E00:04:03.680
+msgid "i'm going to provide scaffolding to help"
+msgstr "voy a proporcionar un andamio para ayudar"
+
+#. visible for 5 seconds
+#: 00:04:01.039--%3E00:04:06.158
+msgid "people along their journey of course"
+msgstr "gente a lo largo de su viaje, por supuesto"
+
+#. visible for 5 seconds
+#: 00:04:03.680--%3E00:04:09.200
+msgid "this doesn't happen all at once"
+msgstr "esto no sucede todo a la vez"
+
+#. visible for 5 seconds
+#: 00:04:06.158--%3E00:04:11.679
+msgid "but if we work hard at it and if we"
+msgstr "pero si trabajamos duro en él y si nosotros"
+
+#. visible for 3 seconds
+#: 00:04:09.199--%3E00:04:13.039
+msgid "iterate between formative assessment and"
+msgstr "iterar entre la evaluación formativa y"
+
+#. visible for 3 seconds
+#: 00:04:11.680--%3E00:04:15.280
+msgid "scaffolding"
+msgstr "andamio"
+
+#. visible for 4 seconds
+#: 00:04:13.039--%3E00:04:17.039
+msgid "what we're going to eventually do is"
+msgstr "lo que finalmente vamos a hacer es"
+
+#. visible for 4 seconds
+#: 00:04:15.280--%3E00:04:19.439
+msgid "provide people with more"
+msgstr "proporcionar a la gente más"
+
+#. visible for 4 seconds
+#: 00:04:17.040--%3E00:04:21.040
+msgid "agency and that's really my number one"
+msgstr "y eso es realmente mi número uno"
+
+#. visible for 5 seconds
+#: 00:04:19.439--%3E00:04:25.040
+msgid "goal as a teacher"
+msgstr "meta como profesor"
+
+#. visible for 4 seconds
+#: 00:04:21.040--%3E00:04:25.919
+msgid "anytime i teach i judge the lesson to be"
+msgstr "cada vez que enseño que juzgo la lección"
+
+#. visible for 4 seconds
+#: 00:04:25.040--%3E00:04:29.199
+msgid "successful"
+msgstr "exitoso"
+
+#. visible for 5 seconds
+#: 00:04:25.918--%3E00:04:31.519
+msgid "if people go away from it having more"
+msgstr "si la gente desaparece teniendo más"
+
+#. visible for 4 seconds
+#: 00:04:29.199--%3E00:04:34.000
+msgid "ability to make their own decisions"
+msgstr "capacidad para tomar sus propias decisiones"
+
+#. visible for 3 seconds
+#: 00:04:31.519--%3E00:04:34.959
+msgid "more ability to define what their next"
+msgstr "más capacidad para definir qué será su siguiente"
+
+#. visible for 3 seconds
+#: 00:04:34.000--%3E00:04:37.759
+msgid "steps are"
+msgstr "pasos son"
+
+#. visible for 3 seconds
+#: 00:04:34.959--%3E00:04:38.638
+msgid "ideas that they're really excited to"
+msgstr "ideas con las que están realmente entusiasmados"
+
+#. visible for 4 seconds
+#: 00:04:37.759--%3E00:04:42.720
+msgid "follow through"
+msgstr "seguir"
+
+#. visible for 5 seconds
+#: 00:04:38.639--%3E00:04:44.160
+msgid "on that's what learning is all about"
+msgstr "en eso es sobre lo que se aprende"
+
+#. visible for 3 seconds
+#: 00:04:42.720--%3E00:04:45.919
+msgid "so wrapped up in this is this"
+msgstr "tan envuelto en esto es esto"
+
+#. visible for 5 seconds
+#: 00:04:44.160--%3E00:04:49.439
+msgid "distinction between intrinsic and"
+msgstr "distinción entre intrínseco y"
+
+#. visible for 6 seconds
+#: 00:04:45.918--%3E00:04:52.478
+msgid "extrinsic motivation right grades are"
+msgstr "los grados rectos de motivación extrínseca son"
+
+#. visible for 5 seconds
+#: 00:04:49.439--%3E00:04:54.560
+msgid "extrinsic motivators kind of like the"
+msgstr "motivadores extrínsecos como el"
+
+#. visible for 2 seconds
+#: 00:04:52.478--%3E00:04:55.199
+msgid "token value of cardano if you think"
+msgstr "valor de token de cardano si lo cree"
+
+#. visible for 3 seconds
+#: 00:04:54.560--%3E00:04:57.918
+msgid "about it"
+msgstr "sobre él"
+
+#. visible for 4 seconds
+#: 00:04:55.199--%3E00:04:59.439
+msgid "right extrinsic motivation these these"
+msgstr "motivación extrínseca correcta estos"
+
+#. visible for 4 seconds
+#: 00:04:57.918--%3E00:05:02.319
+msgid "these carrots and sticks"
+msgstr "estas zanahorias y palos"
+
+#. visible for 4 seconds
+#: 00:04:59.439--%3E00:05:03.519
+msgid "out in the world versus intrinsic"
+msgstr "fuera en el mundo contra intrínseco"
+
+#. visible for 3 seconds
+#: 00:05:02.319--%3E00:05:06.000
+msgid "motivation"
+msgstr "motivación"
+
+#. visible for 3 seconds
+#: 00:05:03.519--%3E00:05:06.639
+msgid "which is the feeling that oh i can't"
+msgstr "que es la sensación que oh no puedo"
+
+#. visible for 3 seconds
+#: 00:05:06.000--%3E00:05:09.439
+msgid "resist"
+msgstr "resistir"
+
+#. visible for 3 seconds
+#: 00:05:06.639--%3E00:05:10.560
+msgid "doing the next thing i want to see this"
+msgstr "haciendo lo siguiente que quiero ver"
+
+#. visible for 4 seconds
+#: 00:05:09.439--%3E00:05:13.439
+msgid "project through"
+msgstr "proyecto a través de"
+
+#. visible for 4 seconds
+#: 00:05:10.560--%3E00:05:15.199
+msgid "i want to solve this problem because it"
+msgstr "quiero resolver este problema porque es"
+
+#. visible for 4 seconds
+#: 00:05:13.439--%3E00:05:17.680
+msgid "matters to me"
+msgstr "me importa"
+
+#. visible for 4 seconds
+#: 00:05:15.199--%3E00:05:19.360
+msgid "and finally one more distinction between"
+msgstr "y, finalmente, una distinción más entre"
+
+#. visible for 3 seconds
+#: 00:05:17.680--%3E00:05:20.800
+msgid "teaching and learning i touched on this"
+msgstr "enseñar y aprender me tocó esto"
+
+#. visible for 5 seconds
+#: 00:05:19.360--%3E00:05:24.639
+msgid "a little bit"
+msgstr "un poco"
+
+#. visible for 6 seconds
+#: 00:05:20.800--%3E00:05:27.439
+msgid "but the focus for all teachers has to be"
+msgstr "pero el enfoque para todos los profesores tiene que ser"
+
+#. visible for 4 seconds
+#: 00:05:24.639--%3E00:05:28.720
+msgid "how much are people learning not how"
+msgstr "cuánto están aprendiendo las personas no cómo"
+
+#. visible for 4 seconds
+#: 00:05:27.439--%3E00:05:31.839
+msgid "smart do i sound"
+msgstr "sonido inteligente de do"
+
+#. visible for 4 seconds
+#: 00:05:28.720--%3E00:05:32.720
+msgid "not how many of my ideas can i throw out"
+msgstr "no cuántas de mis ideas puedo tirar"
+
+#. visible for 3 seconds
+#: 00:05:31.839--%3E00:05:34.879
+msgid "there to the world"
+msgstr "allá al mundo"
+
+#. visible for 3 seconds
+#: 00:05:32.720--%3E00:05:36.320
+msgid "but how much are people really"
+msgstr "pero cuánto son realmente las personas"
+
+#. visible for 4 seconds
+#: 00:05:34.879--%3E00:05:38.879
+msgid "understanding"
+msgstr "comprendiendo"
+
+#. visible for 4 seconds
+#: 00:05:36.319--%3E00:05:40.560
+msgid "and this is an ongoing thing in teaching"
+msgstr "y esto es algo continuo en la enseñanza"
+
+#. visible for 4 seconds
+#: 00:05:38.879--%3E00:05:42.959
+msgid "if you walk into any school"
+msgstr "si entra en alguna escuela"
+
+#. visible for 4 seconds
+#: 00:05:40.560--%3E00:05:44.720
+msgid "you're going to see teachers on opposite"
+msgstr "vas a ver a los maestros enfrente"
+
+#. visible for 2 seconds
+#: 00:05:42.959--%3E00:05:45.839
+msgid "ends and everywhere in between of this"
+msgstr "termina y en todas partes entre esto"
+
+#. visible for 2 seconds
+#: 00:05:44.720--%3E00:05:47.600
+msgid "continuum"
+msgstr "continuo"
+
+#. visible for 4 seconds
+#: 00:05:45.839--%3E00:05:50.079
+msgid "between thinking teaching is about them"
+msgstr "entre pensar que la enseñanza es sobre ellos"
+
+#. visible for 6 seconds
+#: 00:05:47.600--%3E00:05:53.600
+msgid "standing up and delivering content"
+msgstr "levantarse y entregar contenido"
+
+#. visible for 5 seconds
+#: 00:05:50.079--%3E00:05:55.599
+msgid "and students actually understanding"
+msgstr "y los estudiantes realmente entienden"
+
+#. visible for 3 seconds
+#: 00:05:53.600--%3E00:05:57.120
+msgid "things i've had a lot of good arguments"
+msgstr "cosas que he tenido muchos buenos argumentos"
+
+#. visible for 3 seconds
+#: 00:05:55.600--%3E00:05:59.120
+msgid "about this over the years but i come"
+msgstr "sobre esto a lo largo de los años pero vengo"
+
+#. visible for 5 seconds
+#: 00:05:57.120--%3E00:06:02.240
+msgid "down pretty strongly on the end"
+msgstr "bastante fuerte al final"
+
+#. visible for 3 seconds
+#: 00:05:59.120--%3E00:06:02.879
+msgid "that it's not about me it's about how"
+msgstr "que no se trata de mí es de cómo"
+
+#. visible for 4 seconds
+#: 00:06:02.240--%3E00:06:06.240
+msgid "much"
+msgstr "mucho"
+
+#. visible for 5 seconds
+#: 00:06:02.879--%3E00:06:08.000
+msgid "other people can understand you can let"
+msgstr "otras personas pueden entender que usted puede dejar"
+
+#. visible for 5 seconds
+#: 00:06:06.240--%3E00:06:11.759
+msgid "me know if it's working for this starter"
+msgstr "sé si está funcionando para este inicio"
+
+#. visible for 6 seconds
+#: 00:06:08.000--%3E00:06:14.319
+msgid "kit okay i encourage your participation"
+msgstr "kit okay animo tu participación"
+
+#. visible for 3 seconds
+#: 00:06:11.759--%3E00:06:15.520
+msgid "so to summarize teaching is only"
+msgstr "así que resumir la enseñanza es sólo"
+
+#. visible for 3 seconds
+#: 00:06:14.319--%3E00:06:18.080
+msgid "effective"
+msgstr "efectivo"
+
+#. visible for 3 seconds
+#: 00:06:15.519--%3E00:06:19.038
+msgid "if it leads to learning and as teachers"
+msgstr "si conduce al aprendizaje y como profesores"
+
+#. visible for 2 seconds
+#: 00:06:18.079--%3E00:06:20.719
+msgid "our role"
+msgstr "nuestro rol"
+
+#. visible for 3 seconds
+#: 00:06:19.038--%3E00:06:22.159
+msgid "is to think about the people that we're"
+msgstr "es pensar en las personas que somos"
+
+#. visible for 3 seconds
+#: 00:06:20.720--%3E00:06:24.319
+msgid "trying to connect with"
+msgstr "intentando conectar con"
+
+#. visible for 3 seconds
+#: 00:06:22.160--%3E00:06:25.600
+msgid "and find the right projects find the"
+msgstr "y encontrar los proyectos adecuados para encontrar el"
+
+#. visible for 3 seconds
+#: 00:06:24.319--%3E00:06:27.680
+msgid "right problems"
+msgstr "problemas correctos"
+
+#. visible for 3 seconds
+#: 00:06:25.600--%3E00:06:29.439
+msgid "find the right metaphors and find the"
+msgstr "encontrar las metáforas correctas y encontrar las"
+
+#. visible for 4 seconds
+#: 00:06:27.680--%3E00:06:32.319
+msgid "right stories to tell"
+msgstr "historias correctas a contar"
+
+#. visible for 4 seconds
+#: 00:06:29.439--%3E00:06:33.680
+msgid "so we can help people take the next step"
+msgstr "así podemos ayudar a la gente a dar el siguiente paso"
+
+#. visible for 3 seconds
+#: 00:06:32.319--%3E00:06:35.919
+msgid "on their journey"
+msgstr "en su viaje"
+
+#. visible for 5 seconds
+#: 00:06:33.680--%3E00:06:38.720
+msgid "understand the next thing that they"
+msgstr "entender lo siguiente que ellos"
+
+#. visible for 6 seconds
+#: 00:06:35.918--%3E00:06:42.478
+msgid "didn't understand before"
+msgstr "no entendía antes"
+
+#. visible for 6 seconds
+#: 00:06:38.720--%3E00:06:45.039
+msgid "so let's apply this to cardano"
+msgstr "así que apliquemos esto a la tarjeta"
+
+#. visible for 4 seconds
+#: 00:06:42.478--%3E00:06:46.639
+msgid "over the last few months i've really"
+msgstr "en los últimos meses i've realmente"
+
+#. visible for 3 seconds
+#: 00:06:45.038--%3E00:06:48.639
+msgid "started to recognize"
+msgstr "comenzó a reconocer"
+
+#. visible for 4 seconds
+#: 00:06:46.639--%3E00:06:50.960
+msgid "that preparing for a conversation with"
+msgstr "que se prepara para una conversación con"
+
+#. visible for 5 seconds
+#: 00:06:48.639--%3E00:06:53.840
+msgid "my friends or with my family"
+msgstr "mis amigos o con mi familia"
+
+#. visible for 4 seconds
+#: 00:06:50.959--%3E00:06:55.758
+msgid "is similar to how i plan to teach a"
+msgstr "es similar a cómo planeo enseñar un"
+
+#. visible for 3 seconds
+#: 00:06:53.839--%3E00:06:57.679
+msgid "lesson about high school algebra"
+msgstr "lección sobre algoritmos de secundaria"
+
+#. visible for 3 seconds
+#: 00:06:55.759--%3E00:06:59.439
+msgid "okay and so let's think about how a few"
+msgstr "vale, así que pensemos en cómo unos pocos"
+
+#. visible for 3 seconds
+#: 00:06:57.680--%3E00:07:01.439
+msgid "of these things apply"
+msgstr "de estas cosas se aplican"
+
+#. visible for 3 seconds
+#: 00:06:59.439--%3E00:07:03.279
+msgid "to planning for conversations about"
+msgstr "para planear conversaciones sobre"
+
+#. visible for 3 seconds
+#: 00:07:01.439--%3E00:07:05.360
+msgctxt "00:07:01.439-->00:07:05.360"
+msgid "cardano"
+msgstr "cardano"
+
+#. visible for 3 seconds
+#: 00:07:03.279--%3E00:07:06.879
+msgid "first of all planning and conversations"
+msgstr "primero de todos los planes y conversaciones"
+
+#. visible for 3 seconds
+#: 00:07:05.360--%3E00:07:08.400
+msgid "are iterative it's not like you go from"
+msgstr "son iterativos no es como ir de"
+
+#. visible for 2 seconds
+#: 00:07:06.879--%3E00:07:09.279
+msgid "planning then you have a conversation"
+msgstr "planeando entonces tienes una conversación"
+
+#. visible for 3 seconds
+#: 00:07:08.399--%3E00:07:11.598
+msgid "then it's done"
+msgstr "entonces ha terminado"
+
+#. visible for 3 seconds
+#: 00:07:09.279--%3E00:07:13.038
+msgid "right any conversation is going to raise"
+msgstr "derecha cualquier conversación va a levantar"
+
+#. visible for 3 seconds
+#: 00:07:11.598--%3E00:07:15.120
+msgid "new questions for you"
+msgstr "nuevas preguntas para ti"
+
+#. visible for 3 seconds
+#: 00:07:13.038--%3E00:07:16.639
+msgid "it's going to help you recognize things"
+msgstr "va a ayudarte a reconocer cosas"
+
+#. visible for 2 seconds
+#: 00:07:15.120--%3E00:07:17.680
+msgid "that you wish you were better at"
+msgstr "que desees que estés mejor en"
+
+#. visible for 2 seconds
+#: 00:07:16.639--%3E00:07:18.639
+msgid "explaining"
+msgstr "explicando"
+
+#. visible for 3 seconds
+#: 00:07:17.680--%3E00:07:21.199
+msgid "so you're gonna have a chance to"
+msgstr "así que tienes la oportunidad de"
+
+#. visible for 5 seconds
+#: 00:07:18.639--%3E00:07:24.560
+msgid "practice that okay"
+msgstr "practica que está bien"
+
+#. visible for 7 seconds
+#: 00:07:21.199--%3E00:07:28.319
+msgid "it's really important to choose content"
+msgstr "es realmente importante elegir el contenido"
+
+#. visible for 6 seconds
+#: 00:07:24.560--%3E00:07:30.879
+msgid "selectively there are so many"
+msgstr "selectivamente hay tantos"
+
+#. visible for 3 seconds
+#: 00:07:28.319--%3E00:07:32.080
+msgid "opportunities there's so many articles"
+msgstr "hay muchas oportunidades de artículos"
+
+#. visible for 4 seconds
+#: 00:07:30.879--%3E00:07:35.598
+msgid "blog posts"
+msgstr "entradas del blog"
+
+#. visible for 7 seconds
+#: 00:07:32.079--%3E00:07:39.120
+msgid "podcasts videos out there where people"
+msgstr "podcasts videos ahí fuera donde la gente"
+
+#. visible for 6 seconds
+#: 00:07:35.598--%3E00:07:42.560
+msgid "talk about blockchain and cardano"
+msgstr "hablar sobre blockchain y cardano"
+
+#. visible for 5 seconds
+#: 00:07:39.120--%3E00:07:44.879
+msgid "don't just fill up on this content"
+msgstr "no llenar este contenido"
+
+#. visible for 4 seconds
+#: 00:07:42.560--%3E00:07:46.560
+msgid "make sure you have a chance to digest"
+msgstr "asegúrate de tener la oportunidad de digerir"
+
+#. visible for 4 seconds
+#: 00:07:44.879--%3E00:07:49.680
+msgid "what you're consuming"
+msgstr "lo que estás consumiendo"
+
+#. visible for 3 seconds
+#: 00:07:46.560--%3E00:07:50.478
+msgid "make time to think and reflect on the"
+msgstr "hacer tiempo para pensar y reflexionar sobre el"
+
+#. visible for 3 seconds
+#: 00:07:49.680--%3E00:07:53.199
+msgid "ideas"
+msgstr "ideas"
+
+#. visible for 4 seconds
+#: 00:07:50.478--%3E00:07:55.439
+msgid "that you learn and while going back to"
+msgstr "que aprendes y mientras vuelves a"
+
+#. visible for 4 seconds
+#: 00:07:53.199--%3E00:07:58.000
+msgid "this idea of executive functioning right"
+msgstr "esta idea del funcionamiento del ejecutivo"
+
+#. visible for 4 seconds
+#: 00:07:55.439--%3E00:08:00.319
+msgid "don't just watch everything you don't"
+msgstr "no solo ver todo lo que no ves"
+
+#. visible for 5 seconds
+#: 00:07:58.000--%3E00:08:03.519
+msgid "have to keep up on everything"
+msgstr "tienen que seguir todo"
+
+#. visible for 5 seconds
+#: 00:08:00.319--%3E00:08:05.680
+msgid "choose carefully what's relevant to you"
+msgstr "elige cuidadosamente qué es relevante para ti"
+
+#. visible for 4 seconds
+#: 00:08:03.519--%3E00:08:08.399
+msgid "to the people you're trying to connect"
+msgstr "a la gente a la que intentas conectar"
+
+#. visible for 5 seconds
+#: 00:08:05.680--%3E00:08:11.038
+msgid "with our community is growing"
+msgstr "con nuestra comunidad está creciendo"
+
+#. visible for 3 seconds
+#: 00:08:08.399--%3E00:08:12.318
+msgid "right trying to keep up on every podcast"
+msgstr "intenta mantenerse al día en cada podcast"
+
+#. visible for 3 seconds
+#: 00:08:11.038--%3E00:08:14.399
+msgid "is really hard"
+msgstr "es realmente difícil"
+
+#. visible for 4 seconds
+#: 00:08:12.319--%3E00:08:16.400
+msgid "and i'm not going to name the e there's"
+msgstr "y no voy a nombrar la e hay"
+
+#. visible for 3 seconds
+#: 00:08:14.399--%3E00:08:18.318
+msgid "there's there's no way to judge which"
+msgstr "no hay forma de juzgar cuál"
+
+#. visible for 2 seconds
+#: 00:08:16.399--%3E00:08:18.878
+msgid "podcasts are better than the others"
+msgstr "los podcasts son mejores que los demás"
+
+#. visible for 3 seconds
+#: 00:08:18.319--%3E00:08:21.680
+msgid "because"
+msgstr "porque"
+
+#. visible for 3 seconds
+#: 00:08:18.879--%3E00:08:22.800
+msgid "there's no objective measure of that it"
+msgstr "no hay ninguna medida objetiva de eso"
+
+#. visible for 3 seconds
+#: 00:08:21.680--%3E00:08:25.439
+msgid "just depends on"
+msgstr "sólo depende de"
+
+#. visible for 3 seconds
+#: 00:08:22.800--%3E00:08:26.000
+msgid "who you're trying to talk to and what"
+msgstr "con quién estás intentando hablar y con qué"
+
+#. visible for 4 seconds
+#: 00:08:25.439--%3E00:08:29.598
+msgid "you're trying"
+msgstr "estás intentando"
+
+#. visible for 4 seconds
+#: 00:08:26.000--%3E00:08:30.959
+msgid "to accomplish okay but do be selective"
+msgstr "para conseguir algo pero ser selectivo"
+
+#. visible for 4 seconds
+#: 00:08:29.598--%3E00:08:33.679
+msgid "whatever you select"
+msgstr "lo que seleccione"
+
+#. visible for 3 seconds
+#: 00:08:30.959--%3E00:08:34.639
+msgid "do be selective and then make sure you"
+msgstr "sé selectivo y luego asegúrate de que"
+
+#. visible for 3 seconds
+#: 00:08:33.679--%3E00:08:37.199
+msgid "have time"
+msgstr "tener tiempo"
+
+#. visible for 4 seconds
+#: 00:08:34.639--%3E00:08:38.879
+msgid "to think through what you're what you're"
+msgstr "pensar en qué eres lo que eres"
+
+#. visible for 3 seconds
+#: 00:08:37.200--%3E00:08:40.879
+msgid "ingesting what you're consuming from a"
+msgstr "ingeniando lo que estás consumiendo de un"
+
+#. visible for 4 seconds
+#: 00:08:38.879--%3E00:08:43.038
+msgid "media perspective"
+msgstr "perspectiva de medios"
+
+#. visible for 4 seconds
+#: 00:08:40.879--%3E00:08:45.360
+msgid "now conversations help if you've never"
+msgstr "ahora las conversaciones ayudan si nunca has"
+
+#. visible for 5 seconds
+#: 00:08:43.038--%3E00:08:48.159
+msgid "gone to a cardano blockchain meetup"
+msgstr "fue a un encuentro de blockchain de cardano"
+
+#. visible for 4 seconds
+#: 00:08:45.360--%3E00:08:49.519
+msgid "i really recommend going on meetup.com"
+msgstr "recomiendo ir en meetup.com"
+
+#. visible for 4 seconds
+#: 00:08:48.159--%3E00:08:52.319
+msgid "i'll leave a link to it"
+msgstr "dejaré un enlace a él"
+
+#. visible for 5 seconds
+#: 00:08:49.519--%3E00:08:54.959
+msgid "and finding a cardano blockchain meetup"
+msgstr "y encontrar un encuentro de blockchain de cardano"
+
+#. visible for 4 seconds
+#: 00:08:52.320--%3E00:08:56.320
+msgid "that's helpful to you join discord and"
+msgstr "eso es útil para unirte a Discord y"
+
+#. visible for 4 seconds
+#: 00:08:54.958--%3E00:08:59.518
+msgid "telegram channels"
+msgstr "canales telegram"
+
+#. visible for 5 seconds
+#: 00:08:56.320--%3E00:09:01.360
+msgid "try ideas on reddit to see how they go"
+msgstr "prueba ideas en reddit para ver cómo van"
+
+#. visible for 3 seconds
+#: 00:08:59.519--%3E00:09:03.278
+msgid "this is all part and parcel with"
+msgstr "todo esto es parte y paquete con"
+
+#. visible for 2 seconds
+#: 00:09:01.360--%3E00:09:04.000
+msgid "practicing and you're going to discover"
+msgstr "practicando y vas a descubrir"
+
+#. visible for 2 seconds
+#: 00:09:03.278--%3E00:09:06.240
+msgid "the ways"
+msgstr "las vías"
+
+#. visible for 3 seconds
+#: 00:09:04.000--%3E00:09:07.120
+msgid "that make the most sense to you about"
+msgstr "que tienen más sentido para ti"
+
+#. visible for 3 seconds
+#: 00:09:06.240--%3E00:09:09.278
+msgid "how you're going to"
+msgstr "cómo vas a"
+
+#. visible for 4 seconds
+#: 00:09:07.120--%3E00:09:11.440
+msgid "communicate because at the end of the"
+msgstr "comunicarse porque al final del"
+
+#. visible for 5 seconds
+#: 00:09:09.278--%3E00:09:14.320
+msgid "day the little things we do"
+msgstr "día las pequeñas cosas que hacemos"
+
+#. visible for 4 seconds
+#: 00:09:11.440--%3E00:09:15.760
+msgid "all add up i am a firm believer that"
+msgstr "todos suman que soy un firme creyente que"
+
+#. visible for 4 seconds
+#: 00:09:14.320--%3E00:09:18.720
+msgid "small actions"
+msgstr "acciones pequeñas"
+
+#. visible for 5 seconds
+#: 00:09:15.759--%3E00:09:20.799
+msgid "over time lead to greater results than"
+msgstr "con el tiempo llevar a resultados mayores que"
+
+#. visible for 3 seconds
+#: 00:09:18.720--%3E00:09:22.639
+msgid "just grand speculation"
+msgstr "sólo grandes especulaciones"
+
+#. visible for 4 seconds
+#: 00:09:20.799--%3E00:09:25.359
+msgid "is it fun to talk about what cardano's"
+msgstr "es divertido hablar sobre qué cardano"
+
+#. visible for 5 seconds
+#: 00:09:22.639--%3E00:09:27.919
+msgid "going to do over the next few decades"
+msgstr "va a hacer en las próximas décadas"
+
+#. visible for 4 seconds
+#: 00:09:25.360--%3E00:09:30.159
+msgid "absolutely i can daydream about that all"
+msgstr "absolutamente puedo soñar con eso todo"
+
+#. visible for 3 seconds
+#: 00:09:27.919--%3E00:09:31.360
+msgid "day and i can have really high spirited"
+msgstr "día y yo puedo tener un espíritu muy alto"
+
+#. visible for 3 seconds
+#: 00:09:30.159--%3E00:09:33.600
+msgctxt "00:09:30.159-->00:09:33.600"
+msgid "conversations"
+msgstr "conversaciones"
+
+#. visible for 4 seconds
+#: 00:09:31.360--%3E00:09:35.519
+msgid "inside the cardano community about that"
+msgstr "dentro de la comunidad de cardanos sobre eso"
+
+#. visible for 3 seconds
+#: 00:09:33.600--%3E00:09:36.639
+msgid "but if we really want to accomplish"
+msgstr "pero si realmente queremos completar"
+
+#. visible for 2 seconds
+#: 00:09:35.519--%3E00:09:38.320
+msgid "those things"
+msgstr "esas cosas"
+
+#. visible for 3 seconds
+#: 00:09:36.639--%3E00:09:39.759
+msgid "it's not about just having those big"
+msgstr "no se trata de tener esos grandes"
+
+#. visible for 4 seconds
+#: 00:09:38.320--%3E00:09:42.800
+msgid "picture conversations"
+msgstr "conversaciones de imágenes"
+
+#. visible for 6 seconds
+#: 00:09:39.759--%3E00:09:46.480
+msgid "it's about doing what we can do today"
+msgstr "se trata de hacer lo que podemos hacer hoy"
+
+#. visible for 6 seconds
+#: 00:09:42.799--%3E00:09:49.278
+msgid "to move the ball incrementally further"
+msgstr "para mover la bola incrementalmente más allá"
+
+#. visible for 3 seconds
+#: 00:09:46.480--%3E00:09:50.080
+msgid "towards that the other metaphor right"
+msgstr "hacia la otra metáfora derecha"
+
+#. visible for 2 seconds
+#: 00:09:49.278--%3E00:09:52.240
+msgid "it's a marathon"
+msgstr "es un marathon"
+
+#. visible for 3 seconds
+#: 00:09:50.080--%3E00:09:53.600
+msgid "not a sprint we're not gonna just flip"
+msgstr "no es un sprint que no nos gonna simplemente voltear"
+
+#. visible for 3 seconds
+#: 00:09:52.240--%3E00:09:55.519
+msgid "the lights on one day"
+msgstr "las luces de un día"
+
+#. visible for 3 seconds
+#: 00:09:53.600--%3E00:09:56.800
+msgid "gogan's gonna come out right we're"
+msgstr "gonna de gogan, salimos bien nosotros"
+
+#. visible for 4 seconds
+#: 00:09:55.519--%3E00:10:00.399
+msgid "learning about that"
+msgstr "aprendiendo sobre eso"
+
+#. visible for 5 seconds
+#: 00:09:56.799--%3E00:10:02.000
+msgid "right now right that doesn't that's not"
+msgstr "ahora mismo está bien que no es eso"
+
+#. visible for 3 seconds
+#: 00:10:00.399--%3E00:10:04.320
+msgid "the end of the story that's just the"
+msgstr "el final de la historia que es sólo el"
+
+#. visible for 5 seconds
+#: 00:10:02.000--%3E00:10:07.440
+msgid "beginning and we all have work to do"
+msgstr "comenzando y todos tenemos trabajo por hacer"
+
+#. visible for 4 seconds
+#: 00:10:04.320--%3E00:10:08.959
+msgid "on a daily basis one more metaphor"
+msgstr "a diario una metáfora más"
+
+#. visible for 3 seconds
+#: 00:10:07.440--%3E00:10:10.480
+msgid "i love the metaphor of drops in the"
+msgstr "me encanta la metáfora de las gotas en el"
+
+#. visible for 3 seconds
+#: 00:10:08.958--%3E00:10:12.159
+msgid "bucket okay so i'm just listing"
+msgstr "bien el cubo así que sólo voy a listar"
+
+#. visible for 2 seconds
+#: 00:10:10.480--%3E00:10:13.039
+msgid "different ways you can think about it"
+msgstr "diferentes formas de pensar al respecto"
+
+#. visible for 2 seconds
+#: 00:10:12.159--%3E00:10:15.039
+msgid "here"
+msgstr "aqui"
+
+#. visible for 4 seconds
+#: 00:10:13.039--%3E00:10:17.360
+msgid "again you might have a different way"
+msgstr "otra vez podrías tener una manera diferente"
+
+#. visible for 4 seconds
+#: 00:10:15.039--%3E00:10:19.679
+msgid "that you like to think about it"
+msgstr "que te gusta pensar en él"
+
+#. visible for 4 seconds
+#: 00:10:17.360--%3E00:10:22.240
+msgid "that's the most important thing i'm just"
+msgstr "eso es lo más importante que soy sólo"
+
+#. visible for 5 seconds
+#: 00:10:19.679--%3E00:10:24.799
+msgid "throwing a few ideas out there"
+msgstr "arrojando algunas ideas por ahí"
+
+#. visible for 4 seconds
+#: 00:10:22.240--%3E00:10:26.480
+msgid "so here's your task for part one of this"
+msgstr "así que aquí está tu tarea para una parte de esto"
+
+#. visible for 4 seconds
+#: 00:10:24.799--%3E00:10:29.120
+msgctxt "00:10:24.799-->00:10:29.120"
+msgid "starter kit"
+msgstr "kit de inicio"
+
+#. visible for 3 seconds
+#: 00:10:26.480--%3E00:10:30.399
+msgid "i want you to balance content with"
+msgstr "quiero que usted balancee el contenido con"
+
+#. visible for 4 seconds
+#: 00:10:29.120--%3E00:10:33.360
+msgid "reflection"
+msgstr "reflexión"
+
+#. visible for 4 seconds
+#: 00:10:30.399--%3E00:10:35.039
+msgid "watch or listen to any podcast you want"
+msgstr "ver o escuchar cualquier podcast que quieras"
+
+#. visible for 4 seconds
+#: 00:10:33.360--%3E00:10:37.839
+msgid "i'll make some suggestions"
+msgstr "haré algunas sugerencias"
+
+#. visible for 4 seconds
+#: 00:10:35.039--%3E00:10:39.039
+msgid "um later in this starter kit but don't"
+msgstr "um más adelante en este kit de inicio, pero no"
+
+#. visible for 4 seconds
+#: 00:10:37.839--%3E00:10:41.839
+msgid "follow me just"
+msgstr "Sígueme sólo"
+
+#. visible for 3 seconds
+#: 00:10:39.039--%3E00:10:42.559
+msgid "whatever is relevant to you to your"
+msgstr "lo que sea relevante para ti"
+
+#. visible for 4 seconds
+#: 00:10:41.839--%3E00:10:45.839
+msgid "goals"
+msgstr "metas"
+
+#. visible for 6 seconds
+#: 00:10:42.559--%3E00:10:48.879
+msgid "listen to a podcast about that and then"
+msgstr "escuchar un podcast sobre eso y luego"
+
+#. visible for 4 seconds
+#: 00:10:45.839--%3E00:10:49.920
+msgid "walk away put away the earbuds put away"
+msgstr "caminar alejando los auriculares guardados"
+
+#. visible for 3 seconds
+#: 00:10:48.879--%3E00:10:52.799
+msgid "your computer"
+msgstr "tu ordenador"
+
+#. visible for 3 seconds
+#: 00:10:49.919--%3E00:10:53.199
+msgid "whether it's uh you know cooking dinner"
+msgstr "si es uh conoces la cena de cocina"
+
+#. visible for 2 seconds
+#: 00:10:52.799--%3E00:10:55.439
+msgid "or"
+msgstr "o"
+
+#. visible for 3 seconds
+#: 00:10:53.200--%3E00:10:56.800
+msgid "doing some chores going for a walk or"
+msgstr "hacer algunas tareas andando o"
+
+#. visible for 4 seconds
+#: 00:10:55.440--%3E00:11:00.160
+msgid "staring out the window"
+msgstr "saliendo de la ventana"
+
+#. visible for 6 seconds
+#: 00:10:56.799--%3E00:11:03.599
+msgid "whatever step away and spend some time"
+msgstr "sea cual sea el paso lejos y pasar algún tiempo"
+
+#. visible for 6 seconds
+#: 00:11:00.159--%3E00:11:06.719
+msgid "contemplating metaphors or stories"
+msgstr "contemplando metáforas o historias"
+
+#. visible for 6 seconds
+#: 00:11:03.600--%3E00:11:09.759
+msgid "that will help you explain that idea"
+msgstr "que te ayudará a explicar esa idea"
+
+#. visible for 5 seconds
+#: 00:11:06.720--%3E00:11:12.639
+msgid "then practice and iterate"
+msgstr "luego practicar e iterar"
+
+#. visible for 4 seconds
+#: 00:11:09.759--%3E00:11:14.159
+msgid "go have conversations go see how those"
+msgstr "ir a tener conversaciones ver como esas"
+
+#. visible for 5 seconds
+#: 00:11:12.639--%3E00:11:17.838
+msgid "metaphors land"
+msgstr "tierra de metáforas"
+
+#. visible for 6 seconds
+#: 00:11:14.159--%3E00:11:20.319
+msgid "and see if they work out okay finally"
+msgstr "y ver si funcionan bien finalmente"
+
+#. visible for 3 seconds
+#: 00:11:17.839--%3E00:11:21.600
+msgid "make sure to keep your goals in mind one"
+msgstr "asegúrate de tener tus objetivos en cuenta uno"
+
+#. visible for 4 seconds
+#: 00:11:20.320--%3E00:11:24.320
+msgid "of mine is increased"
+msgstr "de mina aumentada"
+
+#. visible for 3 seconds
+#: 00:11:21.600--%3E00:11:25.440
+msgid "agency i want more people to be able to"
+msgstr "agencia que quiero que más personas puedan"
+
+#. visible for 3 seconds
+#: 00:11:24.320--%3E00:11:27.680
+msgid "do more things"
+msgstr "hacer más cosas"
+
+#. visible for 3 seconds
+#: 00:11:25.440--%3E00:11:29.040
+msgid "to be able to make their visions come to"
+msgstr "para poder hacer que sus visiones lleguen a"
+
+#. visible for 3 seconds
+#: 00:11:27.679--%3E00:11:31.278
+msgid "reality"
+msgstr "realidad"
+
+#. visible for 3 seconds
+#: 00:11:29.039--%3E00:11:32.559
+msgid "for another way to think about goals and"
+msgstr "para otra manera de pensar en las metas y"
+
+#. visible for 2 seconds
+#: 00:11:31.278--%3E00:11:34.000
+msgid "why this matters"
+msgstr "por qué esto es importante"
+
+#. visible for 3 seconds
+#: 00:11:32.559--%3E00:11:35.919
+msgid "let's take a look at what josh was"
+msgstr "echemos un vistazo a lo que era josh"
+
+#. visible for 3 seconds
+#: 00:11:34.000--%3E00:11:37.919
+msgid "saying a couple weeks ago on the afrofin"
+msgstr "decir hace un par de semanas en el afrofin"
+
+#. visible for 3 seconds
+#: 00:11:35.919--%3E00:11:39.599
+msgid "lab podcast check it out like you're"
+msgstr "podcast de laboratorio compruébalo como tú"
+
+#. visible for 3 seconds
+#: 00:11:37.919--%3E00:11:41.039
+msgid "understanding right now because i"
+msgstr "entender ahora mismo porque yo"
+
+#. visible for 2 seconds
+#: 00:11:39.600--%3E00:11:42.320
+msgid "believe you're going to go back and do"
+msgstr "cree que vas a volver atrás y hacer"
+
+#. visible for 2 seconds
+#: 00:11:41.039--%3E00:11:43.919
+msgid "some more research"
+msgstr "más investigación"
+
+#. visible for 3 seconds
+#: 00:11:42.320--%3E00:11:45.680
+msgid "and trust me you start talking to your"
+msgstr "y confía en que empiezas a hablar con tu"
+
+#. visible for 4 seconds
+#: 00:11:43.919--%3E00:11:47.919
+msgid "friend about this thing so that's how it"
+msgstr "amigo acerca de esta cosa así que así es como"
+
+#. visible for 4 seconds
+#: 00:11:45.679--%3E00:11:50.559
+msgid "starts right each one reach one right"
+msgstr "comienza a la derecha cada uno llegar a una derecha"
+
+#. visible for 3 seconds
+#: 00:11:47.919--%3E00:11:51.199
+msgid "so you need to go back and people need"
+msgstr "así que necesitas volver atrás y la gente necesita"
+
+#. visible for 4 seconds
+#: 00:11:50.559--%3E00:11:54.559
+msgid "to start"
+msgstr "para empezar"
+
+#. visible for 5 seconds
+#: 00:11:51.200--%3E00:11:56.879
+msgid "hearing and learning about this in uh"
+msgstr "audición y aprendizaje sobre esto en uh"
+
+#. visible for 3 seconds
+#: 00:11:54.559--%3E00:11:57.838
+msgid "you know the topic for i mean part of"
+msgstr "conoces el tema para mí significa parte de"
+
+#. visible for 2 seconds
+#: 00:11:56.879--%3E00:11:59.759
+msgid "our motto is"
+msgstr "nuestra moto es"
+
+#. visible for 3 seconds
+#: 00:11:57.839--%3E00:12:01.519
+msgid "make this crypto nonsense make sense"
+msgstr "hacer que este sin sentido de cifrado tenga sentido"
+
+#. visible for 3 seconds
+#: 00:11:59.759--%3E00:12:03.360
+msgid "people need to start making this"
+msgstr "la gente necesita empezar a hacer esto"
+
+#. visible for 3 seconds
+#: 00:12:01.519--%3E00:12:05.440
+msgid "crypto nonsense make sense to their"
+msgstr "cripto sin sentido tiene sentido a su"
+
+#. visible for 2 seconds
+#: 00:12:03.360--%3E00:12:06.240
+msgid "friends and that is the beginning of the"
+msgstr "amigos y ese es el comienzo del"
+
+#. visible for 4 seconds
+#: 00:12:05.440--%3E00:12:09.600
+msgid "revolution and"
+msgstr "revolución y"
+
+#. visible for 6 seconds
+#: 00:12:06.240--%3E00:12:12.480
+msgid "adoption of blockchain technology and"
+msgstr "adopción de tecnología blockchain y"
+
+#. visible for 3 seconds
+#: 00:12:09.600--%3E00:12:13.120
+msgid "also that is the first step that needs"
+msgstr "también ese es el primer paso que necesita"
+
+#. visible for 3 seconds
+#: 00:12:12.480--%3E00:12:16.240
+msgid "to happen"
+msgstr "pasar"
+
+#. visible for 6 seconds
+#: 00:12:13.120--%3E00:12:19.278
+msgid "before we can gradually uh"
+msgstr "antes de que podamos gradualmente uh"
+
+#. visible for 4 seconds
+#: 00:12:16.240--%3E00:12:20.959
+msgid "subliminally collect power from these"
+msgstr "recolecta subliminalmente poder de estos"
+
+#. visible for 4 seconds
+#: 00:12:19.278--%3E00:12:23.439
+msgid "power grabbers"
+msgstr "captadores de poder"
+
+#. visible for 3 seconds
+#: 00:12:20.958--%3E00:12:24.638
+msgid "yes josh you see this is why you're a"
+msgstr "sí josh que ves esto es por lo que eres un"
+
+#. visible for 4 seconds
+#: 00:12:23.440--%3E00:12:27.839
+msgid "great teacher"
+msgstr "gran profesor"
+
+#. visible for 4 seconds
+#: 00:12:24.639--%3E00:12:29.519
+msgid "you see you have this big grand vision"
+msgstr "ves que tienes esta gran visión"
+
+#. visible for 3 seconds
+#: 00:12:27.839--%3E00:12:30.880
+msgid "for the problems we're gonna solve"
+msgstr "para los problemas que estamos resolviendo"
+
+#. visible for 4 seconds
+#: 00:12:29.519--%3E00:12:34.480
+msgid "what's the problem"
+msgstr "cuál es el problema"
+
+#. visible for 4 seconds
+#: 00:12:30.879--%3E00:12:35.759
+msgid "centralization power how centralized"
+msgstr "centralización del poder"
+
+#. visible for 4 seconds
+#: 00:12:34.480--%3E00:12:38.800
+msgid "power can corrupt"
+msgstr "el poder puede corromper"
+
+#. visible for 4 seconds
+#: 00:12:35.759--%3E00:12:40.319
+msgid "people okay we all want to undo that we"
+msgstr "la gente está de acuerdo en que todos queremos deshacer que nosotros"
+
+#. visible for 4 seconds
+#: 00:12:38.799--%3E00:12:43.519
+msgid "all want to push back against"
+msgstr "todos quieren hacer retroceder"
+
+#. visible for 4 seconds
+#: 00:12:40.320--%3E00:12:44.639
+msgid "that but how well you named it we got to"
+msgstr "eso pero lo bien que lo llamaste hemos llegado"
+
+#. visible for 3 seconds
+#: 00:12:43.519--%3E00:12:47.278
+msgid "take our first"
+msgstr "toma nuestro primero"
+
+#. visible for 3 seconds
+#: 00:12:44.639--%3E00:12:48.079
+msgid "step we have to have conversations with"
+msgstr "paso con el que tenemos que tener conversaciones"
+
+#. visible for 3 seconds
+#: 00:12:47.278--%3E00:12:50.480
+msgid "our friends"
+msgstr "nuestros amigos"
+
+#. visible for 4 seconds
+#: 00:12:48.078--%3E00:12:52.799
+msgid "we have to get the word out there and"
+msgstr "tenemos que sacar la palabra aquí y"
+
+#. visible for 5 seconds
+#: 00:12:50.480--%3E00:12:55.759
+msgid "it's slow work but we can help people"
+msgstr "es lento pero podemos ayudar a la gente"
+
+#. visible for 4 seconds
+#: 00:12:52.799--%3E00:12:57.679
+msgid "understand this one of the things that"
+msgstr "entender esta de las cosas que"
+
+#. visible for 3 seconds
+#: 00:12:55.759--%3E00:12:59.039
+msgid "helps people gain understanding like"
+msgstr "ayuda a la gente a entender como"
+
+#. visible for 4 seconds
+#: 00:12:57.679--%3E00:13:02.559
+msgid "i've already mentioned"
+msgstr "ya he mencionado"
+
+#. visible for 4 seconds
+#: 00:12:59.039--%3E00:13:03.759
+msgid "is metaphors and stories now using"
+msgstr "es metáforas e historias ahora usando"
+
+#. visible for 3 seconds
+#: 00:13:02.559--%3E00:13:06.319
+msgid "metaphors takes"
+msgstr "toma metáforas"
+
+#. visible for 4 seconds
+#: 00:13:03.759--%3E00:13:08.078
+msgid "practice and that's why again"
+msgstr "práctica y por eso otra vez"
+
+#. visible for 4 seconds
+#: 00:13:06.320--%3E00:13:11.040
+msgid "conversations and planning are"
+msgstr "las conversaciones y la planificación son"
+
+#. visible for 6 seconds
+#: 00:13:08.078--%3E00:13:14.159
+msgid "iterative let's take a listen to sydney"
+msgstr "iterativo vamos a escuchar la sinfonía"
+
+#. visible for 5 seconds
+#: 00:13:11.039--%3E00:13:16.399
+msgid "from that same episode of the podcast"
+msgstr "del mismo episodio del podcast"
+
+#. visible for 3 seconds
+#: 00:13:14.159--%3E00:13:18.078
+msgid "using a metaphor that he leans on quite"
+msgstr "usando una metáfora en la que se apoya bastante"
+
+#. visible for 6 seconds
+#: 00:13:16.399--%3E00:13:22.399
+msgid "often"
+msgstr "a menudo"
+
+#. visible for 6 seconds
+#: 00:13:18.078--%3E00:13:24.958
+msgid "you know what joshua said is um"
+msgstr "sabes lo que dijo joshua es um"
+
+#. visible for 3 seconds
+#: 00:13:22.399--%3E00:13:25.839
+msgid "you you i don't know i can't say what"
+msgstr "no sabes que no puedo decir que"
+
+#. visible for 3 seconds
+#: 00:13:24.958--%3E00:13:28.239
+msgid "people on this"
+msgstr "gente en esto"
+
+#. visible for 4 seconds
+#: 00:13:25.839--%3E00:13:30.480
+msgid "call know and don't know i'm not sure"
+msgstr "llamar a saber y no sé que no estoy seguro"
+
+#. visible for 3 seconds
+#: 00:13:28.240--%3E00:13:32.159
+msgid "who's an auto mechanic here and knows"
+msgstr "quién es un mecánico automático aquí y sabe"
+
+#. visible for 4 seconds
+#: 00:13:30.480--%3E00:13:35.440
+msgid "how an engine works"
+msgstr "cómo funciona un motor"
+
+#. visible for 6 seconds
+#: 00:13:32.159--%3E00:13:38.399
+msgid "um but clearly i think that everyone"
+msgstr "um pero claramente creo que todos"
+
+#. visible for 5 seconds
+#: 00:13:35.440--%3E00:13:40.800
+msgid "on the call has driven a car before um"
+msgstr "en la llamada ha conducido un coche antes de um"
+
+#. visible for 2 seconds
+#: 00:13:38.399--%3E00:13:41.360
+msgid "so you don't need to know how the engine"
+msgstr "así que no necesitas saber cómo el motor"
+
+#. visible for 3 seconds
+#: 00:13:40.799--%3E00:13:44.078
+msgid "works"
+msgstr "obras"
+
+#. visible for 3 seconds
+#: 00:13:41.360--%3E00:13:45.199
+msgid "in order to get in and turn the key and"
+msgstr "para entrar y girar la tecla y"
+
+#. visible for 3 seconds
+#: 00:13:44.078--%3E00:13:47.679
+msgid "use the"
+msgstr "usar el"
+
+#. visible for 4 seconds
+#: 00:13:45.198--%3E00:13:50.159
+msgid "brake and the gas pedals can you tell"
+msgstr "bronce y los pedales de gas se pueden decir"
+
+#. visible for 5 seconds
+#: 00:13:47.679--%3E00:13:53.039
+msgid "that sydney has had a chance to practice"
+msgstr "ese sydney ha tenido la oportunidad de practicar"
+
+#. visible for 4 seconds
+#: 00:13:50.159--%3E00:13:54.159
+msgid "using this metaphor of engines in"
+msgstr "usando esta metáfora de los motores en"
+
+#. visible for 3 seconds
+#: 00:13:53.039--%3E00:13:56.240
+msgid "automobiles"
+msgstr "automóviles"
+
+#. visible for 3 seconds
+#: 00:13:54.159--%3E00:13:57.278
+msgid "and how it applies to the inner workings"
+msgstr "y cómo se aplica al funcionamiento interno"
+
+#. visible for 3 seconds
+#: 00:13:56.240--%3E00:13:59.519
+msgid "of blockchain"
+msgstr "de blockchain"
+
+#. visible for 3 seconds
+#: 00:13:57.278--%3E00:14:00.958
+msgid "okay in that particular conversation he"
+msgstr "okay en esa conversación en particular él"
+
+#. visible for 3 seconds
+#: 00:13:59.519--%3E00:14:03.278
+msgid "was applying it"
+msgstr "lo aplicó"
+
+#. visible for 3 seconds
+#: 00:14:00.958--%3E00:14:04.239
+msgid "to questions that we had about mass"
+msgstr "a las preguntas que teníamos acerca de la masa"
+
+#. visible for 3 seconds
+#: 00:14:03.278--%3E00:14:06.559
+msgid "adoption"
+msgstr "adopción"
+
+#. visible for 4 seconds
+#: 00:14:04.240--%3E00:14:08.560
+msgid "right but that metaphor could also work"
+msgstr "correcto, pero esa metáfora también podría funcionar"
+
+#. visible for 3 seconds
+#: 00:14:06.559--%3E00:14:10.239
+msgid "in a one-on-one conversation with a"
+msgstr "en una conversación uno a uno con un"
+
+#. visible for 4 seconds
+#: 00:14:08.559--%3E00:14:12.719
+msgid "newcomer to cardano"
+msgstr "recién llegados a la tarjeta"
+
+#. visible for 4 seconds
+#: 00:14:10.240--%3E00:14:14.959
+msgid "and when you practice using metaphors"
+msgstr "y cuando practica usando metáforas"
+
+#. visible for 4 seconds
+#: 00:14:12.720--%3E00:14:17.519
+msgid "when you see how they fall"
+msgstr "cuando veas cómo caen"
+
+#. visible for 3 seconds
+#: 00:14:14.958--%3E00:14:18.879
+msgid "then you have more and more experience"
+msgstr "entonces cada vez tienes más experiencia"
+
+#. visible for 4 seconds
+#: 00:14:17.519--%3E00:14:22.078
+msgid "and you can apply them"
+msgstr "y puedes aplicarlos"
+
+#. visible for 5 seconds
+#: 00:14:18.879--%3E00:14:24.320
+msgid "with more nuance to any conversation"
+msgstr "con más matices a cualquier conversación"
+
+#. visible for 3 seconds
+#: 00:14:22.078--%3E00:14:26.000
+msgid "that you hit on all right so now i'm"
+msgstr "que golpeaste en todo momento ahora estoy"
+
+#. visible for 3 seconds
+#: 00:14:24.320--%3E00:14:27.440
+msgid "going to show me being kind of awkward"
+msgstr "va a mostrarme una especie de incómodo"
+
+#. visible for 3 seconds
+#: 00:14:26.000--%3E00:14:29.039
+msgid "with a metaphor this was something that"
+msgstr "con una metáfora esto era algo que"
+
+#. visible for 3 seconds
+#: 00:14:27.440--%3E00:14:31.279
+msgid "i thought of for the first time"
+msgstr "pensé por primera vez"
+
+#. visible for 4 seconds
+#: 00:14:29.039--%3E00:14:33.198
+msgid "and i probably wouldn't say it the same"
+msgstr "y probablemente no lo diría igual"
+
+#. visible for 3 seconds
+#: 00:14:31.278--%3E00:14:34.958
+msgid "way check it out"
+msgstr "compruébalo"
+
+#. visible for 4 seconds
+#: 00:14:33.198--%3E00:14:37.359
+msgid "i just got this image as you were"
+msgstr "acabo de obtener esta imagen como lo fuiste"
+
+#. visible for 4 seconds
+#: 00:14:34.958--%3E00:14:38.958
+msgid "speaking of like a tide"
+msgstr "hablar de como una marea"
+
+#. visible for 3 seconds
+#: 00:14:37.360--%3E00:14:40.800
+msgid "just sort of like you know and like"
+msgstr "simplemente como tú conoces y te gusta"
+
+#. visible for 3 seconds
+#: 00:14:38.958--%3E00:14:42.799
+msgid "people who are like in power like"
+msgstr "personas que son como en el poder como"
+
+#. visible for 3 seconds
+#: 00:14:40.799--%3E00:14:44.159
+msgid "standing in front of the tide like oh no"
+msgstr "estar frente a la marea como oh no"
+
+#. visible for 1 seconds
+#: 00:14:42.799--%3E00:14:44.559
+msgid "this isn't going to happen but they're"
+msgstr "esto no va a suceder pero son"
+
+#. visible for 3 seconds
+#: 00:14:44.159--%3E00:14:48.078
+msgid "like"
+msgstr "me gusta"
+
+#. visible for 5 seconds
+#: 00:14:44.559--%3E00:14:50.479
+msgid "literally just like a wave just"
+msgstr "literalmente como una ola sólo"
+
+#. visible for 3 seconds
+#: 00:14:48.078--%3E00:14:51.679
+msgid "because it's it's coming i feel like"
+msgstr "porque está llegando que me siento como"
+
+#. visible for 4 seconds
+#: 00:14:50.480--%3E00:14:54.720
+msgid "we're in a time"
+msgstr "estamos en un momento"
+
+#. visible for 3 seconds
+#: 00:14:51.679--%3E00:14:55.278
+msgid "and a place globally right now where"
+msgstr "y un lugar globalmente ahora mismo donde"
+
+#. visible for 4 seconds
+#: 00:14:54.720--%3E00:14:59.040
+msgid "it's like"
+msgstr "es como"
+
+#. visible for 5 seconds
+#: 00:14:55.278--%3E00:15:01.039
+msgid "people are i think people"
+msgstr "personas creo que son personas"
+
+#. visible for 4 seconds
+#: 00:14:59.039--%3E00:15:03.198
+msgid "i think there's a lot of like a lot of"
+msgstr "creo que hay mucho como un montón de"
+
+#. visible for 4 seconds
+#: 00:15:01.039--%3E00:15:05.679
+msgid "feeling of"
+msgstr "sensación de"
+
+#. visible for 4 seconds
+#: 00:15:03.198--%3E00:15:07.198
+msgid "this this sense of you know you're"
+msgstr "esta sensación de que sabes que eres"
+
+#. visible for 3 seconds
+#: 00:15:05.679--%3E00:15:08.799
+msgid "you're you're a government"
+msgstr "eres un gobierno"
+
+#. visible for 3 seconds
+#: 00:15:07.198--%3E00:15:10.719
+msgid "you're meant to be here for us and if"
+msgstr "estás pensado para estar aquí para nosotros y si"
+
+#. visible for 3 seconds
+#: 00:15:08.799--%3E00:15:12.719
+msgid "you're not here for us then"
+msgstr "no estás aquí para nosotros entonces"
+
+#. visible for 3 seconds
+#: 00:15:10.720--%3E00:15:13.839
+msgid "you know we need to be here for"
+msgstr "sabes que necesitamos estar aquí para"
+
+#. visible for 2 seconds
+#: 00:15:12.720--%3E00:15:15.680
+msgid "ourselves and i"
+msgstr "nosotros y yo"
+
+#. visible for 3 seconds
+#: 00:15:13.839--%3E00:15:17.040
+msgid "you know that's uh that's one of the"
+msgstr "sabes que es uh uno de los"
+
+#. visible for 2 seconds
+#: 00:15:15.679--%3E00:15:18.479
+msgid "things that hooks me when it comes to"
+msgstr "cosas que me ganchan cuando se trata de"
+
+#. visible for 3 seconds
+#: 00:15:17.039--%3E00:15:20.799
+msgid "blockchain and like this whole idea of"
+msgstr "y le gusta esta idea de"
+
+#. visible for 4 seconds
+#: 00:15:18.480--%3E00:15:22.639
+msgid "decentralizing it and making it about"
+msgstr "descentralizándolo y haciéndolo"
+
+#. visible for 3 seconds
+#: 00:15:20.799--%3E00:15:24.159
+msgid "what are the needs that we have what the"
+msgstr "cuáles son las necesidades que tenemos de"
+
+#. visible for 6 seconds
+#: 00:15:22.639--%3E00:15:28.720
+msgid "problems that we have"
+msgstr "problemas que tenemos"
+
+#. visible for 4 seconds
+#: 00:15:24.159--%3E00:15:28.719
+msgid "like putting tools in people's hands"
+msgstr "les gusta poner herramientas en manos de las personas"
+
+#. visible for 4 seconds
+#: 00:15:28.879--%3E00:15:33.519
+msgid "that's it add that to the to the"
+msgstr "eso es lo que añade a la"
+
+#. visible for 5 seconds
+#: 00:15:31.278--%3E00:15:36.799
+msgid "metaphor right we're trying to hand out"
+msgstr "metáfora correcta estamos tratando de repartir"
+
+#. visible for 4 seconds
+#: 00:15:33.519--%3E00:15:38.000
+msgid "as many dingy boats and scuba gear and"
+msgstr "tantos barcos y equipo de buceo y"
+
+#. visible for 3 seconds
+#: 00:15:36.799--%3E00:15:40.719
+msgid "all the things so that"
+msgstr "todas las cosas para que"
+
+#. visible for 3 seconds
+#: 00:15:38.000--%3E00:15:41.679
+msgid "so that all of us can be safe in that"
+msgstr "para que todos podamos estar seguros en eso"
+
+#. visible for 3 seconds
+#: 00:15:40.720--%3E00:15:44.160
+msgid "wave right"
+msgstr "onda derecha"
+
+#. visible for 4 seconds
+#: 00:15:41.679--%3E00:15:46.078
+msgid "it's happening but we need we need"
+msgstr "está sucediendo, pero necesitamos"
+
+#. visible for 4 seconds
+#: 00:15:44.159--%3E00:15:49.039
+msgid "people to understand that it's coming"
+msgstr "gente para entender que está llegando"
+
+#. visible for 5 seconds
+#: 00:15:46.078--%3E00:15:51.359
+msgid "yikes well i mean aziza's metaphor was"
+msgstr "producciones bien quiero decir que la metáfora de la aziza era"
+
+#. visible for 5 seconds
+#: 00:15:49.039--%3E00:15:54.159
+msgid "great this tidal wave coming over"
+msgstr "gran esta ola de marea que viene"
+
+#. visible for 4 seconds
+#: 00:15:51.360--%3E00:15:56.240
+msgid "all of us changing the world right and"
+msgstr "todos nosotros cambiamos el mundo y"
+
+#. visible for 3 seconds
+#: 00:15:54.159--%3E00:15:58.078
+msgid "you could extend that one if you want to"
+msgstr "podrías extender esa si quieres"
+
+#. visible for 4 seconds
+#: 00:15:56.240--%3E00:16:00.560
+msgid "and i got so excited about it that i"
+msgstr "y me entusiasmó tanto que yo"
+
+#. visible for 3 seconds
+#: 00:15:58.078--%3E00:16:01.198
+msgid "jumped in with dingy boats and scuba"
+msgstr "saltó con botes y submarinismo"
+
+#. visible for 1 seconds
+#: 00:16:00.559--%3E00:16:02.399
+msgid "gear i"
+msgstr "equipo i"
+
+#. visible for 3 seconds
+#: 00:16:01.198--%3E00:16:04.479
+msgid "you know i don't know if i would say it"
+msgstr "sabes que no sé si lo diría"
+
+#. visible for 4 seconds
+#: 00:16:02.399--%3E00:16:06.480
+msgid "the same way as that again"
+msgstr "del mismo modo que eso otra vez"
+
+#. visible for 3 seconds
+#: 00:16:04.480--%3E00:16:08.159
+msgid "right but that's the whole point when we"
+msgstr "correcto, pero ese es el punto cuando nosotros"
+
+#. visible for 4 seconds
+#: 00:16:06.480--%3E00:16:11.039
+msgid "have conversations"
+msgstr "tener conversaciones"
+
+#. visible for 3 seconds
+#: 00:16:08.159--%3E00:16:11.919
+msgid "we have a chance to practice the way we"
+msgstr "tenemos la oportunidad de practicar la forma en que nosotros"
+
+#. visible for 3 seconds
+#: 00:16:11.039--%3E00:16:14.719
+msgid "say things"
+msgstr "decir cosas"
+
+#. visible for 4 seconds
+#: 00:16:11.919--%3E00:16:16.319
+msgid "to practice the way things resonate and"
+msgstr "para practicar la manera en que resuenan las cosas y"
+
+#. visible for 3 seconds
+#: 00:16:14.720--%3E00:16:17.839
+msgid "you know i probably certainly wouldn't"
+msgstr "sabes que probablemente no lo haría"
+
+#. visible for 3 seconds
+#: 00:16:16.320--%3E00:16:20.079
+msgid "say it the same way as"
+msgstr "decirlo de la misma manera que"
+
+#. visible for 3 seconds
+#: 00:16:17.839--%3E00:16:20.880
+msgid "that again but i do need to go for a"
+msgstr "eso otra vez, pero necesito ir a por un"
+
+#. visible for 3 seconds
+#: 00:16:20.078--%3E00:16:23.278
+msgid "walk"
+msgstr "caminar"
+
+#. visible for 3 seconds
+#: 00:16:20.879--%3E00:16:24.559
+msgid "and think about well what are the"
+msgstr "y piensa bien en cuáles son los"
+
+#. visible for 4 seconds
+#: 00:16:23.278--%3E00:16:27.679
+msgid "metaphors"
+msgstr "metáforas"
+
+#. visible for 6 seconds
+#: 00:16:24.559--%3E00:16:31.039
+msgid "how how are we helping people"
+msgstr "cómo estamos ayudando a la gente"
+
+#. visible for 4 seconds
+#: 00:16:27.679--%3E00:16:32.479
+msgid "navigate this wave of of new things"
+msgstr "navegar por esta ola de cosas nuevas"
+
+#. visible for 3 seconds
+#: 00:16:31.039--%3E00:16:34.838
+msgid "that's happening"
+msgstr "eso está sucediendo"
+
+#. visible for 3 seconds
+#: 00:16:32.480--%3E00:16:36.320
+msgid "now the only way to do that is through"
+msgstr "ahora la única manera de hacerlo es a través de"
+
+#. visible for 2 seconds
+#: 00:16:34.839--%3E00:16:37.360
+msgctxt "00:16:34.839-->00:16:37.360"
+msgid "conversations"
+msgstr "conversaciones"
+
+#. visible for 4 seconds
+#: 00:16:36.320--%3E00:16:40.720
+msgid "and we're going to cover that in the"
+msgstr "y vamos a cubrir eso en el"
+
+#. visible for 3 seconds
+#: 00:16:37.360--%3E00:16:40.720
+msgid "next part of this starter kit"
+msgstr "parte siguiente de este kit de inicio"
+
+#. visible for 4 seconds
+#: 00:16:45.440--%3E00:16:49.680
+msgid "one of the things i've learned in my"
+msgstr "una de las cosas que he aprendido en mi"
+
+#. visible for 5 seconds
+#: 00:16:48.078--%3E00:16:53.359
+msgid "teaching career"
+msgstr "enseñando carrera"
+
+#. visible for 5 seconds
+#: 00:16:49.679--%3E00:16:54.879
+msgid "is that the more broadly i prepare for a"
+msgstr "es que cuanto más ampliamente me preparo para un"
+
+#. visible for 5 seconds
+#: 00:16:53.360--%3E00:16:58.480
+msgid "lesson"
+msgstr "lección"
+
+#. visible for 7 seconds
+#: 00:16:54.879--%3E00:17:02.000
+msgid "the more able i am during that lesson to"
+msgstr "cuanto más capaz soy durante esa lección"
+
+#. visible for 5 seconds
+#: 00:16:58.480--%3E00:17:03.600
+msgid "really engage with people if i'm not"
+msgstr "comprometerse realmente con la gente si no lo soy"
+
+#. visible for 2 seconds
+#: 00:17:02.000--%3E00:17:04.160
+msgid "prepared i might just have a quick"
+msgstr "preparado podría tener un rápido"
+
+#. visible for 2 seconds
+#: 00:17:03.600--%3E00:17:05.759
+msgid "script"
+msgstr "guión"
+
+#. visible for 4 seconds
+#: 00:17:04.160--%3E00:17:08.640
+msgid "to read and want to get through the"
+msgstr "para leer y querer pasar por el"
+
+#. visible for 5 seconds
+#: 00:17:05.759--%3E00:17:11.439
+msgid "points that i want to say"
+msgstr "puntos que quiero decir"
+
+#. visible for 4 seconds
+#: 00:17:08.640--%3E00:17:13.199
+msgid "but if i'm really prepared if i've done"
+msgstr "pero si estoy realmente preparado si lo he hecho"
+
+#. visible for 5 seconds
+#: 00:17:11.439--%3E00:17:17.038
+msgid "my research"
+msgstr "mi investigación"
+
+#. visible for 6 seconds
+#: 00:17:13.199--%3E00:17:20.079
+msgid "and practiced thinking about things"
+msgstr "y pensamiento practicado sobre cosas"
+
+#. visible for 4 seconds
+#: 00:17:17.038--%3E00:17:21.599
+msgid "then i'm able to be fully present"
+msgstr "entonces puedo estar completamente presente"
+
+#. visible for 3 seconds
+#: 00:17:20.078--%3E00:17:23.198
+msgid "with the people that i'm trying to help"
+msgstr "con la gente que estoy tratando de ayudar"
+
+#. visible for 5 seconds
+#: 00:17:21.599--%3E00:17:27.038
+msgid "learn something"
+msgstr "aprender algo"
+
+#. visible for 6 seconds
+#: 00:17:23.199--%3E00:17:29.919
+msgid "okay a great teacher of mine"
+msgstr "valen a un gran maestro mío"
+
+#. visible for 3 seconds
+#: 00:17:27.038--%3E00:17:30.879
+msgid "helped me understand that gentleness"
+msgstr "me ayudó a entender esa compasión"
+
+#. visible for 3 seconds
+#: 00:17:29.919--%3E00:17:33.120
+msgid "comes from"
+msgstr "viene de"
+
+#. visible for 4 seconds
+#: 00:17:30.880--%3E00:17:35.120
+msgid "strength and i've always really"
+msgstr "fuerza y yo siempre realmente"
+
+#. visible for 5 seconds
+#: 00:17:33.119--%3E00:17:39.038
+msgid "appreciated that lesson"
+msgstr "apreció esa lección"
+
+#. visible for 6 seconds
+#: 00:17:35.119--%3E00:17:42.079
+msgid "the stronger and more prepared i am"
+msgstr "más fuerte y preparado estoy"
+
+#. visible for 5 seconds
+#: 00:17:39.038--%3E00:17:44.079
+msgid "the gentler i'm able to be and speaking"
+msgstr "el vencedor puedo estar y hablar"
+
+#. visible for 2 seconds
+#: 00:17:42.079--%3E00:17:44.798
+msgid "of metaphors this metaphor applies to"
+msgstr "de metáforas a las que se aplica esta metáfora"
+
+#. visible for 4 seconds
+#: 00:17:44.079--%3E00:17:48.159
+msgid "both"
+msgstr "ambos"
+
+#. visible for 7 seconds
+#: 00:17:44.798--%3E00:17:51.918
+msgid "physical strength being gentle with"
+msgstr "la fuerza física siendo suave con"
+
+#. visible for 5 seconds
+#: 00:17:48.160--%3E00:17:54.000
+msgid "heavy delicate objects right"
+msgstr "objetos delicados pesados a la derecha"
+
+#. visible for 4 seconds
+#: 00:17:51.919--%3E00:17:56.400
+msgid "and it also applies to human"
+msgstr "y también se aplica al humano"
+
+#. visible for 5 seconds
+#: 00:17:54.000--%3E00:17:59.839
+msgid "relationships"
+msgstr "relaciones"
+
+#. visible for 6 seconds
+#: 00:17:56.400--%3E00:18:03.200
+msgid "so when we come to conversations"
+msgstr "así que cuando lleguemos a conversaciones"
+
+#. visible for 4 seconds
+#: 00:17:59.839--%3E00:18:04.519
+msgid "about cardano i think it helps to think"
+msgstr "sobre cardano creo que ayuda a pensar"
+
+#. visible for 4 seconds
+#: 00:18:03.200--%3E00:18:08.160
+msgid "of them as"
+msgstr "de ellos como"
+
+#. visible for 6 seconds
+#: 00:18:04.519--%3E00:18:10.960
+msgctxt "00:18:04.519-->00:18:10.960"
+msgid "problem-based conversations"
+msgstr "conversaciones basadas en problemas"
+
+#. visible for 3 seconds
+#: 00:18:08.160--%3E00:18:11.679
+msgid "jaime gossip a famous educator he's"
+msgstr "jaime chisma a un educador famoso que es"
+
+#. visible for 4 seconds
+#: 00:18:10.960--%3E00:18:15.519
+msgid "worked at"
+msgstr "trabajó en"
+
+#. visible for 7 seconds
+#: 00:18:11.679--%3E00:18:18.960
+msgid "google and i'll link to a video"
+msgstr "google y enlazaré a un video"
+
+#. visible for 6 seconds
+#: 00:18:15.519--%3E00:18:21.839
+msgid "that i got this quote from he asks"
+msgstr "que he recibido esta cita de él pregunta"
+
+#. visible for 4 seconds
+#: 00:18:18.960--%3E00:18:23.600
+msgid "these three questions what problem do"
+msgstr "estas tres preguntas qué problema tienen"
+
+#. visible for 4 seconds
+#: 00:18:21.839--%3E00:18:26.480
+msgid "you want to solve"
+msgstr "quieres resolver"
+
+#. visible for 3 seconds
+#: 00:18:23.599--%3E00:18:26.879
+msgid "how do you want to solve that problem"
+msgstr "cómo quieres resolver ese problema"
+
+#. visible for 2 seconds
+#: 00:18:26.480--%3E00:18:28.880
+msgid "and"
+msgstr "y"
+
+#. visible for 4 seconds
+#: 00:18:26.880--%3E00:18:31.039
+msgid "what do you need to learn to solve that"
+msgstr "qué necesitas aprender para resolver eso"
+
+#. visible for 5 seconds
+#: 00:18:28.880--%3E00:18:34.559
+msgid "problem and he shows"
+msgstr "problema y muestra"
+
+#. visible for 5 seconds
+#: 00:18:31.038--%3E00:18:36.798
+msgid "how personal these questions are"
+msgstr "cuán personales son estas preguntas"
+
+#. visible for 3 seconds
+#: 00:18:34.558--%3E00:18:38.000
+msgid "not only the question about the problem"
+msgstr "no sólo la pregunta sobre el problema"
+
+#. visible for 4 seconds
+#: 00:18:36.798--%3E00:18:41.200
+msgid "we want to solve"
+msgstr "queremos resolver"
+
+#. visible for 4 seconds
+#: 00:18:38.000--%3E00:18:42.880
+msgid "but what can i do how do i want to"
+msgstr "pero qué puedo hacer como quiero"
+
+#. visible for 5 seconds
+#: 00:18:41.200--%3E00:18:46.480
+msgid "contribute"
+msgstr "contribuir"
+
+#. visible for 5 seconds
+#: 00:18:42.880--%3E00:18:48.080
+msgid "that's a very subjective question and"
+msgstr "es una pregunta muy objetiva y"
+
+#. visible for 4 seconds
+#: 00:18:46.480--%3E00:18:50.640
+msgid "everybody's going to have a different"
+msgstr "todos van a tener un diferente"
+
+#. visible for 4 seconds
+#: 00:18:48.079--%3E00:18:52.558
+msgid "answer to it that's kind of the beauty"
+msgstr "respuesta a la que es una especie de belleza"
+
+#. visible for 5 seconds
+#: 00:18:50.640--%3E00:18:55.840
+msgid "of decentralization"
+msgstr "de descentralización"
+
+#. visible for 5 seconds
+#: 00:18:52.558--%3E00:18:58.319
+msgid "we all have a chance to"
+msgstr "todos tenemos la oportunidad de"
+
+#. visible for 5 seconds
+#: 00:18:55.839--%3E00:19:01.279
+msgid "and then once you get people to talk"
+msgstr "y luego una vez que la gente hable"
+
+#. visible for 6 seconds
+#: 00:18:58.319--%3E00:19:04.399
+msgid "about the problems they want to solve"
+msgstr "sobre los problemas que quieren resolver"
+
+#. visible for 5 seconds
+#: 00:19:01.279--%3E00:19:06.639
+msgid "now we can start asking them okay how"
+msgstr "ahora podemos empezar a preguntarles cómo"
+
+#. visible for 5 seconds
+#: 00:19:04.400--%3E00:19:09.600
+msgid "can i help you how can i help you learn"
+msgstr "puede ayudarte a aprender"
+
+#. visible for 4 seconds
+#: 00:19:06.640--%3E00:19:11.120
+msgid "what you need to know in order to do"
+msgstr "lo que necesitas saber para hacer"
+
+#. visible for 3 seconds
+#: 00:19:09.599--%3E00:19:12.959
+msgid "that"
+msgstr "que"
+
+#. visible for 3 seconds
+#: 00:19:11.119--%3E00:19:14.319
+msgid "now we've been collecting videos from"
+msgstr "ahora hemos estado recopilando videos de"
+
+#. visible for 4 seconds
+#: 00:19:12.960--%3E00:19:17.440
+msgid "the community"
+msgstr "la comunidad"
+
+#. visible for 3 seconds
+#: 00:19:14.319--%3E00:19:18.159
+msgid "about how to talk about cardano and i"
+msgstr "sobre cómo hablar sobre cardano y i"
+
+#. visible for 3 seconds
+#: 00:19:17.440--%3E00:19:21.120
+msgid "want to share"
+msgstr "quiere compartir"
+
+#. visible for 4 seconds
+#: 00:19:18.160--%3E00:19:22.558
+msgid "one of my favorite clips from steve"
+msgstr "uno de mis clips favoritos de steve"
+
+#. visible for 3 seconds
+#: 00:19:21.119--%3E00:19:24.558
+msgid "aldrich"
+msgstr "aldrich"
+
+#. visible for 4 seconds
+#: 00:19:22.558--%3E00:19:26.960
+msgid "i'm going to let you see steve drop the"
+msgstr "voy a dejarte ver steve drop"
+
+#. visible for 4 seconds
+#: 00:19:24.558--%3E00:19:28.798
+msgid "mic and then how he continues on because"
+msgstr "micrófono y luego cómo continúa porque"
+
+#. visible for 5 seconds
+#: 00:19:26.960--%3E00:19:32.079
+msgid "i think it's a great way"
+msgstr "creo que es una buena manera"
+
+#. visible for 5 seconds
+#: 00:19:28.798--%3E00:19:34.639
+msgid "uh to to kind of frame"
+msgstr "uh a tipo de fotograma"
+
+#. visible for 3 seconds
+#: 00:19:32.079--%3E00:19:35.918
+msgid "why we think about problem and project"
+msgstr "por qué pensamos sobre el problema y el proyecto"
+
+#. visible for 3 seconds
+#: 00:19:34.640--%3E00:19:38.080
+msgid "based learning"
+msgstr "aprendizaje basado"
+
+#. visible for 3 seconds
+#: 00:19:35.919--%3E00:19:39.120
+msgid "and what i mean by problem-based"
+msgstr "y lo que quiero decir por problema"
+
+#. visible for 3 seconds
+#: 00:19:38.079--%3E00:19:41.599
+msgctxt "00:19:38.079-->00:19:41.599"
+msgid "conversations"
+msgstr "conversaciones"
+
+#. visible for 5 seconds
+#: 00:19:39.119--%3E00:19:44.399
+msgid "so here's steve what problem does"
+msgstr "así que aquí está steve qué problema hace"
+
+#. visible for 5 seconds
+#: 00:19:41.599--%3E00:19:47.199
+msgid "cardano solve"
+msgstr "resolución de tarjeta"
+
+#. visible for 5 seconds
+#: 00:19:44.400--%3E00:19:50.080
+msgid "what problem do you have in the latest"
+msgstr "qué problema tienes en la última"
+
+#. visible for 5 seconds
+#: 00:19:47.200--%3E00:19:52.798
+msgid "catalyst funding round we had 126"
+msgstr "la ronda de financiación de catalizadores teníamos 126"
+
+#. visible for 4 seconds
+#: 00:19:50.079--%3E00:19:54.399
+msgid "proposals which are all solving for"
+msgstr "propuestas que se están resolviendo para"
+
+#. visible for 4 seconds
+#: 00:19:52.798--%3E00:19:57.279
+msgid "different problems"
+msgstr "problemas diferentes"
+
+#. visible for 3 seconds
+#: 00:19:54.400--%3E00:19:58.240
+msgid "look blockchain or more specifically"
+msgstr "mira blockchain o más específicamente"
+
+#. visible for 3 seconds
+#: 00:19:57.279--%3E00:20:00.879
+msgctxt "00:19:57.279-->00:20:00.879"
+msgid "cardano"
+msgstr "cardano"
+
+#. visible for 4 seconds
+#: 00:19:58.240--%3E00:20:02.558
+msgid "is not a solution looking for a problem"
+msgstr "no es una solución buscando un problema"
+
+#. visible for 4 seconds
+#: 00:20:00.880--%3E00:20:05.280
+msgid "nor is it a silver bullet"
+msgstr "tampoco es un balón de plata"
+
+#. visible for 4 seconds
+#: 00:20:02.558--%3E00:20:06.639
+msgid "for all the problems of the world the"
+msgstr "para todos los problemas del mundo el"
+
+#. visible for 3 seconds
+#: 00:20:05.279--%3E00:20:08.720
+msgid "fact remains that"
+msgstr "sigue siendo eso"
+
+#. visible for 4 seconds
+#: 00:20:06.640--%3E00:20:10.720
+msgid "financial and governance systems across"
+msgstr "sistemas financieros y de gobernanza en todos los países"
+
+#. visible for 2 seconds
+#: 00:20:08.720--%3E00:20:11.360
+msgid "the globe are in one way or another"
+msgstr "el globo está de una manera u otra"
+
+#. visible for 2 seconds
+#: 00:20:10.720--%3E00:20:13.038
+msgid "broken"
+msgstr "roto"
+
+#. visible for 3 seconds
+#: 00:20:11.359--%3E00:20:14.959
+msgid "or at least in need of a good cleaning"
+msgstr "o al menos en necesidad de una buena limpieza"
+
+#. visible for 5 seconds
+#: 00:20:13.038--%3E00:20:18.158
+msgid "up if we can"
+msgstr "si podemos"
+
+#. visible for 5 seconds
+#: 00:20:14.960--%3E00:20:20.480
+msgid "solve for the financial or identity"
+msgstr "resolver por la identidad o financiera"
+
+#. visible for 3 seconds
+#: 00:20:18.159--%3E00:20:21.840
+msgid "or governance issues in places where"
+msgstr "o asuntos de gobernanza en lugares donde"
+
+#. visible for 4 seconds
+#: 00:20:20.480--%3E00:20:25.279
+msgid "these are a problem"
+msgstr "estos son un problema"
+
+#. visible for 6 seconds
+#: 00:20:21.839--%3E00:20:27.918
+msgid "then we have a successful project"
+msgstr "entonces tenemos un proyecto exitoso"
+
+#. visible for 3 seconds
+#: 00:20:25.279--%3E00:20:29.119
+msgid "if that then grows outward to solve"
+msgstr "si eso crece hacia afuera para resolver"
+
+#. visible for 3 seconds
+#: 00:20:27.919--%3E00:20:31.038
+msgid "other problems"
+msgstr "otros problemas"
+
+#. visible for 3 seconds
+#: 00:20:29.119--%3E00:20:32.319
+msgid "which maybe we can't even comprehend"
+msgstr "que tal vez ni siquiera podamos terminar"
+
+#. visible for 4 seconds
+#: 00:20:31.038--%3E00:20:35.440
+msgid "today"
+msgstr "hoy"
+
+#. visible for 4 seconds
+#: 00:20:32.319--%3E00:20:36.558
+msgid "well that's just groovy steve thank you"
+msgstr "bien eso es simplemente groovy steve gracias"
+
+#. visible for 3 seconds
+#: 00:20:35.440--%3E00:20:38.880
+msgid "for that"
+msgstr "para eso"
+
+#. visible for 3 seconds
+#: 00:20:36.558--%3E00:20:40.240
+msgid "and for everybody out there looking to"
+msgstr "y para todo el mundo que busca"
+
+#. visible for 4 seconds
+#: 00:20:38.880--%3E00:20:43.440
+msgid "start conversations"
+msgstr "iniciar conversaciones"
+
+#. visible for 6 seconds
+#: 00:20:40.240--%3E00:20:46.240
+msgid "that's really all you have to say what"
+msgstr "eso es todo lo que tienes que decir que"
+
+#. visible for 5 seconds
+#: 00:20:43.440--%3E00:20:48.480
+msgid "problem do you have"
+msgstr "problema tiene"
+
+#. visible for 5 seconds
+#: 00:20:46.240--%3E00:20:51.759
+msgid "now what i really like about what steve"
+msgstr "ahora lo que realmente me gusta de lo que steve"
+
+#. visible for 6 seconds
+#: 00:20:48.480--%3E00:20:54.720
+msgid "shares there is how he continues on"
+msgstr "comparte ahí es cómo continúa en"
+
+#. visible for 4 seconds
+#: 00:20:51.759--%3E00:20:56.480
+msgid "to talk about how solving one set of"
+msgstr "para hablar sobre cómo resolver un conjunto de"
+
+#. visible for 5 seconds
+#: 00:20:54.720--%3E00:21:00.240
+msgctxt "00:20:54.720-->00:21:00.240"
+msgid "problems"
+msgstr "problemas"
+
+#. visible for 6 seconds
+#: 00:20:56.480--%3E00:21:02.960
+msgid "opens up the door to solve more problems"
+msgstr "abre la puerta para resolver más problemas"
+
+#. visible for 3 seconds
+#: 00:21:00.240--%3E00:21:04.000
+msgid "this idea of incremental growth and"
+msgstr "esta idea de crecimiento incremental y"
+
+#. visible for 3 seconds
+#: 00:21:02.960--%3E00:21:06.480
+msgid "iteration"
+msgstr "iteración"
+
+#. visible for 3 seconds
+#: 00:21:04.000--%3E00:21:07.759
+msgid "once we build habits of solving problems"
+msgstr "una vez que construimos hábitos de resolver problemas"
+
+#. visible for 4 seconds
+#: 00:21:06.480--%3E00:21:10.720
+msgid "together"
+msgstr "juntos"
+
+#. visible for 3 seconds
+#: 00:21:07.759--%3E00:21:11.519
+msgid "once we practice talking about them then"
+msgstr "una vez que practiquemos hablar de ellos entonces"
+
+#. visible for 3 seconds
+#: 00:21:10.720--%3E00:21:14.000
+msgid "we can address"
+msgstr "podemos dirigirnos"
+
+#. visible for 3 seconds
+#: 00:21:11.519--%3E00:21:14.879
+msgid "even bigger problems some of which like"
+msgstr "problemas aún mayores algunos de los cuales les gusta"
+
+#. visible for 3 seconds
+#: 00:21:14.000--%3E00:21:17.919
+msgid "steve says"
+msgstr "steve dice"
+
+#. visible for 4 seconds
+#: 00:21:14.880--%3E00:21:19.600
+msgid "we haven't even imagined yet"
+msgstr "ni siquiera nos hemos imaginado todavía"
+
+#. visible for 4 seconds
+#: 00:21:17.919--%3E00:21:22.559
+msgid "so think back to some of that teaching"
+msgstr "así que piensen en algunas de esas enseñanzas"
+
+#. visible for 5 seconds
+#: 00:21:19.599--%3E00:21:25.519
+msgid "terminology i shared with you earlier"
+msgstr "terminología que he compartido con usted anteriormente"
+
+#. visible for 4 seconds
+#: 00:21:22.558--%3E00:21:27.038
+msgid "how can you treat conversations as"
+msgstr "cómo puedes tratar las conversaciones como"
+
+#. visible for 3 seconds
+#: 00:21:25.519--%3E00:21:29.119
+msgid "formative assessments"
+msgstr "evaluaciones formativas"
+
+#. visible for 3 seconds
+#: 00:21:27.038--%3E00:21:30.158
+msgid "and based on what you learned from"
+msgstr "y basado en lo que aprendió de"
+
+#. visible for 3 seconds
+#: 00:21:29.119--%3E00:21:32.158
+msgid "people"
+msgstr "personas"
+
+#. visible for 3 seconds
+#: 00:21:30.159--%3E00:21:33.440
+msgid "how can you scaffold for your friends"
+msgstr "cómo puedes andamio para tus amigos"
+
+#. visible for 5 seconds
+#: 00:21:32.159--%3E00:21:37.760
+msgid "and your family"
+msgstr "y su familia"
+
+#. visible for 6 seconds
+#: 00:21:33.440--%3E00:21:39.759
+msgid "how to help them learn the next thing"
+msgstr "cómo ayudarles a aprender lo siguiente"
+
+#. visible for 3 seconds
+#: 00:21:37.759--%3E00:21:41.440
+msgid "how well are you bringing people into"
+msgstr "qué tan bien estás trayendo gente"
+
+#. visible for 3 seconds
+#: 00:21:39.759--%3E00:21:43.679
+msgid "these conversations"
+msgstr "estas conversaciones"
+
+#. visible for 3 seconds
+#: 00:21:41.440--%3E00:21:45.038
+msgid "is your focus really on helping people"
+msgstr "es tu foco en ayudar a la gente"
+
+#. visible for 3 seconds
+#: 00:21:43.679--%3E00:21:46.798
+msgid "learn"
+msgstr "aprender"
+
+#. visible for 3 seconds
+#: 00:21:45.038--%3E00:21:48.640
+msgid "or do you just want to tell people how"
+msgstr "o simplemente quieres contarle a la gente cómo"
+
+#. visible for 3 seconds
+#: 00:21:46.798--%3E00:21:50.720
+msgid "great cardano is"
+msgstr "gran cardano es"
+
+#. visible for 3 seconds
+#: 00:21:48.640--%3E00:21:51.679
+msgid "all right all of us that's what our"
+msgstr "todos nosotros eso es lo que nuestro"
+
+#. visible for 2 seconds
+#: 00:21:50.720--%3E00:21:53.600
+msgid "community is for"
+msgstr "la comunidad es para"
+
+#. visible for 3 seconds
+#: 00:21:51.679--%3E00:21:55.280
+msgid "come on anytime we could talk about how"
+msgstr "venid en cualquier momento podríamos hablar de cómo"
+
+#. visible for 3 seconds
+#: 00:21:53.599--%3E00:21:56.639
+msgid "much we love this project and"
+msgstr "mucho nos encanta este proyecto y"
+
+#. visible for 3 seconds
+#: 00:21:55.279--%3E00:21:58.319
+msgid "what we think it's going to do but when"
+msgstr "lo que pensamos que va a hacer, pero cuándo"
+
+#. visible for 4 seconds
+#: 00:21:56.640--%3E00:22:01.120
+msgid "it comes to talking about"
+msgstr "se trata de hablar de"
+
+#. visible for 4 seconds
+#: 00:21:58.319--%3E00:22:03.038
+msgctxt "00:21:58.319-->00:22:03.038"
+msgid "cardano with your friends and family"
+msgstr "\"Cómo hablar de Cardano con tu familia y amigos\""
+
+#. visible for 3 seconds
+#: 00:22:01.119--%3E00:22:05.038
+msgid "please focus on learning"
+msgstr "por favor concéntrate en aprender"
+
+#. visible for 3 seconds
+#: 00:22:03.038--%3E00:22:06.240
+msgid "please focus on what people understand"
+msgstr "por favor concéntrate en lo que la gente entiende"
+
+#. visible for 2 seconds
+#: 00:22:05.038--%3E00:22:07.440
+msgid "so far"
+msgstr "hasta ahora"
+
+#. visible for 3 seconds
+#: 00:22:06.240--%3E00:22:09.599
+msgid "and how you're going to help them"
+msgstr "y cómo vas a ayudarlos"
+
+#. visible for 4 seconds
+#: 00:22:07.440--%3E00:22:12.240
+msgid "understand what's next"
+msgstr "entender qué es lo siguiente"
+
+#. visible for 3 seconds
+#: 00:22:09.599--%3E00:22:13.519
+msgid "we're not in charge because we're not"
+msgstr "no estamos a cargo porque no somos"
+
+#. visible for 3 seconds
+#: 00:22:12.240--%3E00:22:15.440
+msgid "here just to"
+msgstr "aquí sólo para"
+
+#. visible for 4 seconds
+#: 00:22:13.519--%3E00:22:17.679
+msgid "talk about what we want to talk about we"
+msgstr "habla sobre lo que queremos hablar de nosotros"
+
+#. visible for 4 seconds
+#: 00:22:15.440--%3E00:22:20.400
+msgid "got to meet people where they're at"
+msgstr "conoció a gente en la que están"
+
+#. visible for 4 seconds
+#: 00:22:17.679--%3E00:22:22.480
+msgid "again remember this is iterative work"
+msgstr "recordar de nuevo que es un trabajo iterativo"
+
+#. visible for 4 seconds
+#: 00:22:20.400--%3E00:22:24.720
+msgid "and it's not about you digesting all"
+msgstr "y no se trata de que digeras todo"
+
+#. visible for 5 seconds
+#: 00:22:22.480--%3E00:22:27.839
+msgid "this information that's out there"
+msgstr "esta información está ahí fuera"
+
+#. visible for 7 seconds
+#: 00:22:24.720--%3E00:22:32.400
+msgid "it's about how well you're prepared"
+msgstr "se trata de lo bien que estás preparado"
+
+#. visible for 8 seconds
+#: 00:22:27.839--%3E00:22:36.000
+msgid "to help people understand things so"
+msgstr "para ayudar a la gente a entender las cosas así"
+
+#. visible for 4 seconds
+#: 00:22:32.400--%3E00:22:37.200
+msgid "this task is easy go have a conversation"
+msgstr "esta tarea es fácil ir a tener una conversación"
+
+#. visible for 4 seconds
+#: 00:22:36.000--%3E00:22:40.319
+msgid "and while you're having that"
+msgstr "y mientras estás teniendo eso"
+
+#. visible for 4 seconds
+#: 00:22:37.200--%3E00:22:42.159
+msgid "conversation think about what problems"
+msgstr "pensar en qué problemas hay"
+
+#. visible for 3 seconds
+#: 00:22:40.319--%3E00:22:44.240
+msgid "people are naming"
+msgstr "gente está nombrando"
+
+#. visible for 4 seconds
+#: 00:22:42.159--%3E00:22:46.320
+msgid "think about what metaphors might help"
+msgstr "pensar en qué metáforas podrían ayudar"
+
+#. visible for 4 seconds
+#: 00:22:44.240--%3E00:22:48.240
+msgid "and maybe try using some of the ones"
+msgstr "y tal vez intente usar algunos de los"
+
+#. visible for 3 seconds
+#: 00:22:46.319--%3E00:22:50.158
+msgid "you've brainstormed"
+msgstr "has retorcido"
+
+#. visible for 3 seconds
+#: 00:22:48.240--%3E00:22:51.919
+msgid "and as you reflect on the conversation"
+msgstr "y mientras reflexionas sobre la conversación"
+
+#. visible for 4 seconds
+#: 00:22:50.159--%3E00:22:54.559
+msgid "you'll think of new ways that you might"
+msgstr "pensarás en nuevas maneras que podrías"
+
+#. visible for 6 seconds
+#: 00:22:51.919--%3E00:22:58.000
+msgid "need to develop for explaining things"
+msgstr "necesita desarrollarse para explicar las cosas"
+
+#. visible for 6 seconds
+#: 00:22:54.558--%3E00:23:00.960
+msgid "what questions came up and then"
+msgstr "qué preguntas surgieron y luego"
+
+#. visible for 4 seconds
+#: 00:22:58.000--%3E00:23:02.960
+msgid "if you want to come reflect uh with with"
+msgstr "si quieres venir a reflejar uh con"
+
+#. visible for 4 seconds
+#: 00:23:00.960--%3E00:23:05.519
+msgid "the rest of us in discord"
+msgstr "el resto de nosotros en Discord"
+
+#. visible for 3 seconds
+#: 00:23:02.960--%3E00:23:06.720
+msgid "you'll see a link in in the materials"
+msgstr "verás un enlace en los materiales"
+
+#. visible for 4 seconds
+#: 00:23:05.519--%3E00:23:10.240
+msgid "accompanying"
+msgstr "acompañando"
+
+#. visible for 5 seconds
+#: 00:23:06.720--%3E00:23:12.319
+msgid "this video come pop into discord"
+msgstr "este video ven pop en discordia"
+
+#. visible for 3 seconds
+#: 00:23:10.240--%3E00:23:14.159
+msgid "share questions that stump to you or you"
+msgstr "comparte preguntas que te molestan o te gustan"
+
+#. visible for 3 seconds
+#: 00:23:12.319--%3E00:23:16.079
+msgid "found particularly interesting"
+msgstr "encontrado particularmente interesante"
+
+#. visible for 3 seconds
+#: 00:23:14.159--%3E00:23:17.280
+msgid "share metaphors that you're proud of"
+msgstr "comparte metáforas de las que estás orgulloso"
+
+#. visible for 2 seconds
+#: 00:23:16.079--%3E00:23:18.960
+msgid "using uh"
+msgstr "usando uh"
+
+#. visible for 3 seconds
+#: 00:23:17.279--%3E00:23:20.480
+msgid "and if you you know if you put your foot"
+msgstr "y si sabes si pones el pie"
+
+#. visible for 2 seconds
+#: 00:23:18.960--%3E00:23:21.200
+msgid "in your mouth and you want to talk about"
+msgstr "en tu boca y quieres hablar de"
+
+#. visible for 2 seconds
+#: 00:23:20.480--%3E00:23:23.200
+msgid "that too"
+msgstr "eso también"
+
+#. visible for 4 seconds
+#: 00:23:21.200--%3E00:23:25.840
+msgid "we'd love to hear that i do it all the"
+msgstr "nos encantaría escuchar que lo hago todo"
+
+#. visible for 5 seconds
+#: 00:23:23.200--%3E00:23:28.720
+msgid "time i'm probably doing it in this video"
+msgstr "vez probablemente lo esté haciendo en este video"
+
+#. visible for 5 seconds
+#: 00:23:25.839--%3E00:23:31.119
+msgid "um but this is our practice right this"
+msgstr "um pero esta es nuestra práctica correcta"
+
+#. visible for 5 seconds
+#: 00:23:28.720--%3E00:23:34.400
+msgid "is how we learn and grow together"
+msgstr "es cómo aprendemos y crecemos juntos"
+
+#. visible for 5 seconds
+#: 00:23:31.119--%3E00:23:36.239
+msgid "now optionally for this part i was"
+msgstr "opcionalmente para esta parte que era"
+
+#. visible for 4 seconds
+#: 00:23:34.400--%3E00:23:38.480
+msgid "really moved um"
+msgstr "realmente movido um"
+
+#. visible for 3 seconds
+#: 00:23:36.240--%3E00:23:40.079
+msgid "by frederick greygards i hope i'm saying"
+msgstr "por frederick grises, espero que esté diciendo"
+
+#. visible for 4 seconds
+#: 00:23:38.480--%3E00:23:43.120
+msgid "his name right um the new"
+msgstr "su nombre justo en el nuevo"
+
+#. visible for 5 seconds
+#: 00:23:40.079--%3E00:23:45.359
+msgid "cardano foundation ceo i listened to a"
+msgstr "cardano fundación ceo escuché una"
+
+#. visible for 3 seconds
+#: 00:23:43.119--%3E00:23:46.798
+msgid "30-minute interview of him on the crypto"
+msgstr "Entrevista de 30 minutos sobre el criptograma"
+
+#. visible for 3 seconds
+#: 00:23:45.359--%3E00:23:49.278
+msgid "valley podcast"
+msgstr "podcast del valle"
+
+#. visible for 3 seconds
+#: 00:23:46.798--%3E00:23:50.400
+msgid "and i was really impressed i really"
+msgstr "y me ha impresionado mucho"
+
+#. visible for 4 seconds
+#: 00:23:49.278--%3E00:23:53.679
+msgid "admired"
+msgstr "admirado"
+
+#. visible for 4 seconds
+#: 00:23:50.400--%3E00:23:55.278
+msgid "the way he was framing questions about"
+msgstr "la forma en que estaba enmarcando preguntas sobre"
+
+#. visible for 4 seconds
+#: 00:23:53.679--%3E00:23:58.080
+msgid "cardano adoption"
+msgstr "adopción de tarjeta"
+
+#. visible for 4 seconds
+#: 00:23:55.278--%3E00:23:59.359
+msgid "from a problem-based standpoint and i"
+msgstr "desde un punto de vista basado en problemas y i"
+
+#. visible for 2 seconds
+#: 00:23:58.079--%3E00:24:00.960
+msgid "would really recommend"
+msgstr "realmente recomendaría"
+
+#. visible for 3 seconds
+#: 00:23:59.359--%3E00:24:02.399
+msgid "i was talking before about choosing"
+msgstr "estaba hablando antes de elegir"
+
+#. visible for 3 seconds
+#: 00:24:00.960--%3E00:24:04.400
+msgid "quality content"
+msgstr "contenido de calidad"
+
+#. visible for 4 seconds
+#: 00:24:02.400--%3E00:24:06.400
+msgid "i would definitely recommend this as"
+msgstr "I would definitely recommend this as it as"
+
+#. visible for 5 seconds
+#: 00:24:04.400--%3E00:24:09.919
+msgid "really high quality content"
+msgstr "contenido de alta calidad"
+
+#. visible for 5 seconds
+#: 00:24:06.400--%3E00:24:11.440
+msgid "really interesting uh to a hear that"
+msgstr "uh realmente interesante para escuchar eso"
+
+#. visible for 3 seconds
+#: 00:24:09.919--%3E00:24:13.840
+msgid "cardano foundation is in"
+msgstr "fundación de cardano está en"
+
+#. visible for 3 seconds
+#: 00:24:11.440--%3E00:24:15.038
+msgid "is in good hands uh as far as what i'm"
+msgstr "está en buenas manos hasta lo que yo"
+
+#. visible for 5 seconds
+#: 00:24:13.839--%3E00:24:18.959
+msgid "hearing there"
+msgstr "audición allí"
+
+#. visible for 7 seconds
+#: 00:24:15.038--%3E00:24:22.079
+msgid "um but that he's got such a great grasp"
+msgstr "um pero que tiene un grasp tan grande"
+
+#. visible for 4 seconds
+#: 00:24:18.960--%3E00:24:23.200
+msgid "on approaching these conversations from"
+msgstr "al acercarse a estas conversaciones desde"
+
+#. visible for 4 seconds
+#: 00:24:22.079--%3E00:24:26.558
+msgid "a problem-based"
+msgstr "un problema basado en"
+
+#. visible for 5 seconds
+#: 00:24:23.200--%3E00:24:28.400
+msgid "perspective all right so next we're"
+msgstr "perspectiva de todo justo así que siguiente"
+
+#. visible for 3 seconds
+#: 00:24:26.558--%3E00:24:29.599
+msgid "gonna spend a few minutes going out into"
+msgstr "gonna pasa unos minutos saliendo en"
+
+#. visible for 5 seconds
+#: 00:24:28.400--%3E00:24:33.840
+msgid "the real world"
+msgstr "el mundo real"
+
+#. visible for 4 seconds
+#: 00:24:29.599--%3E00:24:33.839
+msgid "and getting some ada into people's hands"
+msgstr "y poner algo en manos de la gente"
+
+#. visible for 4 seconds
+#: 00:24:37.759--%3E00:24:42.240
+msgid "hey everybody james here i'm from"
+msgstr "hey all james here from"
+
+#. visible for 3 seconds
+#: 00:24:40.400--%3E00:24:43.519
+msgid "workshop navy and we're filming a"
+msgstr "marina del taller y estamos filmando una"
+
+#. visible for 4 seconds
+#: 00:24:42.240--%3E00:24:46.558
+msgctxt "00:24:42.240-->00:24:46.558"
+msgid "starter kit"
+msgstr "kit de inicio"
+
+#. visible for 5 seconds
+#: 00:24:43.519--%3E00:24:49.200
+msgid "here on the corner of franklin street"
+msgstr "aquí en la esquina de franklin street"
+
+#. visible for 4 seconds
+#: 00:24:46.558--%3E00:24:50.798
+msgid "in worcester massachusetts this is my"
+msgstr "en masacraderos de worcester este es mi"
+
+#. visible for 4 seconds
+#: 00:24:49.200--%3E00:24:53.840
+msgid "buddy adam"
+msgstr "adam amigo"
+
+#. visible for 5 seconds
+#: 00:24:50.798--%3E00:24:56.720
+msgid "adam created the workshop maybe logo"
+msgstr "adam creó el logo del taller tal vez"
+
+#. visible for 4 seconds
+#: 00:24:53.839--%3E00:24:58.000
+msgid "and i'm going to use my urroy wallet to"
+msgstr "y voy a usar mi cartera urroy para"
+
+#. visible for 3 seconds
+#: 00:24:56.720--%3E00:25:00.159
+msgid "pay him for it"
+msgstr "pagarle por ello"
+
+#. visible for 4 seconds
+#: 00:24:58.000--%3E00:25:02.000
+msgid "right now adam you got your oil"
+msgstr "ahora mismo adam tienes tu aceite"
+
+#. visible for 3 seconds
+#: 00:25:00.159--%3E00:25:03.840
+msgid "installed oh absolutely man yes when did"
+msgstr "instalado oh absolutamente man sí cuando lo hizo"
+
+#. visible for 2 seconds
+#: 00:25:02.000--%3E00:25:04.798
+msgid "you download it uh a couple days ago all"
+msgstr "lo descargas uh hace un par de días todo"
+
+#. visible for 3 seconds
+#: 00:25:03.839--%3E00:25:07.519
+msgid "right so you got a"
+msgstr "acertado para que tengas un"
+
+#. visible for 4 seconds
+#: 00:25:04.798--%3E00:25:08.798
+msgid "is it empty zero data no ada yet all"
+msgstr "está vacía cero datos aún no todos"
+
+#. visible for 3 seconds
+#: 00:25:07.519--%3E00:25:11.278
+msgid "right we're going to pay adam we're"
+msgstr "bien vamos a pagar adam que estamos"
+
+#. visible for 4 seconds
+#: 00:25:08.798--%3E00:25:13.679
+msgid "going to get them into the ada ecosystem"
+msgstr "los introducirá en el ecosistema de ada"
+
+#. visible for 4 seconds
+#: 00:25:11.278--%3E00:25:15.519
+msgid "uh using ada so i'm going to open up my"
+msgstr "uh usando ada para abrir mi"
+
+#. visible for 4 seconds
+#: 00:25:13.679--%3E00:25:18.480
+msgid "euro wallet"
+msgstr "monedero euro"
+
+#. visible for 4 seconds
+#: 00:25:15.519--%3E00:25:19.519
+msgid "i'm going to get my send screen open got"
+msgstr "voy a conseguir que mi pantalla de envío se abra"
+
+#. visible for 4 seconds
+#: 00:25:18.480--%3E00:25:23.440
+msgid "a qr code"
+msgstr "a qr code"
+
+#. visible for 9 seconds
+#: 00:25:19.519--%3E00:25:29.038
+msgid "nice i'm going to scan that here we go"
+msgstr "bonito voy a escanear que aquí vamos"
+
+#. visible for 8 seconds
+#: 00:25:23.440--%3E00:25:32.159
+msgid "scan type in the amount"
+msgstr "escanear el tipo en la cantidad"
+
+#. visible for 7 seconds
+#: 00:25:29.038--%3E00:25:36.319
+msgid "type in my spending password"
+msgstr "escribe mi contraseña para enviar"
+
+#. visible for 6 seconds
+#: 00:25:32.159--%3E00:25:38.480
+msgid "and go all right i hope this works"
+msgstr "y ve todo lo correcto espero que esto funcione"
+
+#. visible for 3 seconds
+#: 00:25:36.319--%3E00:25:39.359
+msgid "thanks james you bet now did it show up"
+msgstr "gracias a los juegos que has apostado ahora ha aparecido"
+
+#. visible for 4 seconds
+#: 00:25:38.480--%3E00:25:42.640
+msgid "yet"
+msgstr "aún"
+
+#. visible for 6 seconds
+#: 00:25:39.359--%3E00:25:46.158
+msgid "it might take a couple seconds here"
+msgstr "puede tardar un par de segundos aquí"
+
+#. visible for 5 seconds
+#: 00:25:42.640--%3E00:25:48.240
+msgid "there it is i got it all right awesome"
+msgstr "me parece genial"
+
+#. visible for 3 seconds
+#: 00:25:46.159--%3E00:25:49.679
+msgid "um how does it feel to be holding ada in"
+msgstr "um cómo se siente mantener adada en"
+
+#. visible for 4 seconds
+#: 00:25:48.240--%3E00:25:52.720
+msgid "your hands i'm stoked about it"
+msgstr "tus manos estoy muy contento de ello"
+
+#. visible for 5 seconds
+#: 00:25:49.679--%3E00:25:55.120
+msgid "this is so exciting all right"
+msgstr "esto es muy emocionante"
+
+#. visible for 3 seconds
+#: 00:25:52.720--%3E00:25:56.240
+msgid "so yo all we want to do is encourage"
+msgstr "así que todo lo que queremos hacer es animar"
+
+#. visible for 3 seconds
+#: 00:25:55.119--%3E00:25:58.158
+msgid "people hey think about"
+msgstr "gente en la que piensas"
+
+#. visible for 4 seconds
+#: 00:25:56.240--%3E00:26:00.319
+msgid "opportunities to use this in your"
+msgstr "oportunidades de usar esto en tu"
+
+#. visible for 4 seconds
+#: 00:25:58.159--%3E00:26:02.480
+msgid "day-to-day life now we got"
+msgstr "la vida cotidiana ahora tenemos"
+
+#. visible for 3 seconds
+#: 00:26:00.319--%3E00:26:03.839
+msgid "adam on board here actually your name is"
+msgstr "adam a bordo aquí en realidad su nombre es"
+
+#. visible for 4 seconds
+#: 00:26:02.480--%3E00:26:07.120
+msgid "so much like ada"
+msgstr "tanto como ada"
+
+#. visible for 5 seconds
+#: 00:26:03.839--%3E00:26:09.759
+msgid "it is interesting okay we got ada adam"
+msgstr "es interesante okay tenemos ada adam"
+
+#. visible for 4 seconds
+#: 00:26:07.119--%3E00:26:11.199
+msgid "in the house we got ryan behind the the"
+msgstr "en la casa recibimos ryan detrás del"
+
+#. visible for 4 seconds
+#: 00:26:09.759--%3E00:26:13.759
+msgid "screen here"
+msgstr "pantalla aquí"
+
+#. visible for 4 seconds
+#: 00:26:11.200--%3E00:26:15.840
+msgid "ryan's got these these really cool ada"
+msgstr "ryan consiguió estas muy frescas"
+
+#. visible for 4 seconds
+#: 00:26:13.759--%3E00:26:18.640
+msgid "coins he just printed one for me on a"
+msgstr "monedas que acaba de imprimir una para mí en un"
+
+#. visible for 4 seconds
+#: 00:26:15.839--%3E00:26:20.639
+msgid "on a 3d printer so lots of exciting"
+msgstr "en una impresora 3d tan emocionante"
+
+#. visible for 3 seconds
+#: 00:26:18.640--%3E00:26:22.320
+msgid "stuff happening around here"
+msgstr "cosas que están ocurriendo aquí"
+
+#. visible for 2 seconds
+#: 00:26:20.640--%3E00:26:23.600
+msgid "adam thanks for coming out tonight no"
+msgstr "adam gracias por salir esta noche no"
+
+#. visible for 2 seconds
+#: 00:26:22.319--%3E00:26:24.879
+msgid "problem man and uh we'll talk to"
+msgstr "problema man y uh hablaremos con"
+
+#. visible for 5 seconds
+#: 00:26:23.599--%3E00:26:28.639
+msgid "everybody soon"
+msgstr "todo el mundo pronto"
+
+#. visible for 5 seconds
+#: 00:26:24.880--%3E00:26:30.799
+msgid "all right so in terms of real world use"
+msgstr "todo lo correcto en términos de uso del mundo real"
+
+#. visible for 4 seconds
+#: 00:26:28.640--%3E00:26:32.799
+msgid "just sending a little bit of ada back"
+msgstr "sólo enviando un poco de ada de vuelta"
+
+#. visible for 5 seconds
+#: 00:26:30.798--%3E00:26:36.000
+msgid "and forth between wallets"
+msgstr "y adelante entre carteras"
+
+#. visible for 4 seconds
+#: 00:26:32.798--%3E00:26:36.798
+msgid "is about the extent of what most people"
+msgstr "es acerca del alcance de lo que la mayoría de la gente"
+
+#. visible for 4 seconds
+#: 00:26:36.000--%3E00:26:40.319
+msgid "can do"
+msgstr "puede hacer"
+
+#. visible for 5 seconds
+#: 00:26:36.798--%3E00:26:42.720
+msgid "right now okay that's all right"
+msgstr "ahora mismo está bien"
+
+#. visible for 3 seconds
+#: 00:26:40.319--%3E00:26:43.918
+msgid "there's a lot more functionality coming"
+msgstr "hay muchas más funcionalidades por venir"
+
+#. visible for 3 seconds
+#: 00:26:42.720--%3E00:26:46.079
+msgid "out"
+msgstr "fuera"
+
+#. visible for 3 seconds
+#: 00:26:43.919--%3E00:26:47.759
+msgid "the middle of next year gogin is going"
+msgstr "a mediados del próximo año va gogin"
+
+#. visible for 3 seconds
+#: 00:26:46.079--%3E00:26:49.839
+msgid "to be fully released"
+msgstr "para ser liberado por completo"
+
+#. visible for 3 seconds
+#: 00:26:47.759--%3E00:26:51.119
+msgid "we're going to be able to use it in the"
+msgstr "vamos a poder usarlo en el"
+
+#. visible for 4 seconds
+#: 00:26:49.839--%3E00:26:54.240
+msgid "coming months"
+msgstr "próximos meses"
+
+#. visible for 5 seconds
+#: 00:26:51.119--%3E00:26:56.639
+msgid "as parts of it go online"
+msgstr "como parte de él entra en línea"
+
+#. visible for 4 seconds
+#: 00:26:54.240--%3E00:26:58.558
+msgid "we want to have chances to play with it"
+msgstr "queremos tener oportunidades de jugar con él"
+
+#. visible for 4 seconds
+#: 00:26:56.640--%3E00:27:00.960
+msgid "to see what we can do with it"
+msgstr "para ver qué podemos hacer con él"
+
+#. visible for 3 seconds
+#: 00:26:58.558--%3E00:27:02.319
+msgid "and that's why cardano starter kits"
+msgstr "y por eso los kits de inicio de cardano"
+
+#. visible for 3 seconds
+#: 00:27:00.960--%3E00:27:04.558
+msgid "exist"
+msgstr "existe"
+
+#. visible for 4 seconds
+#: 00:27:02.319--%3E00:27:06.480
+msgid "listen i really don't want to be the"
+msgstr "escucha no quiero ser el"
+
+#. visible for 2 seconds
+#: 00:27:04.558--%3E00:27:07.038
+msgid "face and the voice of cardano starter"
+msgstr "cara y la voz del iniciador de cardano"
+
+#. visible for 3 seconds
+#: 00:27:06.480--%3E00:27:09.919
+msgid "kits"
+msgstr "kits"
+
+#. visible for 4 seconds
+#: 00:27:07.038--%3E00:27:11.119
+msgid "i love doing this i love sharing my own"
+msgstr "me encanta hacer esto me encanta compartir mi propia"
+
+#. visible for 3 seconds
+#: 00:27:09.919--%3E00:27:13.759
+msgid "perspective"
+msgstr "perspectiva"
+
+#. visible for 3 seconds
+#: 00:27:11.119--%3E00:27:14.558
+msgid "but i'm really hoping if i if i do this"
+msgstr "pero realmente espero si lo hago"
+
+#. visible for 2 seconds
+#: 00:27:13.759--%3E00:27:15.839
+msgctxt "00:27:13.759-->00:27:15.839"
+msgid "right"
+msgstr "derecha"
+
+#. visible for 4 seconds
+#: 00:27:14.558--%3E00:27:18.879
+msgid "other people are going to want to"
+msgstr "otras personas querrán"
+
+#. visible for 6 seconds
+#: 00:27:15.839--%3E00:27:22.398
+msgid "contribute too and that means you"
+msgstr "contribuir también y eso significa tú"
+
+#. visible for 6 seconds
+#: 00:27:18.880--%3E00:27:25.520
+msgid "if if you find this question of how"
+msgstr "si encuentras esta pregunta de cómo"
+
+#. visible for 5 seconds
+#: 00:27:22.398--%3E00:27:27.599
+msgid "local use will contribute to the"
+msgstr "el uso local contribuirá al"
+
+#. visible for 4 seconds
+#: 00:27:25.519--%3E00:27:30.319
+msgid "adoption of cardano"
+msgstr "adopción de cardano"
+
+#. visible for 4 seconds
+#: 00:27:27.599--%3E00:27:31.678
+msgid "please be in touch i know this isn't the"
+msgstr "por favor esté en contacto sé que esto no es el"
+
+#. visible for 4 seconds
+#: 00:27:30.319--%3E00:27:34.398
+msgid "whole story"
+msgstr "toda la historia"
+
+#. visible for 4 seconds
+#: 00:27:31.679--%3E00:27:36.240
+msgid "there's really important work going on"
+msgstr "hay trabajo realmente importante en curso"
+
+#. visible for 4 seconds
+#: 00:27:34.398--%3E00:27:39.199
+msgid "the enterprise level"
+msgstr "el nivel de empresa"
+
+#. visible for 3 seconds
+#: 00:27:36.240--%3E00:27:39.919
+msgid "there's really incredible work being"
+msgstr "hay trabajo realmente increíble siendo"
+
+#. visible for 3 seconds
+#: 00:27:39.200--%3E00:27:42.558
+msgid "done around"
+msgstr "hecho alrededor"
+
+#. visible for 3 seconds
+#: 00:27:39.919--%3E00:27:43.679
+msgid "oracle pools and decentralized"
+msgstr "piscinas de oráculo y descentralizado"
+
+#. visible for 4 seconds
+#: 00:27:42.558--%3E00:27:46.960
+msgid "identities"
+msgstr "identidades"
+
+#. visible for 6 seconds
+#: 00:27:43.679--%3E00:27:50.640
+msgid "and all of that is so important"
+msgstr "y todo eso es tan importante"
+
+#. visible for 7 seconds
+#: 00:27:46.960--%3E00:27:54.319
+msgid "it's ground breaking"
+msgstr "es un rompecabezas"
+
+#. visible for 5 seconds
+#: 00:27:50.640--%3E00:27:56.399
+msgid "alongside that let's also address these"
+msgstr "junto a eso también vamos a abordar estos"
+
+#. visible for 4 seconds
+#: 00:27:54.319--%3E00:27:59.038
+msgid "questions of local adoption"
+msgstr "cuestiones de adopción local"
+
+#. visible for 4 seconds
+#: 00:27:56.398--%3E00:28:00.558
+msgid "all right if you want to get involved"
+msgstr "todo correcto si quieres involucrarte"
+
+#. visible for 3 seconds
+#: 00:27:59.038--%3E00:28:02.798
+msgid "there's a discord link"
+msgstr "hay un enlace de discord"
+
+#. visible for 3 seconds
+#: 00:28:00.558--%3E00:28:04.480
+msgid "to accompany this starter kit where you"
+msgstr "para acompañar este kit de inicio donde usted"
+
+#. visible for 4 seconds
+#: 00:28:02.798--%3E00:28:07.038
+msgid "can come talk about"
+msgstr "puede hablar de"
+
+#. visible for 4 seconds
+#: 00:28:04.480--%3E00:28:09.200
+msgid "the ideas in this starter kit your own"
+msgstr "las ideas en este kit de inicio propio"
+
+#. visible for 4 seconds
+#: 00:28:07.038--%3E00:28:11.200
+msgid "experiences with implementation"
+msgstr "experiencias con la implementación"
+
+#. visible for 3 seconds
+#: 00:28:09.200--%3E00:28:12.720
+msgid "but you can also start to participate in"
+msgstr "pero también puedes empezar a participar en"
+
+#. visible for 2 seconds
+#: 00:28:11.200--%3E00:28:13.519
+msgid "some of the bigger conversations we're"
+msgstr "algunas de las conversaciones más grandes que somos"
+
+#. visible for 2 seconds
+#: 00:28:12.720--%3E00:28:15.519
+msgid "having"
+msgstr "teniendo"
+
+#. visible for 3 seconds
+#: 00:28:13.519--%3E00:28:17.038
+msgid "we would love to have you there all"
+msgstr "nos encantaría tenerte ahí todos"
+
+#. visible for 3 seconds
+#: 00:28:15.519--%3E00:28:19.038
+msgctxt "00:28:15.519-->00:28:19.038"
+msgid "right"
+msgstr "derecha"
+
+#. visible for 3 seconds
+#: 00:28:17.038--%3E00:28:20.640
+msgid "there's one more part of this starter"
+msgstr "hay una parte más de este iniciador"
+
+#. visible for 3 seconds
+#: 00:28:19.038--%3E00:28:22.398
+msgid "kit part four"
+msgstr "parte cuatro del kit"
+
+#. visible for 3 seconds
+#: 00:28:20.640--%3E00:28:24.320
+msgid "i'm going to release it in a separate"
+msgstr "voy a liberarlo en un separador"
+
+#. visible for 3 seconds
+#: 00:28:22.398--%3E00:28:26.000
+msgid "video you'll see the links in the"
+msgstr "vídeo que verás los enlaces en el"
+
+#. visible for 3 seconds
+#: 00:28:24.319--%3E00:28:28.158
+msgid "documentation here"
+msgstr "documentación aquí"
+
+#. visible for 3 seconds
+#: 00:28:26.000--%3E00:28:29.839
+msgid "where we dive into marlow a little bit"
+msgstr "donde nos sumergiremos un poco en el calabaza"
+
+#. visible for 3 seconds
+#: 00:28:28.159--%3E00:28:31.760
+msgid "and there's another call to action there"
+msgstr "y hay otra llamada a la acción allí"
+
+#. visible for 5 seconds
+#: 00:28:29.839--%3E00:28:35.519
+msgid "with a project you can do"
+msgstr "con un proyecto que puedes hacer"
+
+#. visible for 8 seconds
+#: 00:28:31.759--%3E00:28:39.759
+msgid "um it's really exciting the vision"
+msgstr "um es realmente emocionante la visión"
+
+#. visible for 6 seconds
+#: 00:28:35.519--%3E00:28:41.839
+msgid "of the iohk team around marlow"
+msgstr "del equipo iohk alrededor de la marisma"
+
+#. visible for 3 seconds
+#: 00:28:39.759--%3E00:28:42.960
+msgid "i was just watching the october"
+msgstr "estaba viendo el octubre"
+
+#. visible for 4 seconds
+#: 00:28:41.839--%3E00:28:46.558
+msgid "development update"
+msgstr "actualización de desarrollo"
+
+#. visible for 5 seconds
+#: 00:28:42.960--%3E00:28:48.798
+msgid "earlier today and just to see"
+msgstr "antes de hoy y sólo para ver"
+
+#. visible for 3 seconds
+#: 00:28:46.558--%3E00:28:49.678
+msgid "that team talking about how this is a"
+msgstr "ese equipo habla de cómo esto es un"
+
+#. visible for 4 seconds
+#: 00:28:48.798--%3E00:28:53.440
+msgid "tool"
+msgstr "herramienta"
+
+#. visible for 5 seconds
+#: 00:28:49.679--%3E00:28:54.960
+msgid "they want to put in everybody's hands"
+msgstr "quieren poner en las manos de todos"
+
+#. visible for 3 seconds
+#: 00:28:53.440--%3E00:28:56.720
+msgid "that's what we're here for that's what"
+msgstr "eso es lo que estamos aquí para eso"
+
+#. visible for 4 seconds
+#: 00:28:54.960--%3E00:28:59.440
+msgid "gets me up in the morning and i"
+msgstr "me levanta por la mañana y i"
+
+#. visible for 4 seconds
+#: 00:28:56.720--%3E00:29:00.960
+msgid "really i'm so thrilled to try to"
+msgstr "realmente estoy muy encantado de intentar"
+
+#. visible for 5 seconds
+#: 00:28:59.440--%3E00:29:05.038
+msgid "contribute to that work"
+msgstr "contribuir a ese trabajo"
+
+#. visible for 4 seconds
+#: 00:29:00.960--%3E00:29:05.038
+msgid "all right invite you to do the same"
+msgstr "todo el derecho te invita a hacer lo mismo"
+
+#. visible for 4 seconds
+#: 00:29:05.119--%3E00:29:09.199
+msgid "the action step for part three go out in"
+msgstr "el paso de acción de la parte 3 sale en"
+
+#. visible for 3 seconds
+#: 00:29:08.319--%3E00:29:12.079
+msgid "your community"
+msgstr "tu comunidad"
+
+#. visible for 3 seconds
+#: 00:29:09.200--%3E00:29:12.880
+msgid "help somebody get hands-on with cardano"
+msgstr "ayudar a alguien a ponerse manos a la obra con cardano"
+
+#. visible for 4 seconds
+#: 00:29:12.079--%3E00:29:17.038
+msgid "okay"
+msgstr "ok"
+
+#. visible for 7 seconds
+#: 00:29:12.880--%3E00:29:20.080
+msgid "it's challenging uh to buy ada right now"
+msgstr "es desafiante uh comprar ada ahora mismo"
+
+#. visible for 5 seconds
+#: 00:29:17.038--%3E00:29:22.960
+msgid "okay so like i did i i"
+msgstr "okay so like i made i"
+
+#. visible for 4 seconds
+#: 00:29:20.079--%3E00:29:24.720
+msgid "had adam design a logo for me and i"
+msgstr "tenía adam diseñando un logotipo para mí y i"
+
+#. visible for 4 seconds
+#: 00:29:22.960--%3E00:29:27.200
+msgid "asked him hey can i pay you an ada"
+msgstr "le preguntó hey can i pay an ada"
+
+#. visible for 4 seconds
+#: 00:29:24.720--%3E00:29:28.960
+msgid "and he was fine with that so i did now"
+msgstr "y estaba bien con eso así lo hice ahora"
+
+#. visible for 4 seconds
+#: 00:29:27.200--%3E00:29:31.600
+msgid "he's got some ada in his wallet"
+msgstr "tiene un poco de adada en su cartera"
+
+#. visible for 4 seconds
+#: 00:29:28.960--%3E00:29:33.759
+msgid "he now he can feel what it's like and"
+msgstr "ahora él puede sentir lo que es y"
+
+#. visible for 4 seconds
+#: 00:29:31.599--%3E00:29:35.759
+msgid "maybe eventually he'll purchase his own"
+msgstr "tal vez finalmente compre el suyo propio"
+
+#. visible for 4 seconds
+#: 00:29:33.759--%3E00:29:38.000
+msgid "maybe he'll use the ada i gave him to"
+msgstr "tal vez él usará la ada a la que le di"
+
+#. visible for 4 seconds
+#: 00:29:35.759--%3E00:29:40.240
+msgid "stake it and he'll find out what that's"
+msgstr "apóstelo y averiguará qué es"
+
+#. visible for 3 seconds
+#: 00:29:38.000--%3E00:29:41.440
+msgid "what that's like right maybe he'll pay"
+msgstr "lo que es correcto tal vez pague"
+
+#. visible for 4 seconds
+#: 00:29:40.240--%3E00:29:44.399
+msgid "somebody else"
+msgstr "alguien más"
+
+#. visible for 3 seconds
+#: 00:29:41.440--%3E00:29:45.200
+msgid "this is how we drive adoption right we"
+msgstr "así es como impulsamos la adopción justo nosotros"
+
+#. visible for 2 seconds
+#: 00:29:44.398--%3E00:29:46.959
+msgid "just start"
+msgstr "acaba de empezar"
+
+#. visible for 3 seconds
+#: 00:29:45.200--%3E00:29:48.240
+msgid "getting the the idea out there and"
+msgstr "conseguir la idea ahí fuera y"
+
+#. visible for 4 seconds
+#: 00:29:46.960--%3E00:29:51.919
+msgid "people start to say"
+msgstr "gente empieza a decir"
+
+#. visible for 4 seconds
+#: 00:29:48.240--%3E00:29:53.038
+msgid "ah okay i see right there's gonna be a"
+msgstr "okay y veo bien que hay gonna ser un"
+
+#. visible for 3 seconds
+#: 00:29:51.919--%3E00:29:55.038
+msgid "lot more ways"
+msgstr "más maneras"
+
+#. visible for 3 seconds
+#: 00:29:53.038--%3E00:29:56.480
+msgid "to get hands-on with cardano in the"
+msgstr "para obtener el hands-on con cardano en el"
+
+#. visible for 4 seconds
+#: 00:29:55.038--%3E00:29:59.519
+msgid "years to come"
+msgstr "años por venir"
+
+#. visible for 4 seconds
+#: 00:29:56.480--%3E00:30:00.960
+msgid "for now let's jump in"
+msgstr "por ahora vamos a ir en"
+
+#. visible for 3 seconds
+#: 00:29:59.519--%3E00:30:02.879
+msgid "so to close out we're going to go back"
+msgstr "así que para cerrar vamos a volver"
+
+#. visible for 4 seconds
+#: 00:30:00.960--%3E00:30:05.038
+msgid "to this question about having"
+msgstr "a esta pregunta acerca de tener"
+
+#. visible for 4 seconds
+#: 00:30:02.880--%3E00:30:07.840
+msgctxt "00:30:02.880-->00:30:07.840"
+msgid "problem-based conversations"
+msgstr "conversaciones basadas en problemas"
+
+#. visible for 5 seconds
+#: 00:30:05.038--%3E00:30:10.158
+msgid "i'm going to let sydney take us home in"
+msgstr "voy a dejar que Sydney nos lleve a casa"
+
+#. visible for 4 seconds
+#: 00:30:07.839--%3E00:30:11.839
+msgid "this story he tells"
+msgstr "esta historia que cuenta"
+
+#. visible for 3 seconds
+#: 00:30:10.159--%3E00:30:14.000
+msgid "about a conversation he was having with"
+msgstr "sobre una conversación con la que estaba teniendo"
+
+#. visible for 4 seconds
+#: 00:30:11.839--%3E00:30:16.079
+msgid "his brother so thank you so much for"
+msgstr "su hermano tan gracias por"
+
+#. visible for 3 seconds
+#: 00:30:14.000--%3E00:30:17.759
+msgid "spending this time with me today"
+msgstr "pasar este tiempo conmigo hoy"
+
+#. visible for 3 seconds
+#: 00:30:16.079--%3E00:30:19.678
+msgid "make sure to check out part four if"
+msgstr "asegúrese de revisar la parte cuatro si"
+
+#. visible for 2 seconds
+#: 00:30:17.759--%3E00:30:20.640
+msgid "you're interested in learning more about"
+msgstr "estás interesado en aprender más sobre"
+
+#. visible for 4 seconds
+#: 00:30:19.679--%3E00:30:23.840
+msgid "marlow"
+msgstr "marlow"
+
+#. visible for 4 seconds
+#: 00:30:20.640--%3E00:30:25.360
+msgid "and i'll see you soon take care i mean i"
+msgstr "y veré que pronto te cuidaré de significar i"
+
+#. visible for 3 seconds
+#: 00:30:23.839--%3E00:30:27.519
+msgid "don't know how these things will happen"
+msgstr "no sabe cómo sucederán estas cosas"
+
+#. visible for 4 seconds
+#: 00:30:25.359--%3E00:30:29.599
+msgid "i do believe that blockchain will have a"
+msgstr "creo que blockchain tendrá un"
+
+#. visible for 4 seconds
+#: 00:30:27.519--%3E00:30:32.240
+msgid "hand in solving these problems"
+msgstr "ayudar a resolver estos problemas"
+
+#. visible for 4 seconds
+#: 00:30:29.599--%3E00:30:34.319
+msgid "um and i was having a conversation just"
+msgstr "um y yo estaba teniendo una conversación sólo"
+
+#. visible for 6 seconds
+#: 00:30:32.240--%3E00:30:38.399
+msgid "before our call today"
+msgstr "antes de nuestra llamada de hoy"
+
+#. visible for 6 seconds
+#: 00:30:34.319--%3E00:30:40.720
+msgid "with my brother who is a um"
+msgstr "con mi hermano que es un um"
+
+#. visible for 4 seconds
+#: 00:30:38.398--%3E00:30:42.398
+msgid "a police officer for the the memphis"
+msgstr "un agente de policía de los memphis"
+
+#. visible for 5 seconds
+#: 00:30:40.720--%3E00:30:46.000
+msgid "police police department"
+msgstr "departamento de policía"
+
+#. visible for 5 seconds
+#: 00:30:42.398--%3E00:30:48.158
+msgid "and his wife who uh manages um"
+msgstr "y su esposa que administra um"
+
+#. visible for 3 seconds
+#: 00:30:46.000--%3E00:30:49.440
+msgid "uh nurses for one of the hospitals here"
+msgstr "uh enfermeras para uno de los hospitales aquí"
+
+#. visible for 2 seconds
+#: 00:30:48.159--%3E00:30:50.320
+msgid "in memphis and we had this deep"
+msgstr "en memphis y teníamos esta profundidad"
+
+#. visible for 4 seconds
+#: 00:30:49.440--%3E00:30:53.919
+msgid "conversation"
+msgstr "conversación"
+
+#. visible for 6 seconds
+#: 00:30:50.319--%3E00:30:56.319
+msgid "about um how how do we help people"
+msgstr "acerca de cómo ayudar a la gente"
+
+#. visible for 3 seconds
+#: 00:30:53.919--%3E00:30:57.360
+msgid "because in the memphis area um there's a"
+msgstr "porque en el área de memphis hay un"
+
+#. visible for 3 seconds
+#: 00:30:56.319--%3E00:30:59.678
+msgid "there's a lot of"
+msgstr "hay mucho de"
+
+#. visible for 3 seconds
+#: 00:30:57.359--%3E00:31:00.719
+msgid "um there's a lot of things that that"
+msgstr "um hay muchas cosas que eso"
+
+#. visible for 4 seconds
+#: 00:30:59.679--%3E00:31:04.000
+msgid "occur"
+msgstr "ocurren"
+
+#. visible for 4 seconds
+#: 00:31:00.720--%3E00:31:05.679
+msgid "that um uh you know that that"
+msgstr "ese um uh sabes que eso"
+
+#. visible for 4 seconds
+#: 00:31:04.000--%3E00:31:08.640
+msgid "that are hard to deal with a lot of you"
+msgstr "que son difíciles de lidiar con muchos de ustedes"
+
+#. visible for 4 seconds
+#: 00:31:05.679--%3E00:31:10.240
+msgid "know lack of resources a lot of um"
+msgstr "saber que falta de recursos es mucho"
+
+#. visible for 3 seconds
+#: 00:31:08.640--%3E00:31:12.000
+msgid "violence a lot a lot of those types of"
+msgstr "violencia mucho de esos tipos de"
+
+#. visible for 4 seconds
+#: 00:31:10.240--%3E00:31:15.200
+msgid "things and i was asking so how do"
+msgstr "cosas y yo estaba preguntando cómo hacerlo"
+
+#. visible for 5 seconds
+#: 00:31:12.000--%3E00:31:17.519
+msgid "how do we fix those problems and i was"
+msgstr "cómo arreglamos esos problemas y estaba"
+
+#. visible for 5 seconds
+#: 00:31:15.200--%3E00:31:20.558
+msgid "trying to pull that out of them"
+msgstr "tratando de sacar eso de ellos"
+
+#. visible for 5 seconds
+#: 00:31:17.519--%3E00:31:23.200
+msgid "because i know um"
+msgstr "porque sé um"
+
+#. visible for 4 seconds
+#: 00:31:20.558--%3E00:31:25.038
+msgid "without a doubt that blockchain will"
+msgstr "sin duda alguna que blockchain lo hará"
+
+#. visible for 4 seconds
+#: 00:31:23.200--%3E00:31:27.919
+msgid "facilitate"
+msgstr "facilitar"
+
+#. visible for 4 seconds
+#: 00:31:25.038--%3E00:31:29.440
+msgid "those solutions so whatever they were"
+msgstr "estas soluciones sean lo que fuesen"
+
+#. visible for 3 seconds
+#: 00:31:27.919--%3E00:31:31.120
+msgid "what they were telling me about the"
+msgstr "lo que me estaban diciendo sobre el"
+
+#. visible for 4 seconds
+#: 00:31:29.440--%3E00:31:33.919
+msgid "problem"
+msgstr "problema"
+
+#. visible for 3 seconds
+#: 00:31:31.119--%3E00:31:34.879
+msgid "i know that we can we can apply their"
+msgstr "sé que podemos aplicar su"
+
+#. visible for 4 seconds
+#: 00:31:33.919--%3E00:31:38.159
+msgid "solutions"
+msgstr "soluciones"
+
+#. visible for 5 seconds
+#: 00:31:34.880--%3E00:31:40.799
+msgid "on a blockchain network that will"
+msgstr "en una red de blockchain que será"
+
+#. visible for 3 seconds
+#: 00:31:38.159--%3E00:31:41.278
+msgid "meet each person individually where they"
+msgstr "conocer a cada persona individualmente donde"
+
+#. visible for 3 seconds
+#: 00:31:40.798--%3E00:31:44.158
+msgid "are"
+msgstr "están"
+
+#. visible for 5 seconds
+#: 00:31:41.278--%3E00:31:46.558
+msgid "and help to resolve these huge problems"
+msgstr "y ayudar a resolver estos enormes problemas"
+
+#. visible for 16 seconds
+#: 00:31:44.159--%3E00:32:01.039
+msgid "that we've been talking about fixing for"
+msgstr "que hemos estado hablando de arreglar para"
+
+#. visible for 14 seconds
+#: 00:31:46.558--%3E00:32:01.038
+msgid "for centuries now"
+msgstr "desde hace siglos"
+
