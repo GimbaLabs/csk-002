@@ -91,7 +91,7 @@ jobs:
         do
           for srtfile in $(ls $(jq -r --arg videoId "${video_id}" '.[] | select(.videoId==$videoId) | .srtPath' /tmp/map.json)/*_*.srt)
           do
-            YOUTUBE_LANGUAGE=$(basename $srtfile | sed 's|^\(..\)|\1|g')
+            YOUTUBE_LANGUAGE=$(basename $srtfile | sed 's|\(^..\)_\(.*\)|\1|g')
             export API_KEY=${{ secrets.GL_YOUTUBE_API_KEY }}
             ytc-set-srt ${video_id} ${YOUTUBE_LANGUAGE} ${srtfile}
           done
