@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /main/l10n/youtube/subtitles/part1/subs.pot\n"
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2020-11-17 13:37\n"
+"PO-Revision-Date: 2020-11-18 17:44\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
@@ -154,7 +154,7 @@ msgstr "hacer para iniciar esto"
 #. visible for 5 seconds
 #: 00:00:55.039--%3E00:01:00.079
 msgid "starter kit is is share a few education"
-msgstr "el kit de inicio es compartir algunas educación"
+msgstr "el kit de inicio es compartir algunos educación"
 
 #. visible for 3 seconds
 #: 00:00:58.399--%3E00:01:01.759
