@@ -11,7 +11,8 @@ env:
   GIT_USER: gimbalabs-ci
   GIT_EMAIL: integrations@gimbalabs.io
   PO_DIRS: l10n/youtube/subtitles/part1
-  YOUTUBE_VIDEO_CAPTIONS_MAP: '[{"videoId": "GiaGMgV6j6g", "srtPath":"l10n/youtube/subtitles/part1"}]'
+  YOUTUBE_VIDEO_CAPTIONS_MAP: 
+    [{"videoId": "GiaGMgV6j6g", "srtPath":"l10n/youtube/subtitles/part1"}]
   APT_ARGS: -y -o APT::Install-Suggests=false -o APT::Install-Recommends=false
 
 jobs:
@@ -77,10 +78,14 @@ jobs:
         curl -sSL https://raw.githubusercontent.com/rcmorano/baids/master/baids | bash -s install
         git clone https://github.com/GimbaLabs/youtube-captions-baids.git ~/.baids/functions.d/ytc
         source ~/.baids/baids 
+        pwd; ls -hal; find l10n
         set -x
-        for video_id in $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r .[].videoId)
+        cat > /tmp/youtube-video-captions-map.json <<EOF
+        ${YOUTUBE_VIDEO_CAPTIONS_MAP}
+        EOF
+        for video_id in $(jq -r .[].videoId /tmp/youtube-video-captions-map.json)
         do
-          for srtfile in $(ls $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r --arg videoId "${video_id}" '.[] | select(.videoId==$videoId) | .srtPath')/*_*.srt)
+          for srtfile in $(ls $(jq -r --arg videoId "${video_id}" '.[] | select(.videoId==$videoId) | .srtPath' /tmp/youtube-video-captions-map.json)/*_*.srt)
           do
             YOUTUBE_LANGUAGE=$(basename $srtfile | sed 's|^\(..\)|\1|g')
             export API_KEY=${{ secrets.GL_YOUTUBE_API_KEY }}
