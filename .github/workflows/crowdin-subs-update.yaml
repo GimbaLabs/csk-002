@@ -22,6 +22,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: Make env vars available to actions input vars
+      id: metadata
+      run: |
+        echo "::set-output name=GIT_PUSH_BRANCH::${GIT_PUSH_BRANCH}"
+        echo "::set-output name=GIT_USER::${GIT_USER}"
+        echo "::set-output name=GIT_EMAIL::${GIT_EMAIL}"
     - name: 
       run: |
         sudo apt-get install ${APT_ARGS} translate-toolkit python3-translate
@@ -39,9 +45,9 @@ jobs:
       uses: github-actions-x/commit@v2.7
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: ${GIT_PUSH_BRANCH}
+        push-branch: ${{ steps.metadata.outputs.GIT_PUSH_BRANCH }}
         rebase: 'true'
         commit-message: '[Auto] update srt files'
         files: 'l10n/**/*.srt'
-        name: ${GIT_USER}
-        email: ${GIT_EMAIL}
+        name: ${{ steps.metadata.outputs.GIT_USER }}
+        email: ${{ steps.metadata.outputs.GIT_EMAIL }}

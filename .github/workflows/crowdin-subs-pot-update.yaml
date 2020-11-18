@@ -20,6 +20,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: Make env vars available to actions input vars
+      id: metadata
+      run: |
+        echo "::set-output name=GIT_PUSH_BRANCH::${GIT_PUSH_BRANCH}"
+        echo "::set-output name=GIT_USER::${GIT_USER}"
+        echo "::set-output name=GIT_EMAIL::${GIT_EMAIL}"
     - name: 
       run: |
         set -x
@@ -32,9 +38,9 @@ jobs:
       uses: github-actions-x/commit@v2.7
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: ${GIT_PUSH_BRANCH}
+        push-branch: ${{ steps.metadata.outputs.GIT_PUSH_BRANCH }}
         rebase: 'true'
         commit-message: '[Auto] Update pot file(s)'
         files: 'l10n/**/*.pot'
-        name: ${GIT_USER}
-        email: ${GIT_EMAIL}
+        name: ${{ steps.metadata.outputs.GIT_USER }}
+        email: ${{ steps.metadata.outputs.GIT_EMAIL }}
