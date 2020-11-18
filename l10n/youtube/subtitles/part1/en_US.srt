@@ -4,7 +4,7 @@ Hi, my name is James and this is
 
 2
 00:00:02,720 --> 00:00:06,560
-a Cardano Starter Kit
+Cardano Starter Kit
 
 3
 00:00:04,240 --> 00:00:08,559
