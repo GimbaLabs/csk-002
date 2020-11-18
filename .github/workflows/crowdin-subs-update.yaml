@@ -85,7 +85,7 @@ jobs:
         set -x
         for video_id in $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r .[].videoId)
         do
-          for srtfile in $(ls $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r --arg videoId ${video_id} '.[] | .select(.video_id==$video_id) | .srtpath')/*.srt)
+          for srtfile in $(ls $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r --arg videoId ${video_id} '.[] | .select(.video_id==$video_id) | .srtPath')/*.srt)
           do
             YOUTUBE_LANGUAGE=$(basename $srt | sed 's|^\(..\)|\1|g')
             export API_KEY=${{ secrets.GL_YOUTUBE_API_KEY }}
