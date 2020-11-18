@@ -12,7 +12,7 @@ env:
   GIT_EMAIL: integrations@gimbalabs.io
   PO_DIRS: l10n/youtube/subtitles/part1
   YOUTUBE_VIDEO_CAPTIONS_MAP: |
-    [{"videoId": "GiaGMgV6j6g", "srtPath":"l10n/youtube/subtitles/part1"}]
+    '[{"videoId": "GiaGMgV6j6g", "srtPath":"l10n/youtube/subtitles/part1"}]'
   APT_ARGS: -y -o APT::Install-Suggests=false -o APT::Install-Recommends=false
 
 jobs:
@@ -81,9 +81,9 @@ jobs:
         git clone https://github.com/GimbaLabs/youtube-captions-baids.git ~/.baids/functions.d/ytc
         source ~/.baids/baids 
         set -x
-        for video_id in $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r .[].videoId)
+        for video_id in $(echo "${YOUTUBE_VIDEO_CAPTIONS_MAP}" | jq -r .[].videoId)
         do
-          for srtfile in $(ls $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r --arg videoId "${video_id}" '.[] | select(.videoId==$videoId) | .srtPath')/*_*.srt)
+          for srtfile in $(ls $(echo "${YOUTUBE_VIDEO_CAPTIONS_MAP}" | jq -r --arg videoId "${video_id}" '.[] | select(.videoId==$videoId) | .srtPath')/*_*.srt)
           do
             YOUTUBE_LANGUAGE=$(basename $srtfile | sed 's|^\(..\)|\1|g')
             export API_KEY=${{ secrets.GL_YOUTUBE_API_KEY }}
