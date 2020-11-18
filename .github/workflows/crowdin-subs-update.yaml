@@ -1,0 +1,46 @@
+name: l10n-subs-update
+on:
+  push:
+    paths:
+    - 'l10n/**/*.po'
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 */12 * * *'
+  watch:
+    types: [started]
+
+env:
+  GIT_PUSH_BRANCH: l10n-crowdin
+  GIT_USER: gimbalabs-ci
+  GIT_EMAIL: integrations@gimbalabs.io
+  PO_DIRS: l10n/youtube/subtitles/part1
+  APT_ARGS: -y -o APT::Install-Suggests=false -o APT::Install-Recommends=false
+
+jobs:
+  update-subs-files:
+    name: Update srt files from l10n platform
+    runs-on: ubuntu-latest
+    steps:
+    - name: 
+      run: |
+        sudo apt-get install ${APT_ARGS} translate-toolkit python3-translate
+        set -x
+        echo 'python3 /usr/lib/python3/dist-packages/translate/convert/po2sub.py $@' > /usr/local/bin/po2sub && chmod +x /usr/local/bin/po2sub
+        echo 'python3 /usr/lib/python3/dist-packages/translate/convert/sub2po.py $@' > /usr/local/bin/sub2po && chmod +x /usr/local/bin/sub2po
+        set -x
+        for pofile in ${PO_DIRS}/*po
+        do
+          PO_DIR=$(dirname ${pofile})
+          PO_LANG=$(basename ${pofile} | sed 's|.po$||g')
+          po2sub -t subs.srt ${pofile} ${PO_DIR}/${PO_LANG}.srt
+        done
+    - name: push
+      uses: github-actions-x/commit@v2.7
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: ${GIT_PUSH_BRANCH}
+        rebase: 'true'
+        commit-message: '[Auto] update srt files'
+        files: 'l10n/**/*.srt'
+        name: ${GIT_USER}
+        email: ${GIT_EMAIL}
