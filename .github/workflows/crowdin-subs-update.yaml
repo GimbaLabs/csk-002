@@ -77,6 +77,9 @@ jobs:
     runs-on: ubuntu-latest
     needs: update-subs-files
     steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ steps.metadata.outputs.GIT_PUSH_BRANCH }}
     - name: Upload using youtube-captions-baids
       run: |
         curl -sSL https://raw.githubusercontent.com/rcmorano/baids/master/baids | bash -s install
