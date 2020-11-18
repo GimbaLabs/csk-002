@@ -60,7 +60,7 @@ jobs:
       with:
         commit-message: '[Auto] Update srt files'
         labels: report, automated pr
-        title: [l10n] New captions translation
+        title: '[l10n] New captions translation'
         body: |
           PR auto-generated from this [gh-action][0].
 
