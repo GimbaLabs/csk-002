@@ -51,7 +51,18 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         push-branch: ${{ steps.metadata.outputs.GIT_PUSH_BRANCH }}
         rebase: 'true'
-        commit-message: '[Auto] update srt files'
+        commit-message: '[Auto] Update srt files'
         files: 'l10n/**/*.srt'
         name: ${{ steps.metadata.outputs.GIT_USER }}
         email: ${{ steps.metadata.outputs.GIT_EMAIL }}
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        commit-message: '[Auto] Update srt files'
+        labels: report, automated pr
+        title: [l10n] New captions translation
+        body: |
+          PR auto-generated from this [gh-action][0].
+
+          [0]: https://github.com/GimbaLabs/csk-002/blob/main/.github/workflows/crowdin-subs-update.yaml
+        branch: main
