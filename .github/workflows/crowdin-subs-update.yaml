@@ -16,6 +16,8 @@ env:
   GIT_USER: gimbalabs-ci
   GIT_EMAIL: integrations@gimbalabs.io
   PO_DIRS: l10n/youtube/subtitles/part1
+  YOUTUBE_VIDEO_CAPTIONS_MAP: |
+    [{"videoId": "GiaGMgV6j6g", "srtPath":"l10n/youtube/subtitles/part1"}]
   APT_ARGS: -y -o APT::Install-Suggests=false -o APT::Install-Recommends=false
 
 jobs:
@@ -70,3 +72,23 @@ jobs:
 
           [0]: https://github.com/GimbaLabs/csk-002/blob/main/.github/workflows/crowdin-subs-update.yaml
         branch: main
+  update-youtube-captions:
+    name: Update YouTube subtitles 
+    runs-on: ubuntu-latest
+    needs: update-subs-files
+    steps:
+    - name: Upload using youtube-captions-baids
+      run: |
+        curl -sSL https://raw.githubusercontent.com/rcmorano/baids/master/baids | bash -s install
+        git clone https://github.com/GimbaLabs/youtube-captions-baids.git ~/.baids/functions.d/ytc
+        source /root/.baids/baids 
+        set -x
+        for video_id in $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r .[].videoId)
+        do
+          for srtfile in $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r --arg videoId ${video_id} '.[] | .select(.video_id==$video_id) | .srtpath')/*.srt
+          do
+            YOUTUBE_LANGUAGE=$(basename $srt | sed 's|^\(..\)|\1|g')
+            export API_KEY=${{ secrets.GL_YOUTUBE_API_KEY }}
+            ytc-set-srt ${video_id} ${YOUTUBE_LANGUAGE} ${srtfile}
+          done
+        done
