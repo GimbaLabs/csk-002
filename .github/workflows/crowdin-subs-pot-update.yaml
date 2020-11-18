@@ -1,8 +1,8 @@
 name: l10n-subs-pot-update
 on:
   push:
-    branches:
-    - l10n-crowdin
+#    branches:
+#    - l10n-crowdin
     paths:
     - 'l10n/**/en_US.po'
   schedule:
