@@ -11,8 +11,7 @@ env:
   GIT_USER: gimbalabs-ci
   GIT_EMAIL: integrations@gimbalabs.io
   PO_DIRS: l10n/youtube/subtitles/part1
-  YOUTUBE_VIDEO_CAPTIONS_MAP: |
-    '[{"videoId": "GiaGMgV6j6g", "srtPath":"l10n/youtube/subtitles/part1"}]'
+  YOUTUBE_VIDEO_CAPTIONS_MAP: '[{"videoId": "GiaGMgV6j6g", "srtPath":"l10n/youtube/subtitles/part1"}]'
   APT_ARGS: -y -o APT::Install-Suggests=false -o APT::Install-Recommends=false
 
 jobs:
@@ -32,13 +31,11 @@ jobs:
     - name: Install l10n depends
       run: |
         sudo apt-get install ${APT_ARGS} translate-toolkit python3-translate python3-aeidon gaupol
+        set -x
         echo 'python3 /usr/lib/python3/dist-packages/translate/convert/po2sub.py $@' | sudo tee -a /usr/local/bin/po2sub && sudo chmod +x /usr/local/bin/po2sub
         echo 'python3 /usr/lib/python3/dist-packages/translate/convert/sub2po.py $@' | sudo tee -a /usr/local/bin/sub2po && sudo chmod +x /usr/local/bin/sub2po
     - name: Generate .srt files
       run: |
-        set -x
-        echo 'python3 /usr/lib/python3/dist-packages/translate/convert/po2sub.py $@' | sudo tee -a /usr/local/bin/po2sub && sudo chmod +x /usr/local/bin/po2sub
-        echo 'python3 /usr/lib/python3/dist-packages/translate/convert/sub2po.py $@' | sudo tee -a /usr/local/bin/sub2po && sudo chmod +x /usr/local/bin/sub2po
         set -x
         for pofile in $(ls ${PO_DIRS}/*po)
         do
@@ -81,9 +78,9 @@ jobs:
         git clone https://github.com/GimbaLabs/youtube-captions-baids.git ~/.baids/functions.d/ytc
         source ~/.baids/baids 
         set -x
-        for video_id in $(echo "${YOUTUBE_VIDEO_CAPTIONS_MAP}" | jq -r .[].videoId)
+        for video_id in $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r .[].videoId)
         do
-          for srtfile in $(ls $(echo "${YOUTUBE_VIDEO_CAPTIONS_MAP}" | jq -r --arg videoId "${video_id}" '.[] | select(.videoId==$videoId) | .srtPath')/*_*.srt)
+          for srtfile in $(ls $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r --arg videoId "${video_id}" '.[] | select(.videoId==$videoId) | .srtPath')/*_*.srt)
           do
             YOUTUBE_LANGUAGE=$(basename $srtfile | sed 's|^\(..\)|\1|g')
             export API_KEY=${{ secrets.GL_YOUTUBE_API_KEY }}
