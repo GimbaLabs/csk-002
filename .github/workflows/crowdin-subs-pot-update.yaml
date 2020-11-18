@@ -2,7 +2,7 @@ name: l10n-subs-pot-update
 on:
   push:
 #    branches:
-#    - l10n-crowdin
+#    - main
     paths:
     - 'l10n/**/en_US.po'
   schedule:
@@ -10,7 +10,7 @@ on:
     - cron:  '0 */12 * * *'
 
 env:
-  GIT_PUSH_BRANCH: l10n-crowdin
+  GIT_PUSH_BRANCH: main
   GIT_USER: gimbalabs-ci
   GIT_EMAIL: integrations@gimbalabs.io
   BASE_LOCALE: en_US
