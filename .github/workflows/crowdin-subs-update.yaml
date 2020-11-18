@@ -43,7 +43,7 @@ jobs:
         do
           PO_DIR=$(dirname ${pofile})
           PO_LANG=$(basename ${pofile} | sed 's|.po$||g')
-          po2sub -t subs.srt ${pofile} ${PO_DIR}/${PO_LANG}.srt
+          po2sub -t ${PO_DIR}/subs.srt ${pofile} ${PO_DIR}/${PO_LANG}.srt
         done
     - name: push
       uses: github-actions-x/commit@v2.7
