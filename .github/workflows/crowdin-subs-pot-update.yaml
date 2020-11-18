@@ -19,6 +19,7 @@ jobs:
     name: Update subtitle templates from English translation
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v2
     - name: 
       run: |
         set -x
