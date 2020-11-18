@@ -28,7 +28,7 @@ jobs:
         echo 'python3 /usr/lib/python3/dist-packages/translate/convert/po2sub.py $@' | sudo tee -a /usr/local/bin/po2sub && sudo chmod +x /usr/local/bin/po2sub
         echo 'python3 /usr/lib/python3/dist-packages/translate/convert/sub2po.py $@' | sudo tee -a /usr/local/bin/sub2po && sudo chmod +x /usr/local/bin/sub2po
         set -x
-        for pofile in ${PO_DIRS}/*po
+        for pofile in $(ls ${PO_DIRS}/*po)
         do
           PO_DIR=$(dirname ${pofile})
           PO_LANG=$(basename ${pofile} | sed 's|.po$||g')
