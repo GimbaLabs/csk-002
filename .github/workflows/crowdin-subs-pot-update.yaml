@@ -1,0 +1,47 @@
+name: l10n-subs-pot-update
+on:
+  push:
+    branches:
+    - main
+    paths:
+    - 'l10n/**/en_US.po'
+
+env:
+  GIT_PUSH_BRANCH: main
+  GIT_USER: gimbalabs-ci
+  GIT_EMAIL: integrations@gimbalabs.io
+  BASE_LOCALE: en_US
+  POT_FILES: l10n/youtube/subtitles/part1/subs.pot
+
+jobs:
+  update-subs-template:
+    name: Update subtitle templates from English translation
+    runs-on: ubuntu-latest
+    steps:
+    - name: Make env vars available to actions input vars
+      id: metadata
+      run: |
+        echo "::set-output name=GIT_PUSH_BRANCH::${GIT_PUSH_BRANCH}"
+        echo "::set-output name=GIT_USER::${GIT_USER}"
+        echo "::set-output name=GIT_EMAIL::${GIT_EMAIL}"
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ steps.metadata.outputs.GIT_PUSH_BRANCH }}
+    - name: 
+      run: |
+        set -x
+        ls -hal
+        for file in ${POT_FILES}
+        do
+          cp -a $(dirname ${file})/${BASE_LOCALE}.po ${file}
+        done
+    - name: push
+      uses: github-actions-x/commit@v2.7
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: ${{ steps.metadata.outputs.GIT_PUSH_BRANCH }}
+        rebase: 'true'
+        commit-message: '[Auto] Update pot file(s)'
+        files: 'l10n/**/*.pot'
+        name: ${{ steps.metadata.outputs.GIT_USER }}
+        email: ${{ steps.metadata.outputs.GIT_EMAIL }}
