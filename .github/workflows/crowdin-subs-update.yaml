@@ -20,7 +20,7 @@ env:
 
 jobs:
   update-subs-files:
-    name: Update srt files from l10n platform
+    name: Update subtitles files from l10n platform
     runs-on: ubuntu-latest
     steps:
     - name: Make env vars available to actions input vars
@@ -32,9 +32,13 @@ jobs:
     - uses: actions/checkout@v2
       with:
         ref: ${{ steps.metadata.outputs.GIT_PUSH_BRANCH }}
-    - name: 
+    - name: Install l10n depends
       run: |
-        sudo apt-get install ${APT_ARGS} translate-toolkit python3-translate
+        sudo apt-get install ${APT_ARGS} translate-toolkit python3-translate python3-aeidon gaupol
+        echo 'python3 /usr/lib/python3/dist-packages/translate/convert/po2sub.py $@' | sudo tee -a /usr/local/bin/po2sub && sudo chmod +x /usr/local/bin/po2sub
+        echo 'python3 /usr/lib/python3/dist-packages/translate/convert/sub2po.py $@' | sudo tee -a /usr/local/bin/sub2po && sudo chmod +x /usr/local/bin/sub2po
+    - name: Generate .srt files
+      run: |
         set -x
         echo 'python3 /usr/lib/python3/dist-packages/translate/convert/po2sub.py $@' | sudo tee -a /usr/local/bin/po2sub && sudo chmod +x /usr/local/bin/po2sub
         echo 'python3 /usr/lib/python3/dist-packages/translate/convert/sub2po.py $@' | sudo tee -a /usr/local/bin/sub2po && sudo chmod +x /usr/local/bin/sub2po
