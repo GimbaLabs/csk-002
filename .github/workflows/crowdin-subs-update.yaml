@@ -88,9 +88,9 @@ jobs:
         set -x
         for video_id in $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r .[].videoId)
         do
-          for srtfile in $(ls $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r --arg videoId "${video_id}" '.[] | select(.videoId==$videoId) | .srtPath')/*.srt)
+          for srtfile in $(ls $(echo ${YOUTUBE_VIDEO_CAPTIONS_MAP} | jq -r --arg videoId "${video_id}" '.[] | select(.videoId==$videoId) | .srtPath')/*_*.srt)
           do
-            YOUTUBE_LANGUAGE=$(basename $srt | sed 's|^\(..\)|\1|g')
+            YOUTUBE_LANGUAGE=$(basename $srtfile | sed 's|^\(..\)|\1|g')
             export API_KEY=${{ secrets.GL_YOUTUBE_API_KEY }}
             ytc-set-srt ${video_id} ${YOUTUBE_LANGUAGE} ${srtfile}
           done
