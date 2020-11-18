@@ -11,7 +11,7 @@ env:
   GIT_USER: gimbalabs-ci
   GIT_EMAIL: integrations@gimbalabs.io
   PO_DIRS: l10n/youtube/subtitles/part1
-  YOUTUBE_VIDEO_CAPTIONS_MAP: 
+  YOUTUBE_VIDEO_CAPTIONS_MAP: |
     [{"videoId": "GiaGMgV6j6g", "srtPath":"l10n/youtube/subtitles/part1"}]
   APT_ARGS: -y -o APT::Install-Suggests=false -o APT::Install-Recommends=false
 
