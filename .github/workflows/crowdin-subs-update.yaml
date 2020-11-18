@@ -70,6 +70,10 @@ jobs:
     runs-on: ubuntu-latest
     needs: update-subs-files
     steps:
+    - name: Make env vars available to actions input vars
+      id: metadata
+      run: |
+        echo "::set-output name=GIT_PUSH_BRANCH::${GIT_PUSH_BRANCH}"
     - uses: actions/checkout@v2
       with:
         ref: ${{ steps.metadata.outputs.GIT_PUSH_BRANCH }}
@@ -80,12 +84,12 @@ jobs:
         source ~/.baids/baids 
         pwd; ls -hal; find l10n
         set -x
-        cat > /tmp/youtube-video-captions-map.json <<EOF
+        cat > /tmp/map.json <<EOF
         ${YOUTUBE_VIDEO_CAPTIONS_MAP}
         EOF
-        for video_id in $(jq -r .[].videoId /tmp/youtube-video-captions-map.json)
+        for video_id in $(jq -r .[].videoId /tmp/map.json)
         do
-          for srtfile in $(ls $(jq -r --arg videoId "${video_id}" '.[] | select(.videoId==$videoId) | .srtPath' /tmp/youtube-video-captions-map.json)/*_*.srt)
+          for srtfile in $(ls $(jq -r --arg videoId "${video_id}" '.[] | select(.videoId==$videoId) | .srtPath' /tmp/map.json)/*_*.srt)
           do
             YOUTUBE_LANGUAGE=$(basename $srtfile | sed 's|^\(..\)|\1|g')
             export API_KEY=${{ secrets.GL_YOUTUBE_API_KEY }}
