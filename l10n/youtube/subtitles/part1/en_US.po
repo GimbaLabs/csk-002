@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /l10n-ci/l10n/youtube/subtitles/part1/subs.pot\n"
 "X-Crowdin-File-ID: 60\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2020-11-19 15:47\n"
+"PO-Revision-Date: 2020-11-19 15:52\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
@@ -324,7 +324,7 @@ msgstr ""
 #. visible for 5 seconds
 #: 00:02:03.200--%3E00:02:09.118
 msgid "for ourselves pbl"
-msgstr ""
+msgstr "for ourselves PBL"
 
 #. visible for 3 seconds
 #: 00:02:06.399--%3E00:02:10.080
