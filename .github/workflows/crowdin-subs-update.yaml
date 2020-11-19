@@ -4,7 +4,7 @@ on:
     branches:
       - l10n-ci
     paths:
-    - 'l10n/**/*.po'
+      - 'l10n/**/*.po'
 
 env:
   GIT_PUSH_BRANCH: l10n-ci
