@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /l10n-ci/l10n/youtube/subtitles/part1/subs.pot\n"
 "X-Crowdin-File-ID: 60\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2020-11-19 16:02\n"
+"PO-Revision-Date: 2020-11-19 16:11\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
@@ -1111,7 +1111,7 @@ msgstr ""
 #. visible for 6 seconds
 #: 00:07:35.598--%3E00:07:42.560
 msgid "talk about blockchain and cardano"
-msgstr ""
+msgstr "talk about blockchain and Cardano"
 
 #. visible for 5 seconds
 #: 00:07:39.120--%3E00:07:44.879
