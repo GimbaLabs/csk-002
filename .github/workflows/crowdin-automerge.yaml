@@ -1,0 +1,23 @@
+name: l10n-crowdin-automerge
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+      - reopened
+  check_suite:
+    types:
+      - completed
+  status: {}
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.pull_request.head.ref }} == 'l10n-crowdin' # check PR origin branch
+    steps:
+      - name: automerge
+        uses: "pascalgn/automerge-action@v0.12.0"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_LABELS: ""
+          MERGE_METHOD: squash
