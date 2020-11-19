@@ -1,10 +1,8 @@
 name: l10n-subs-update
 on:
-  pull_request:
+  push:
     branches:
-      - l10n-crowdin
-    types:
-      - closed
+      - l10n-ci
     paths:
     - 'l10n/**/*.po'
 
@@ -19,7 +17,6 @@ env:
 
 jobs:
   update-subs-files:
-    if: ${{ github.event.pull_request.merged }} == 'true'
     name: Update subtitles files from l10n platform
     runs-on: ubuntu-latest
     steps:
@@ -69,7 +66,6 @@ jobs:
           [0]: https://github.com/GimbaLabs/csk-002/blob/main/.github/workflows/crowdin-subs-update.yaml
         branch: main
   update-youtube-captions:
-    if: ${{ github.event.pull_request.merged }} == 'true'
     name: Update YouTube subtitles 
     runs-on: ubuntu-latest
     needs: update-subs-files

@@ -1,10 +1,8 @@
 name: l10n-subs-pot-update
 on:
-  pull_request:
+  push:
     branches:
-      - l10n-crowdin
-    types:
-      - closed
+      - l10n-ci
     paths:
     - 'l10n/**/en_US.po'
 
@@ -17,7 +15,6 @@ env:
 
 jobs:
   update-subs-template:
-    if: ${{ github.event.pull_request.merged }} == 'true'
     name: Update subtitle templates from English translation
     runs-on: ubuntu-latest
     steps:
