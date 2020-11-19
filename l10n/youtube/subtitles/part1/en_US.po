@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /l10n-ci/l10n/youtube/subtitles/part1/subs.pot\n"
 "X-Crowdin-File-ID: 60\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2020-11-18 16:34\n"
+"PO-Revision-Date: 2020-11-19 16:45\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
@@ -1437,7 +1437,7 @@ msgstr ""
 #. visible for 3 seconds
 #: 00:09:53.600--%3E00:09:56.800
 msgid "gogan's gonna come out right we're"
-msgstr ""
+msgstr "Goguen's gonna come out right we're"
 
 #. visible for 4 seconds
 #: 00:09:55.519--%3E00:10:00.399
