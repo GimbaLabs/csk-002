@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /l10n-ci/l10n/youtube/subtitles/part1/subs.pot\n"
 "X-Crowdin-File-ID: 60\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2020-11-19 15:52\n"
+"PO-Revision-Date: 2020-11-19 16:02\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
@@ -454,7 +454,7 @@ msgstr ""
 #. visible for 5 seconds
 #: 00:02:56.560--%3E00:03:01.598
 msgid "pbl gives us the opportunity to practice"
-msgstr ""
+msgstr "PBL gives us the opportunity to practice"
 
 #. visible for 5 seconds
 #: 00:02:59.680--%3E00:03:04.959
