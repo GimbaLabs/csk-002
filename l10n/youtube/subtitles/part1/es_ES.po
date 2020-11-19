@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /main/l10n/youtube/subtitles/part1/subs.pot\n"
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2020-11-19 12:09\n"
+"PO-Revision-Date: 2020-11-19 12:17\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
@@ -254,7 +254,7 @@ msgstr "nuestra conversación en los laboratorios de gimnasia"
 #. visible for 2 seconds
 #: 00:01:34.159--%3E00:01:36.560
 msgid "discord"
-msgstr "discord"
+msgstr "Discord"
 
 #. visible for 3 seconds
 #: 00:01:35.359--%3E00:01:38.959
