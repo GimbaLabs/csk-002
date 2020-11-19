@@ -1,4 +1,4 @@
-name: l10n-crowdin-automerge
+name: l10n-ci-automerge
 on:
   pull_request:
     branches:
