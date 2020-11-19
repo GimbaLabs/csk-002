@@ -16,8 +16,8 @@ env:
   POT_FILES: l10n/youtube/subtitles/part1/subs.pot
 
 jobs:
-  if: ${{ github.event.pull_request.merged }} == 'true'
   update-subs-template:
+    if: ${{ github.event.pull_request.merged }} == 'true'
     name: Update subtitle templates from English translation
     runs-on: ubuntu-latest
     steps:
