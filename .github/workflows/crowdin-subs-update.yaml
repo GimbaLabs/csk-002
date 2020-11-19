@@ -1,10 +1,10 @@
 name: l10n-subs-update
 on:
-  push:
+  pull_request:
     branches:
       - l10n-ci
     paths:
-    - 'l10n/**/*.po'
+      - 'l10n/**/*.po'
 
 env:
   GIT_PUSH_BRANCH: l10n-ci
@@ -17,6 +17,7 @@ env:
 
 jobs:
   update-subs-files:
+    if: github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true
     name: Update subtitles files from l10n platform
     runs-on: ubuntu-latest
     steps:
