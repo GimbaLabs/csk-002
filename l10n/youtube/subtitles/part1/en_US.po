@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /l10n-ci/l10n/youtube/subtitles/part1/subs.pot\n"
 "X-Crowdin-File-ID: 60\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2020-11-19 15:41\n"
+"PO-Revision-Date: 2020-11-19 15:43\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
@@ -39,7 +39,7 @@ msgstr ""
 #: 00:00:08.558--%3E00:00:12.558
 msgctxt "00:00:08.558-->00:00:12.558"
 msgid "cardano with your friends and family"
-msgstr ""
+msgstr "Cardano with your friends and family"
 
 #. visible for 3 seconds
 #: 00:00:10.638--%3E00:00:14.079
@@ -3119,7 +3119,7 @@ msgstr ""
 #: 00:21:58.319--%3E00:22:03.038
 msgctxt "00:21:58.319-->00:22:03.038"
 msgid "cardano with your friends and family"
-msgstr ""
+msgstr "Cardano with your friends and family"
 
 #. visible for 3 seconds
 #: 00:22:01.119--%3E00:22:05.038
