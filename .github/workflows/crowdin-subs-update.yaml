@@ -18,7 +18,7 @@ env:
   APT_ARGS: -y -o APT::Install-Suggests=false -o APT::Install-Recommends=false
 
 jobs:
-  if: github.event.pull_request.merged == true
+  if: ${{ github.event.pull_request.merged }} == 'true'
   update-subs-files:
     name: Update subtitles files from l10n platform
     runs-on: ubuntu-latest
