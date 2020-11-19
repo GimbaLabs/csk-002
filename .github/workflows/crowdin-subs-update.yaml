@@ -1,0 +1,98 @@
+name: l10n-subs-update
+on:
+  push:
+    branches:
+    - main
+    paths:
+    - 'l10n/**/*.po'
+
+env:
+  GIT_PUSH_BRANCH: main
+  GIT_USER: gimbalabs-ci
+  GIT_EMAIL: integrations@gimbalabs.io
+  PO_DIRS: l10n/youtube/subtitles/part1
+  YOUTUBE_VIDEO_CAPTIONS_MAP: |
+    [{"videoId": "GiaGMgV6j6g", "srtPath":"l10n/youtube/subtitles/part1"}]
+  APT_ARGS: -y -o APT::Install-Suggests=false -o APT::Install-Recommends=false
+
+jobs:
+  update-subs-files:
+    name: Update subtitles files from l10n platform
+    runs-on: ubuntu-latest
+    steps:
+    - name: Make env vars available to actions input vars
+      id: metadata
+      run: |
+        echo "::set-output name=GIT_PUSH_BRANCH::${GIT_PUSH_BRANCH}"
+        echo "::set-output name=GIT_USER::${GIT_USER}"
+        echo "::set-output name=GIT_EMAIL::${GIT_EMAIL}"
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ steps.metadata.outputs.GIT_PUSH_BRANCH }}
+    - name: Install l10n depends
+      run: |
+        sudo apt-get install ${APT_ARGS} translate-toolkit python3-translate python3-aeidon gaupol
+        set -x
+        echo 'python3 /usr/lib/python3/dist-packages/translate/convert/po2sub.py $@' | sudo tee -a /usr/local/bin/po2sub && sudo chmod +x /usr/local/bin/po2sub
+        echo 'python3 /usr/lib/python3/dist-packages/translate/convert/sub2po.py $@' | sudo tee -a /usr/local/bin/sub2po && sudo chmod +x /usr/local/bin/sub2po
+    - name: Generate .srt files
+      run: |
+        set -x
+        for pofile in $(ls ${PO_DIRS}/*po)
+        do
+          PO_DIR=$(dirname ${pofile})
+          PO_LANG=$(basename ${pofile} | sed 's|.po$||g')
+          po2sub -t ${PO_DIR}/subs.srt ${pofile} ${PO_DIR}/${PO_LANG}.srt
+        done
+    - name: push
+      uses: github-actions-x/commit@v2.7
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: ${{ steps.metadata.outputs.GIT_PUSH_BRANCH }}
+        rebase: 'true'
+        commit-message: '[Auto] Update srt files'
+        files: 'l10n/**/*.srt'
+        name: ${{ steps.metadata.outputs.GIT_USER }}
+        email: ${{ steps.metadata.outputs.GIT_EMAIL }}
+#    - name: Create Pull Request
+#      uses: peter-evans/create-pull-request@v3
+#      with:
+#        commit-message: '[Auto] Update srt files'
+#        labels: report, automated pr
+#        title: '[l10n] New captions translation'
+#        body: |
+#          PR auto-generated from this [gh-action][0].
+#
+#          [0]: https://github.com/GimbaLabs/csk-002/blob/main/.github/workflows/crowdin-subs-update.yaml
+#        branch: main
+  update-youtube-captions:
+    name: Update YouTube subtitles 
+    runs-on: ubuntu-latest
+    needs: update-subs-files
+    steps:
+    - name: Make env vars available to actions input vars
+      id: metadata
+      run: |
+        echo "::set-output name=GIT_PUSH_BRANCH::${GIT_PUSH_BRANCH}"
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ steps.metadata.outputs.GIT_PUSH_BRANCH }}
+    - name: Upload using youtube-captions-baids
+      run: |
+        curl -sSL https://raw.githubusercontent.com/rcmorano/baids/master/baids | bash -s install
+        git clone https://github.com/GimbaLabs/youtube-captions-baids.git ~/.baids/functions.d/ytc
+        source ~/.baids/baids 
+        pwd; ls -hal; find l10n
+        set -x
+        cat > /tmp/map.json <<EOF
+        ${YOUTUBE_VIDEO_CAPTIONS_MAP}
+        EOF
+        for video_id in $(jq -r .[].videoId /tmp/map.json)
+        do
+          for srtfile in $(ls $(jq -r --arg videoId "${video_id}" '.[] | select(.videoId==$videoId) | .srtPath' /tmp/map.json)/*_*.srt)
+          do
+            YOUTUBE_LANGUAGE=$(basename $srtfile | sed 's|\(^..\)_\(.*\)|\1|g')
+            export API_KEY=${{ secrets.GL_YOUTUBE_API_KEY }}
+            ytc-set-srt ${video_id} ${YOUTUBE_LANGUAGE} ${srtfile}
+          done
+        done
