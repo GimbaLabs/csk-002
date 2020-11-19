@@ -4,16 +4,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: sub2po\n"
-"Project-Id-Version: gl-csk002-video-part1\n"
+"Project-Id-Version: gl-csk002\n"
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: gl-csk002-video-part1\n"
-"X-Crowdin-Project-ID: 429020\n"
+"X-Crowdin-Project: gl-csk002\n"
+"X-Crowdin-Project-ID: 429668\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /main/l10n/youtube/subtitles/part1/subs.pot\n"
-"X-Crowdin-File-ID: 36\n"
+"X-Crowdin-File: /l10n-ci/l10n/youtube/subtitles/part1/subs.pot\n"
+"X-Crowdin-File-ID: 60\n"
 "Language-Team: English\n"
-"PO-Revision-Date: 2020-11-18 19:01\n"
+"PO-Revision-Date: 2020-11-19 15:41\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
@@ -94,7 +94,7 @@ msgstr ""
 #. visible for 3 seconds
 #: 00:00:30.640--%3E00:00:34.079
 msgid "about cardano"
-msgstr ""
+msgstr "about Cardano"
 
 #. visible for 3 seconds
 #: 00:00:31.920--%3E00:00:35.200
@@ -254,7 +254,7 @@ msgstr ""
 #. visible for 2 seconds
 #: 00:01:34.159--%3E00:01:36.560
 msgid "discord"
-msgstr ""
+msgstr "Discord"
 
 #. visible for 3 seconds
 #: 00:01:35.359--%3E00:01:38.959

@@ -4,16 +4,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: sub2po\n"
-"Project-Id-Version: gl-csk002-video-part1\n"
+"Project-Id-Version: gl-csk002\n"
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: gl-csk002-video-part1\n"
-"X-Crowdin-Project-ID: 429020\n"
+"X-Crowdin-Project: gl-csk002\n"
+"X-Crowdin-Project-ID: 429668\n"
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /main/l10n/youtube/subtitles/part1/subs.pot\n"
-"X-Crowdin-File-ID: 36\n"
+"X-Crowdin-File-ID: 48\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2020-11-19 12:09\n"
+"PO-Revision-Date: 2020-11-19 13:57\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
@@ -254,7 +254,7 @@ msgstr "nuestra conversación en los laboratorios de gimnasia"
 #. visible for 2 seconds
 #: 00:01:34.159--%3E00:01:36.560
 msgid "discord"
-msgstr "discord"
+msgstr ""
 
 #. visible for 3 seconds
 #: 00:01:35.359--%3E00:01:38.959
@@ -334,7 +334,7 @@ msgstr "es un acrónimo que es realmente conveniente"
 #. visible for 3 seconds
 #: 00:02:09.118--%3E00:02:12.560
 msgid "catch-all"
-msgstr "catch-all"
+msgstr ""
 
 #. visible for 3 seconds
 #: 00:02:10.080--%3E00:02:13.680
@@ -1026,7 +1026,7 @@ msgstr "para planear conversaciones sobre"
 #: 00:07:01.439--%3E00:07:05.360
 msgctxt "00:07:01.439-->00:07:05.360"
 msgid "cardano"
-msgstr "cardano"
+msgstr ""
 
 #. visible for 3 seconds
 #: 00:07:03.279--%3E00:07:06.879
@@ -1136,7 +1136,7 @@ msgstr "hacer tiempo para pensar y reflexionar sobre el"
 #. visible for 3 seconds
 #: 00:07:49.680--%3E00:07:53.199
 msgid "ideas"
-msgstr "ideas"
+msgstr ""
 
 #. visible for 4 seconds
 #: 00:07:50.478--%3E00:07:55.439
@@ -2740,7 +2740,7 @@ msgstr "uno de mis clips favoritos de steve"
 #. visible for 3 seconds
 #: 00:19:21.119--%3E00:19:24.558
 msgid "aldrich"
-msgstr "aldrich"
+msgstr ""
 
 #. visible for 4 seconds
 #: 00:19:22.558--%3E00:19:26.960
@@ -2822,7 +2822,7 @@ msgstr "mira blockchain o más específicamente"
 #: 00:19:57.279--%3E00:20:00.879
 msgctxt "00:19:57.279-->00:20:00.879"
 msgid "cardano"
-msgstr "cardano"
+msgstr ""
 
 #. visible for 4 seconds
 #: 00:19:58.240--%3E00:20:02.558
@@ -3565,7 +3565,7 @@ msgstr "voy a conseguir que mi pantalla de envío se abra"
 #. visible for 4 seconds
 #: 00:25:18.480--%3E00:25:23.440
 msgid "a qr code"
-msgstr "a qr code"
+msgstr ""
 
 #. visible for 9 seconds
 #: 00:25:19.519--%3E00:25:29.038
@@ -3800,7 +3800,7 @@ msgstr "cara y la voz del iniciador de cardano"
 #. visible for 3 seconds
 #: 00:27:06.480--%3E00:27:09.919
 msgid "kits"
-msgstr "kits"
+msgstr ""
 
 #. visible for 4 seconds
 #: 00:27:07.038--%3E00:27:11.119
@@ -4248,7 +4248,7 @@ msgstr "estás interesado en aprender más sobre"
 #. visible for 4 seconds
 #: 00:30:19.679--%3E00:30:23.840
 msgid "marlow"
-msgstr "marlow"
+msgstr ""
 
 #. visible for 4 seconds
 #: 00:30:20.640--%3E00:30:25.360
