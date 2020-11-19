@@ -2,7 +2,7 @@ name: automerge
 on:
   pull_request:
     branches:
-      - l10n-crowdin
+      - main
     types:
       - opened
       - reopened
@@ -13,6 +13,7 @@ on:
 jobs:
   automerge:
     runs-on: ubuntu-latest
+    if: github.event.pull_request.head.ref == 'l10n-crowdin' # check PR origin branch
     steps:
       - name: automerge
         uses: "pascalgn/automerge-action@v0.12.0"
