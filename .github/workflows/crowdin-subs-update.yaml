@@ -1,13 +1,15 @@
 name: l10n-subs-update
 on:
-  push:
+  pull_request:
     branches:
-    - main
+      - l10n-ci
+    types:
+      - closed
     paths:
     - 'l10n/**/*.po'
 
 env:
-  GIT_PUSH_BRANCH: main
+  GIT_PUSH_BRANCH: l10n-ci
   GIT_USER: gimbalabs-ci
   GIT_EMAIL: integrations@gimbalabs.io
   PO_DIRS: l10n/youtube/subtitles/part1
@@ -16,6 +18,7 @@ env:
   APT_ARGS: -y -o APT::Install-Suggests=false -o APT::Install-Recommends=false
 
 jobs:
+  if: github.event.pull_request.merged == true
   update-subs-files:
     name: Update subtitles files from l10n platform
     runs-on: ubuntu-latest
@@ -54,17 +57,17 @@ jobs:
         files: 'l10n/**/*.srt'
         name: ${{ steps.metadata.outputs.GIT_USER }}
         email: ${{ steps.metadata.outputs.GIT_EMAIL }}
-#    - name: Create Pull Request
-#      uses: peter-evans/create-pull-request@v3
-#      with:
-#        commit-message: '[Auto] Update srt files'
-#        labels: report, automated pr
-#        title: '[l10n] New captions translation'
-#        body: |
-#          PR auto-generated from this [gh-action][0].
-#
-#          [0]: https://github.com/GimbaLabs/csk-002/blob/main/.github/workflows/crowdin-subs-update.yaml
-#        branch: main
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        commit-message: '[Auto] Update srt files'
+        labels: report, automated pr
+        title: '[l10n] New captions translation'
+        body: |
+          PR auto-generated from this [gh-action][0].
+
+          [0]: https://github.com/GimbaLabs/csk-002/blob/main/.github/workflows/crowdin-subs-update.yaml
+        branch: main
   update-youtube-captions:
     name: Update YouTube subtitles 
     runs-on: ubuntu-latest

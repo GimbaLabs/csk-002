@@ -2,7 +2,7 @@ name: l10n-crowdin-automerge
 on:
   pull_request:
     branches:
-      - l10n-ci
+      - main
     types:
       - opened
       - reopened
@@ -11,9 +11,9 @@ on:
       - completed
   status: {}
 jobs:
-  automerge-crowdin:
+  automerge-l10n-ci:
     runs-on: ubuntu-latest
-    if: ${{ github.event.pull_request.head.ref }} == 'l10n-crowdin' # check PR origin branch
+    if: ${{ github.event.pull_request.head.ref }} == 'l10n-ci' # check PR origin branch
     steps:
       - name: automerge
         uses: "pascalgn/automerge-action@v0.12.0"
