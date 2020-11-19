@@ -2,7 +2,7 @@ name: l10n-subs-pot-update
 on:
   push:
     branches:
-      - l10n-crowdin
+      - l10n-ci
     paths:
     - 'l10n/**/en_US.po'
 
