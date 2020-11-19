@@ -2,7 +2,7 @@ name: l10n-subs-pot-update
 on:
   pull_request:
     branches:
-      - l10n-ci
+      - l10n-crowdin
     types:
       - closed
     paths:
