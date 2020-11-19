@@ -10,10 +10,10 @@ msgstr ""
 "X-Crowdin-Project: gl-csk002\n"
 "X-Crowdin-Project-ID: 429668\n"
 "X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /main/l10n/youtube/subtitles/part1/subs.pot\n"
-"X-Crowdin-File-ID: 48\n"
+"X-Crowdin-File: /l10n-ci/l10n/youtube/subtitles/part1/subs.pot\n"
+"X-Crowdin-File-ID: 60\n"
 "Language-Team: Spanish\n"
-"PO-Revision-Date: 2020-11-19 13:05\n"
+"PO-Revision-Date: 2020-11-19 15:12\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
